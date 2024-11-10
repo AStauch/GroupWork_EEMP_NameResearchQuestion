@@ -1,11 +1,11 @@
 ﻿Country,CountryCode,Year,EducationGDPspending
-Afghanistan,AFG,1999,..
-Afghanistan,AFG,2000,..
-Afghanistan,AFG,2001,..
-Afghanistan,AFG,2002,..
-Afghanistan,AFG,2003,..
-Afghanistan,AFG,2004,..
-Afghanistan,AFG,2005,..
+Afghanistan,AFG,1999,NaN
+Afghanistan,AFG,2000,NaN
+Afghanistan,AFG,2001,NaN
+Afghanistan,AFG,2002,NaN
+Afghanistan,AFG,2003,NaN
+Afghanistan,AFG,2004,NaN
+Afghanistan,AFG,2005,NaN
 Afghanistan,AFG,2006,4.684760571
 Afghanistan,AFG,2007,4.174895287
 Afghanistan,AFG,2008,4.383672237
@@ -18,11 +18,11 @@ Afghanistan,AFG,2014,3.695219994
 Afghanistan,AFG,2015,3.255800009
 Afghanistan,AFG,2016,4.543970108
 Afghanistan,AFG,2017,4.343190193
-Afghanistan,AFG,2018,..
-Afghanistan,AFG,2019,..
-Afghanistan,AFG,2020,..
-Afghanistan,AFG,2021,..
-Afghanistan,AFG,2022,..
+Afghanistan,AFG,2018,NaN
+Afghanistan,AFG,2019,NaN
+Afghanistan,AFG,2020,NaN
+Afghanistan,AFG,2021,NaN
+Afghanistan,AFG,2022,NaN
 Albania,ALB,1999,3.592930079
 Albania,ALB,2000,3.430170059
 Albania,ALB,2001,3.458699942
@@ -33,7 +33,7 @@ Albania,ALB,2005,3.281549931
 Albania,ALB,2006,3.191459894
 Albania,ALB,2007,3.275929928
 Albania,ALB,2008,3.509226084
-Albania,ALB,2009,..
+Albania,ALB,2009,NaN
 Albania,ALB,2010,3.41307497
 Albania,ALB,2011,3.240008354
 Albania,ALB,2012,3.30906105
@@ -47,19 +47,19 @@ Albania,ALB,2019,3.916239977
 Albania,ALB,2020,3.342299938
 Albania,ALB,2021,3.022559881
 Albania,ALB,2022,2.744329929
-Algeria,DZA,1999,..
-Algeria,DZA,2000,..
-Algeria,DZA,2001,..
-Algeria,DZA,2002,..
-Algeria,DZA,2003,..
-Algeria,DZA,2004,..
-Algeria,DZA,2005,..
-Algeria,DZA,2006,..
-Algeria,DZA,2007,..
+Algeria,DZA,1999,NaN
+Algeria,DZA,2000,NaN
+Algeria,DZA,2001,NaN
+Algeria,DZA,2002,NaN
+Algeria,DZA,2003,NaN
+Algeria,DZA,2004,NaN
+Algeria,DZA,2005,NaN
+Algeria,DZA,2006,NaN
+Algeria,DZA,2007,NaN
 Algeria,DZA,2008,4.111420155
-Algeria,DZA,2009,..
-Algeria,DZA,2010,..
-Algeria,DZA,2011,..
+Algeria,DZA,2009,NaN
+Algeria,DZA,2010,NaN
+Algeria,DZA,2011,NaN
 Algeria,DZA,2012,7.029509068
 Algeria,DZA,2013,6.659060478
 Algeria,DZA,2014,6.54889822
@@ -71,35 +71,35 @@ Algeria,DZA,2019,5.575365543
 Algeria,DZA,2020,6.193917274
 Algeria,DZA,2021,5.514032841
 Algeria,DZA,2022,4.749246597
-American Samoa,ASM,1999,..
-American Samoa,ASM,2000,..
-American Samoa,ASM,2001,..
-American Samoa,ASM,2002,..
-American Samoa,ASM,2003,..
-American Samoa,ASM,2004,..
-American Samoa,ASM,2005,..
+American Samoa,ASM,1999,NaN
+American Samoa,ASM,2000,NaN
+American Samoa,ASM,2001,NaN
+American Samoa,ASM,2002,NaN
+American Samoa,ASM,2003,NaN
+American Samoa,ASM,2004,NaN
+American Samoa,ASM,2005,NaN
 American Samoa,ASM,2006,14.7170496
-American Samoa,ASM,2007,..
-American Samoa,ASM,2008,..
-American Samoa,ASM,2009,..
-American Samoa,ASM,2010,..
-American Samoa,ASM,2011,..
-American Samoa,ASM,2012,..
-American Samoa,ASM,2013,..
-American Samoa,ASM,2014,..
-American Samoa,ASM,2015,..
-American Samoa,ASM,2016,..
-American Samoa,ASM,2017,..
-American Samoa,ASM,2018,..
-American Samoa,ASM,2019,..
-American Samoa,ASM,2020,..
-American Samoa,ASM,2021,..
-American Samoa,ASM,2022,..
-Andorra,AND,1999,..
-Andorra,AND,2000,..
-Andorra,AND,2001,..
+American Samoa,ASM,2007,NaN
+American Samoa,ASM,2008,NaN
+American Samoa,ASM,2009,NaN
+American Samoa,ASM,2010,NaN
+American Samoa,ASM,2011,NaN
+American Samoa,ASM,2012,NaN
+American Samoa,ASM,2013,NaN
+American Samoa,ASM,2014,NaN
+American Samoa,ASM,2015,NaN
+American Samoa,ASM,2016,NaN
+American Samoa,ASM,2017,NaN
+American Samoa,ASM,2018,NaN
+American Samoa,ASM,2019,NaN
+American Samoa,ASM,2020,NaN
+American Samoa,ASM,2021,NaN
+American Samoa,ASM,2022,NaN
+Andorra,AND,1999,NaN
+Andorra,AND,2000,NaN
+Andorra,AND,2001,NaN
 Andorra,AND,2002,1.65971005
-Andorra,AND,2003,..
+Andorra,AND,2003,NaN
 Andorra,AND,2004,1.544119954
 Andorra,AND,2005,1.644970059
 Andorra,AND,2006,2.244899988
@@ -119,16 +119,16 @@ Andorra,AND,2019,3.15060997
 Andorra,AND,2020,2.632130384
 Andorra,AND,2021,2.583972216
 Andorra,AND,2022,2.647289991
-Angola,AGO,1999,..
+Angola,AGO,1999,NaN
 Angola,AGO,2000,2.607530117
-Angola,AGO,2001,..
-Angola,AGO,2002,..
-Angola,AGO,2003,..
-Angola,AGO,2004,..
+Angola,AGO,2001,NaN
+Angola,AGO,2002,NaN
+Angola,AGO,2003,NaN
+Angola,AGO,2004,NaN
 Angola,AGO,2005,2.120110035
 Angola,AGO,2006,2.281460047
-Angola,AGO,2007,..
-Angola,AGO,2008,..
+Angola,AGO,2007,NaN
+Angola,AGO,2008,NaN
 Angola,AGO,2009,2.920000076
 Angola,AGO,2010,3.421319962
 Angola,AGO,2011,3.24000001
@@ -144,18 +144,18 @@ Angola,AGO,2020,2.667447329
 Angola,AGO,2021,2.297108889
 Angola,AGO,2022,2.332125902
 Antigua and Barbuda,ATG,1999,2.525500059
-Antigua and Barbuda,ATG,2000,..
-Antigua and Barbuda,ATG,2001,..
+Antigua and Barbuda,ATG,2000,NaN
+Antigua and Barbuda,ATG,2001,NaN
 Antigua and Barbuda,ATG,2002,3.079139948
-Antigua and Barbuda,ATG,2003,..
-Antigua and Barbuda,ATG,2004,..
-Antigua and Barbuda,ATG,2005,..
-Antigua and Barbuda,ATG,2006,..
-Antigua and Barbuda,ATG,2007,..
-Antigua and Barbuda,ATG,2008,..
+Antigua and Barbuda,ATG,2003,NaN
+Antigua and Barbuda,ATG,2004,NaN
+Antigua and Barbuda,ATG,2005,NaN
+Antigua and Barbuda,ATG,2006,NaN
+Antigua and Barbuda,ATG,2007,NaN
+Antigua and Barbuda,ATG,2008,NaN
 Antigua and Barbuda,ATG,2009,2.222759962
-Antigua and Barbuda,ATG,2010,..
-Antigua and Barbuda,ATG,2011,..
+Antigua and Barbuda,ATG,2010,NaN
+Antigua and Barbuda,ATG,2011,NaN
 Antigua and Barbuda,ATG,2012,2.356193304
 Antigua and Barbuda,ATG,2013,2.647289991
 Antigua and Barbuda,ATG,2014,2.542487621
@@ -219,10 +219,10 @@ Aruba,ABW,1999,4.395269871
 Aruba,ABW,2000,4.714680195
 Aruba,ABW,2001,4.798980236
 Aruba,ABW,2002,4.872200012
-Aruba,ABW,2003,..
+Aruba,ABW,2003,NaN
 Aruba,ABW,2004,4.356989861
 Aruba,ABW,2005,4.623219967
-Aruba,ABW,2006,..
+Aruba,ABW,2006,NaN
 Aruba,ABW,2007,4.702549934
 Aruba,ABW,2008,4.827300072
 Aruba,ABW,2009,5.797399998
@@ -236,10 +236,10 @@ Aruba,ABW,2016,5.491360188
 Aruba,ABW,2017,4.456180573
 Aruba,ABW,2018,4.548758984
 Aruba,ABW,2019,4.435043335
-Aruba,ABW,2020,..
-Aruba,ABW,2021,..
-Aruba,ABW,2022,..
-Australia,AUS,1999,..
+Aruba,ABW,2020,NaN
+Aruba,ABW,2021,NaN
+Aruba,ABW,2022,NaN
+Australia,AUS,1999,NaN
 Australia,AUS,2000,4.759339809
 Australia,AUS,2001,5.222615719
 Australia,AUS,2002,5.305696487
@@ -311,17 +311,17 @@ Azerbaijan,AZE,2019,3.176460028
 Azerbaijan,AZE,2020,4.332049847
 Azerbaijan,AZE,2021,3.702080011
 Azerbaijan,AZE,2022,3.046900034
-Bahamas,BHS,1999,..
+Bahamas,BHS,1999,NaN
 Bahamas,BHS,2000,2.232840061
-Bahamas,BHS,2001,..
-Bahamas,BHS,2002,..
-Bahamas,BHS,2003,..
-Bahamas,BHS,2004,..
-Bahamas,BHS,2005,..
-Bahamas,BHS,2006,..
-Bahamas,BHS,2007,..
-Bahamas,BHS,2008,..
-Bahamas,BHS,2009,..
+Bahamas,BHS,2001,NaN
+Bahamas,BHS,2002,NaN
+Bahamas,BHS,2003,NaN
+Bahamas,BHS,2004,NaN
+Bahamas,BHS,2005,NaN
+Bahamas,BHS,2006,NaN
+Bahamas,BHS,2007,NaN
+Bahamas,BHS,2008,NaN
+Bahamas,BHS,2009,NaN
 Bahamas,BHS,2010,2.451659918
 Bahamas,BHS,2011,2.355766296
 Bahamas,BHS,2012,2.387045145
@@ -335,17 +335,17 @@ Bahamas,BHS,2019,2.617186308
 Bahamas,BHS,2020,3.790011644
 Bahamas,BHS,2021,3.006932497
 Bahamas,BHS,2022,2.836576223
-Bahrain,BHR,1999,..
-Bahrain,BHR,2000,..
-Bahrain,BHR,2001,..
-Bahrain,BHR,2002,..
-Bahrain,BHR,2003,..
-Bahrain,BHR,2004,..
-Bahrain,BHR,2005,..
+Bahrain,BHR,1999,NaN
+Bahrain,BHR,2000,NaN
+Bahrain,BHR,2001,NaN
+Bahrain,BHR,2002,NaN
+Bahrain,BHR,2003,NaN
+Bahrain,BHR,2004,NaN
+Bahrain,BHR,2005,NaN
 Bahrain,BHR,2006,2.874409914
 Bahrain,BHR,2007,2.575000048
 Bahrain,BHR,2008,2.496779919
-Bahrain,BHR,2009,..
+Bahrain,BHR,2009,NaN
 Bahrain,BHR,2010,2.351149797
 Bahrain,BHR,2011,2.312353849
 Bahrain,BHR,2012,2.645309925
@@ -365,12 +365,12 @@ Bangladesh,BGD,2001,2.171930075
 Bangladesh,BGD,2002,2.017149925
 Bangladesh,BGD,2003,2.069390059
 Bangladesh,BGD,2004,1.940140009
-Bangladesh,BGD,2005,..
+Bangladesh,BGD,2005,NaN
 Bangladesh,BGD,2006,2.131289959
 Bangladesh,BGD,2007,2.202219963
 Bangladesh,BGD,2008,2.05456996
 Bangladesh,BGD,2009,1.939419985
-Bangladesh,BGD,2010,..
+Bangladesh,BGD,2010,NaN
 Bangladesh,BGD,2011,2.132699966
 Bangladesh,BGD,2012,2.046670675
 Bangladesh,BGD,2013,1.966160059
@@ -390,12 +390,12 @@ Barbados,BRB,2002,5.880620003
 Barbados,BRB,2003,6.245699883
 Barbados,BRB,2004,6.024280071
 Barbados,BRB,2005,5.669650078
-Barbados,BRB,2006,..
+Barbados,BRB,2006,NaN
 Barbados,BRB,2007,5.220610142
 Barbados,BRB,2008,4.920740128
 Barbados,BRB,2009,5.1104002
 Barbados,BRB,2010,6.052619934
-Barbados,BRB,2011,..
+Barbados,BRB,2011,NaN
 Barbados,BRB,2012,5.257269859
 Barbados,BRB,2013,5.134860039
 Barbados,BRB,2014,6.121970177
@@ -409,8 +409,8 @@ Barbados,BRB,2021,4.863609791
 Barbados,BRB,2022,4.416240215
 Belarus,BLR,1999,6.000010014
 Belarus,BLR,2000,6.196619987
-Belarus,BLR,2001,..
-Belarus,BLR,2002,..
+Belarus,BLR,2001,NaN
+Belarus,BLR,2002,NaN
 Belarus,BLR,2003,6.310182095
 Belarus,BLR,2004,5.712259769
 Belarus,BLR,2005,5.871029854
@@ -431,7 +431,7 @@ Belarus,BLR,2019,4.979489803
 Belarus,BLR,2020,4.862639904
 Belarus,BLR,2021,4.606410027
 Belarus,BLR,2022,4.628230095
-Belgium,BEL,1999,..
+Belgium,BEL,1999,NaN
 Belgium,BEL,2000,5.532732964
 Belgium,BEL,2001,5.676054955
 Belgium,BEL,2002,5.789683819
@@ -454,16 +454,16 @@ Belgium,BEL,2018,6.381070137
 Belgium,BEL,2019,6.33397007
 Belgium,BEL,2020,6.801859856
 Belgium,BEL,2021,6.355519772
-Belgium,BEL,2022,..
+Belgium,BEL,2022,NaN
 Belize,BLZ,1999,4.047800064
 Belize,BLZ,2000,3.695930004
 Belize,BLZ,2001,4.250659943
-Belize,BLZ,2002,..
+Belize,BLZ,2002,NaN
 Belize,BLZ,2003,3.915649891
 Belize,BLZ,2004,4.026649952
-Belize,BLZ,2005,..
-Belize,BLZ,2006,..
-Belize,BLZ,2007,..
+Belize,BLZ,2005,NaN
+Belize,BLZ,2006,NaN
+Belize,BLZ,2007,NaN
 Belize,BLZ,2008,4.319920063
 Belize,BLZ,2009,4.820539951
 Belize,BLZ,2010,5.264430046
@@ -503,16 +503,16 @@ Benin,BEN,2019,2.965201139
 Benin,BEN,2020,3.094415188
 Benin,BEN,2021,3.203484297
 Benin,BEN,2022,3.377859116
-Bermuda,BMU,1999,..
-Bermuda,BMU,2000,..
-Bermuda,BMU,2001,..
-Bermuda,BMU,2002,..
+Bermuda,BMU,1999,NaN
+Bermuda,BMU,2000,NaN
+Bermuda,BMU,2001,NaN
+Bermuda,BMU,2002,NaN
 Bermuda,BMU,2003,1.666270018
 Bermuda,BMU,2004,1.775879979
 Bermuda,BMU,2005,1.988770008
-Bermuda,BMU,2006,..
-Bermuda,BMU,2007,..
-Bermuda,BMU,2008,..
+Bermuda,BMU,2006,NaN
+Bermuda,BMU,2007,NaN
+Bermuda,BMU,2008,NaN
 Bermuda,BMU,2009,2.289200068
 Bermuda,BMU,2010,2.306689978
 Bermuda,BMU,2011,2.19656992
@@ -527,20 +527,20 @@ Bermuda,BMU,2019,1.926798224
 Bermuda,BMU,2020,1.890087724
 Bermuda,BMU,2021,1.884916902
 Bermuda,BMU,2022,1.922213435
-Bhutan,BTN,1999,..
+Bhutan,BTN,1999,NaN
 Bhutan,BTN,2000,5.786759853
 Bhutan,BTN,2001,5.449850082
-Bhutan,BTN,2002,..
-Bhutan,BTN,2003,..
+Bhutan,BTN,2002,NaN
+Bhutan,BTN,2003,NaN
 Bhutan,BTN,2004,6.123119831
 Bhutan,BTN,2005,6.764200211
-Bhutan,BTN,2006,..
-Bhutan,BTN,2007,..
+Bhutan,BTN,2006,NaN
+Bhutan,BTN,2007,NaN
 Bhutan,BTN,2008,4.569509983
 Bhutan,BTN,2009,4.418879986
 Bhutan,BTN,2010,3.823189974
 Bhutan,BTN,2011,4.407939911
-Bhutan,BTN,2012,..
+Bhutan,BTN,2012,NaN
 Bhutan,BTN,2013,5.255270004
 Bhutan,BTN,2014,5.548999786
 Bhutan,BTN,2015,5.782699108
@@ -551,9 +551,9 @@ Bhutan,BTN,2019,4.509827614
 Bhutan,BTN,2020,5.543412685
 Bhutan,BTN,2021,6.598386288
 Bhutan,BTN,2022,7.469820023
-Bolivia,BOL,1999,..
-Bolivia,BOL,2000,..
-Bolivia,BOL,2001,..
+Bolivia,BOL,1999,NaN
+Bolivia,BOL,2000,NaN
+Bolivia,BOL,2001,NaN
 Bolivia,BOL,2002,7.195047855
 Bolivia,BOL,2003,6.629619122
 Bolivia,BOL,2004,6.847718239
@@ -575,21 +575,21 @@ Bolivia,BOL,2019,8.091039658
 Bolivia,BOL,2020,8.437109947
 Bolivia,BOL,2021,7.962150097
 Bolivia,BOL,2022,7.575500011
-Bosnia and Herzegovina,BIH,1999,..
-Bosnia and Herzegovina,BIH,2000,..
-Bosnia and Herzegovina,BIH,2001,..
-Bosnia and Herzegovina,BIH,2002,..
-Bosnia and Herzegovina,BIH,2003,..
-Bosnia and Herzegovina,BIH,2004,..
-Bosnia and Herzegovina,BIH,2005,..
-Bosnia and Herzegovina,BIH,2006,..
-Bosnia and Herzegovina,BIH,2007,..
-Bosnia and Herzegovina,BIH,2008,..
-Bosnia and Herzegovina,BIH,2009,..
-Bosnia and Herzegovina,BIH,2010,..
-Bosnia and Herzegovina,BIH,2011,..
-Bosnia and Herzegovina,BIH,2012,..
-Bosnia and Herzegovina,BIH,2013,..
+Bosnia and Herzegovina,BIH,1999,NaN
+Bosnia and Herzegovina,BIH,2000,NaN
+Bosnia and Herzegovina,BIH,2001,NaN
+Bosnia and Herzegovina,BIH,2002,NaN
+Bosnia and Herzegovina,BIH,2003,NaN
+Bosnia and Herzegovina,BIH,2004,NaN
+Bosnia and Herzegovina,BIH,2005,NaN
+Bosnia and Herzegovina,BIH,2006,NaN
+Bosnia and Herzegovina,BIH,2007,NaN
+Bosnia and Herzegovina,BIH,2008,NaN
+Bosnia and Herzegovina,BIH,2009,NaN
+Bosnia and Herzegovina,BIH,2010,NaN
+Bosnia and Herzegovina,BIH,2011,NaN
+Bosnia and Herzegovina,BIH,2012,NaN
+Bosnia and Herzegovina,BIH,2013,NaN
 Bosnia and Herzegovina,BIH,2014,3.314739704
 Bosnia and Herzegovina,BIH,2015,3.018112898
 Bosnia and Herzegovina,BIH,2016,4.264510155
@@ -598,19 +598,19 @@ Bosnia and Herzegovina,BIH,2018,3.892970085
 Bosnia and Herzegovina,BIH,2019,4.044499874
 Bosnia and Herzegovina,BIH,2020,3.019540787
 Bosnia and Herzegovina,BIH,2021,4.136229992
-Bosnia and Herzegovina,BIH,2022,..
-Botswana,BWA,1999,..
-Botswana,BWA,2000,..
-Botswana,BWA,2001,..
-Botswana,BWA,2002,..
-Botswana,BWA,2003,..
-Botswana,BWA,2004,..
+Bosnia and Herzegovina,BIH,2022,NaN
+Botswana,BWA,1999,NaN
+Botswana,BWA,2000,NaN
+Botswana,BWA,2001,NaN
+Botswana,BWA,2002,NaN
+Botswana,BWA,2003,NaN
+Botswana,BWA,2004,NaN
 Botswana,BWA,2005,10.67858982
-Botswana,BWA,2006,..
+Botswana,BWA,2006,NaN
 Botswana,BWA,2007,9.04666996
-Botswana,BWA,2008,..
+Botswana,BWA,2008,NaN
 Botswana,BWA,2009,9.825300217
-Botswana,BWA,2010,..
+Botswana,BWA,2010,NaN
 Botswana,BWA,2011,10.82655334
 Botswana,BWA,2012,8.109872818
 Botswana,BWA,2013,8.017206192
@@ -621,13 +621,13 @@ Botswana,BWA,2017,7.809244633
 Botswana,BWA,2018,7.905385971
 Botswana,BWA,2019,8.398996353
 Botswana,BWA,2020,8.058336258
-Botswana,BWA,2021,..
-Botswana,BWA,2022,..
+Botswana,BWA,2021,NaN
+Botswana,BWA,2022,NaN
 Brazil,BRA,1999,3.800620079
 Brazil,BRA,2000,3.948930025
 Brazil,BRA,2001,3.844680071
 Brazil,BRA,2002,3.750370026
-Brazil,BRA,2003,..
+Brazil,BRA,2003,NaN
 Brazil,BRA,2004,3.974479914
 Brazil,BRA,2005,4.4790802
 Brazil,BRA,2006,4.870600224
@@ -646,20 +646,20 @@ Brazil,BRA,2018,6.088510036
 Brazil,BRA,2019,5.963469982
 Brazil,BRA,2020,5.771500111
 Brazil,BRA,2021,5.49698019
-Brazil,BRA,2022,..
-British Virgin Islands,VGB,1999,..
-British Virgin Islands,VGB,2000,..
+Brazil,BRA,2022,NaN
+British Virgin Islands,VGB,1999,NaN
+British Virgin Islands,VGB,2000,NaN
 British Virgin Islands,VGB,2001,2.904769897
-British Virgin Islands,VGB,2002,..
-British Virgin Islands,VGB,2003,..
-British Virgin Islands,VGB,2004,..
+British Virgin Islands,VGB,2002,NaN
+British Virgin Islands,VGB,2003,NaN
+British Virgin Islands,VGB,2004,NaN
 British Virgin Islands,VGB,2005,3.046329975
 British Virgin Islands,VGB,2006,3.514800072
 British Virgin Islands,VGB,2007,3.043669939
-British Virgin Islands,VGB,2008,..
+British Virgin Islands,VGB,2008,NaN
 British Virgin Islands,VGB,2009,3.241650105
 British Virgin Islands,VGB,2010,3.487010002
-British Virgin Islands,VGB,2011,..
+British Virgin Islands,VGB,2011,NaN
 British Virgin Islands,VGB,2012,3.565696001
 British Virgin Islands,VGB,2013,4.469325542
 British Virgin Islands,VGB,2014,4.018388271
@@ -673,29 +673,29 @@ British Virgin Islands,VGB,2021,2.86991334
 British Virgin Islands,VGB,2022,2.484019995
 Brunei Darussalam,BRN,1999,4.932050228
 Brunei Darussalam,BRN,2000,3.705909967
-Brunei Darussalam,BRN,2001,..
-Brunei Darussalam,BRN,2002,..
-Brunei Darussalam,BRN,2003,..
-Brunei Darussalam,BRN,2004,..
-Brunei Darussalam,BRN,2005,..
-Brunei Darussalam,BRN,2006,..
-Brunei Darussalam,BRN,2007,..
-Brunei Darussalam,BRN,2008,..
-Brunei Darussalam,BRN,2009,..
+Brunei Darussalam,BRN,2001,NaN
+Brunei Darussalam,BRN,2002,NaN
+Brunei Darussalam,BRN,2003,NaN
+Brunei Darussalam,BRN,2004,NaN
+Brunei Darussalam,BRN,2005,NaN
+Brunei Darussalam,BRN,2006,NaN
+Brunei Darussalam,BRN,2007,NaN
+Brunei Darussalam,BRN,2008,NaN
+Brunei Darussalam,BRN,2009,NaN
 Brunei Darussalam,BRN,2010,2.046610117
 Brunei Darussalam,BRN,2011,3.322099924
 Brunei Darussalam,BRN,2012,2.889590025
-Brunei Darussalam,BRN,2013,..
+Brunei Darussalam,BRN,2013,NaN
 Brunei Darussalam,BRN,2014,3.353189945
-Brunei Darussalam,BRN,2015,..
+Brunei Darussalam,BRN,2015,NaN
 Brunei Darussalam,BRN,2016,4.425409794
-Brunei Darussalam,BRN,2017,..
-Brunei Darussalam,BRN,2018,..
-Brunei Darussalam,BRN,2019,..
-Brunei Darussalam,BRN,2020,..
-Brunei Darussalam,BRN,2021,..
-Brunei Darussalam,BRN,2022,..
-Bulgaria,BGR,1999,..
+Brunei Darussalam,BRN,2017,NaN
+Brunei Darussalam,BRN,2018,NaN
+Brunei Darussalam,BRN,2019,NaN
+Brunei Darussalam,BRN,2020,NaN
+Brunei Darussalam,BRN,2021,NaN
+Brunei Darussalam,BRN,2022,NaN
+Bulgaria,BGR,1999,NaN
 Bulgaria,BGR,2000,4.219832897
 Bulgaria,BGR,2001,3.384239912
 Bulgaria,BGR,2002,3.386080027
@@ -718,25 +718,25 @@ Bulgaria,BGR,2018,4.047090054
 Bulgaria,BGR,2019,4.199029922
 Bulgaria,BGR,2020,4.505139828
 Bulgaria,BGR,2021,4.73032999
-Bulgaria,BGR,2022,..
-Burkina Faso,BFA,1999,..
-Burkina Faso,BFA,2000,..
-Burkina Faso,BFA,2001,..
-Burkina Faso,BFA,2002,..
-Burkina Faso,BFA,2003,..
-Burkina Faso,BFA,2004,..
+Bulgaria,BGR,2022,NaN
+Burkina Faso,BFA,1999,NaN
+Burkina Faso,BFA,2000,NaN
+Burkina Faso,BFA,2001,NaN
+Burkina Faso,BFA,2002,NaN
+Burkina Faso,BFA,2003,NaN
+Burkina Faso,BFA,2004,NaN
 Burkina Faso,BFA,2005,3.941139936
 Burkina Faso,BFA,2006,3.982189894
 Burkina Faso,BFA,2007,4.07983017
-Burkina Faso,BFA,2008,..
-Burkina Faso,BFA,2009,..
+Burkina Faso,BFA,2008,NaN
+Burkina Faso,BFA,2009,NaN
 Burkina Faso,BFA,2010,3.502229929
 Burkina Faso,BFA,2011,3.985150099
 Burkina Faso,BFA,2012,3.603159904
 Burkina Faso,BFA,2013,4.083439827
 Burkina Faso,BFA,2014,4.053299904
 Burkina Faso,BFA,2015,3.67008996
-Burkina Faso,BFA,2016,..
+Burkina Faso,BFA,2016,NaN
 Burkina Faso,BFA,2017,5.628469944
 Burkina Faso,BFA,2018,5.488609791
 Burkina Faso,BFA,2019,5.407136917
@@ -747,11 +747,11 @@ Burundi,BDI,1999,3.417449951
 Burundi,BDI,2000,2.645479918
 Burundi,BDI,2001,2.903909922
 Burundi,BDI,2002,3.004930019
-Burundi,BDI,2003,..
+Burundi,BDI,2003,NaN
 Burundi,BDI,2004,3.74496007
 Burundi,BDI,2005,3.632159948
-Burundi,BDI,2006,..
-Burundi,BDI,2007,..
+Burundi,BDI,2006,NaN
+Burundi,BDI,2007,NaN
 Burundi,BDI,2008,5.192900181
 Burundi,BDI,2009,6.171949863
 Burundi,BDI,2010,6.678016663
@@ -768,12 +768,12 @@ Burundi,BDI,2020,5.321585178
 Burundi,BDI,2021,4.871141911
 Burundi,BDI,2022,4.821047306
 Cabo Verde,CPV,1999,6.801680088
-Cabo Verde,CPV,2000,..
-Cabo Verde,CPV,2001,..
+Cabo Verde,CPV,2000,NaN
+Cabo Verde,CPV,2001,NaN
 Cabo Verde,CPV,2002,7.876820087
-Cabo Verde,CPV,2003,..
+Cabo Verde,CPV,2003,NaN
 Cabo Verde,CPV,2004,7.476640224
-Cabo Verde,CPV,2005,..
+Cabo Verde,CPV,2005,NaN
 Cabo Verde,CPV,2006,6.529600143
 Cabo Verde,CPV,2007,4.959819794
 Cabo Verde,CPV,2008,5.034649849
@@ -788,19 +788,19 @@ Cabo Verde,CPV,2016,4.754759789
 Cabo Verde,CPV,2017,4.592780113
 Cabo Verde,CPV,2018,4.787922859
 Cabo Verde,CPV,2019,4.165299892
-Cabo Verde,CPV,2020,..
+Cabo Verde,CPV,2020,NaN
 Cabo Verde,CPV,2021,6.037500858
 Cabo Verde,CPV,2022,4.672885418
-Cambodia,KHM,1999,..
+Cambodia,KHM,1999,NaN
 Cambodia,KHM,2000,1.666810036
 Cambodia,KHM,2001,1.722219944
 Cambodia,KHM,2002,1.711210012
-Cambodia,KHM,2003,..
+Cambodia,KHM,2003,NaN
 Cambodia,KHM,2004,1.719820023
-Cambodia,KHM,2005,..
-Cambodia,KHM,2006,..
+Cambodia,KHM,2005,NaN
+Cambodia,KHM,2006,NaN
 Cambodia,KHM,2007,1.599300027
-Cambodia,KHM,2008,..
+Cambodia,KHM,2008,NaN
 Cambodia,KHM,2009,1.665680051
 Cambodia,KHM,2010,1.533789992
 Cambodia,KHM,2011,1.510689974
@@ -815,10 +815,10 @@ Cambodia,KHM,2019,2.825654745
 Cambodia,KHM,2020,3.002350092
 Cambodia,KHM,2021,3.011626482
 Cambodia,KHM,2022,2.883492708
-Cameroon,CMR,1999,..
+Cameroon,CMR,1999,NaN
 Cameroon,CMR,2000,1.702849984
 Cameroon,CMR,2001,2.297339916
-Cameroon,CMR,2002,..
+Cameroon,CMR,2002,NaN
 Cameroon,CMR,2003,2.822590113
 Cameroon,CMR,2004,2.795300007
 Cameroon,CMR,2005,2.65651989
@@ -843,10 +843,10 @@ Canada,CAN,1999,5.530799866
 Canada,CAN,2000,5.423319817
 Canada,CAN,2001,4.953030109
 Canada,CAN,2002,4.993080139
-Canada,CAN,2003,..
-Canada,CAN,2004,..
+Canada,CAN,2003,NaN
+Canada,CAN,2004,NaN
 Canada,CAN,2005,4.765880108
-Canada,CAN,2006,..
+Canada,CAN,2006,NaN
 Canada,CAN,2007,4.766409874
 Canada,CAN,2008,4.62612009
 Canada,CAN,2009,4.840579987
@@ -863,25 +863,25 @@ Canada,CAN,2019,4.772930145
 Canada,CAN,2020,4.887949944
 Canada,CAN,2021,4.748600006
 Canada,CAN,2022,4.139571667
-Cayman Islands,CYM,1999,..
-Cayman Islands,CYM,2000,..
-Cayman Islands,CYM,2001,..
-Cayman Islands,CYM,2002,..
-Cayman Islands,CYM,2003,..
-Cayman Islands,CYM,2004,..
-Cayman Islands,CYM,2005,..
-Cayman Islands,CYM,2006,..
-Cayman Islands,CYM,2007,..
-Cayman Islands,CYM,2008,..
-Cayman Islands,CYM,2009,..
-Cayman Islands,CYM,2010,..
-Cayman Islands,CYM,2011,..
-Cayman Islands,CYM,2012,..
-Cayman Islands,CYM,2013,..
-Cayman Islands,CYM,2014,..
-Cayman Islands,CYM,2015,..
-Cayman Islands,CYM,2016,..
-Cayman Islands,CYM,2017,..
+Cayman Islands,CYM,1999,NaN
+Cayman Islands,CYM,2000,NaN
+Cayman Islands,CYM,2001,NaN
+Cayman Islands,CYM,2002,NaN
+Cayman Islands,CYM,2003,NaN
+Cayman Islands,CYM,2004,NaN
+Cayman Islands,CYM,2005,NaN
+Cayman Islands,CYM,2006,NaN
+Cayman Islands,CYM,2007,NaN
+Cayman Islands,CYM,2008,NaN
+Cayman Islands,CYM,2009,NaN
+Cayman Islands,CYM,2010,NaN
+Cayman Islands,CYM,2011,NaN
+Cayman Islands,CYM,2012,NaN
+Cayman Islands,CYM,2013,NaN
+Cayman Islands,CYM,2014,NaN
+Cayman Islands,CYM,2015,NaN
+Cayman Islands,CYM,2016,NaN
+Cayman Islands,CYM,2017,NaN
 Cayman Islands,CYM,2018,2.163769484
 Cayman Islands,CYM,2019,1.136700034
 Cayman Islands,CYM,2020,1.455420017
@@ -889,7 +889,7 @@ Cayman Islands,CYM,2021,1.312530041
 Cayman Islands,CYM,2022,1.488940001
 Central African Republic,CAF,1999,1.690019965
 Central African Republic,CAF,2000,1.612650037
-Central African Republic,CAF,2001,..
+Central African Republic,CAF,2001,NaN
 Central African Republic,CAF,2002,1.519569993
 Central African Republic,CAF,2003,1.539800048
 Central African Republic,CAF,2004,1.624529958
@@ -914,13 +914,13 @@ Central African Republic,CAF,2022,2.115091324
 Chad,TCD,1999,3.227859974
 Chad,TCD,2000,2.646709919
 Chad,TCD,2001,2.42614007
-Chad,TCD,2002,..
-Chad,TCD,2003,..
+Chad,TCD,2002,NaN
+Chad,TCD,2003,NaN
 Chad,TCD,2004,1.592949986
 Chad,TCD,2005,1.694769979
-Chad,TCD,2006,..
-Chad,TCD,2007,..
-Chad,TCD,2008,..
+Chad,TCD,2006,NaN
+Chad,TCD,2007,NaN
+Chad,TCD,2008,NaN
 Chad,TCD,2009,2.311739922
 Chad,TCD,2010,1.981940031
 Chad,TCD,2011,2.2579
@@ -935,33 +935,33 @@ Chad,TCD,2019,2.372457981
 Chad,TCD,2020,2.739603996
 Chad,TCD,2021,2.88812995
 Chad,TCD,2022,2.538672924
-Channel Islands,CHI,1999,..
-Channel Islands,CHI,2000,..
-Channel Islands,CHI,2001,..
-Channel Islands,CHI,2002,..
-Channel Islands,CHI,2003,..
-Channel Islands,CHI,2004,..
-Channel Islands,CHI,2005,..
-Channel Islands,CHI,2006,..
-Channel Islands,CHI,2007,..
-Channel Islands,CHI,2008,..
-Channel Islands,CHI,2009,..
-Channel Islands,CHI,2010,..
-Channel Islands,CHI,2011,..
-Channel Islands,CHI,2012,..
-Channel Islands,CHI,2013,..
-Channel Islands,CHI,2014,..
-Channel Islands,CHI,2015,..
-Channel Islands,CHI,2016,..
-Channel Islands,CHI,2017,..
-Channel Islands,CHI,2018,..
-Channel Islands,CHI,2019,..
-Channel Islands,CHI,2020,..
-Channel Islands,CHI,2021,..
-Channel Islands,CHI,2022,..
+Channel Islands,CHI,1999,NaN
+Channel Islands,CHI,2000,NaN
+Channel Islands,CHI,2001,NaN
+Channel Islands,CHI,2002,NaN
+Channel Islands,CHI,2003,NaN
+Channel Islands,CHI,2004,NaN
+Channel Islands,CHI,2005,NaN
+Channel Islands,CHI,2006,NaN
+Channel Islands,CHI,2007,NaN
+Channel Islands,CHI,2008,NaN
+Channel Islands,CHI,2009,NaN
+Channel Islands,CHI,2010,NaN
+Channel Islands,CHI,2011,NaN
+Channel Islands,CHI,2012,NaN
+Channel Islands,CHI,2013,NaN
+Channel Islands,CHI,2014,NaN
+Channel Islands,CHI,2015,NaN
+Channel Islands,CHI,2016,NaN
+Channel Islands,CHI,2017,NaN
+Channel Islands,CHI,2018,NaN
+Channel Islands,CHI,2019,NaN
+Channel Islands,CHI,2020,NaN
+Channel Islands,CHI,2021,NaN
+Channel Islands,CHI,2022,NaN
 Chile,CHL,1999,3.708389997
 Chile,CHL,2000,3.757070065
-Chile,CHL,2001,..
+Chile,CHL,2001,NaN
 Chile,CHL,2002,4.048810005
 Chile,CHL,2003,3.918689966
 Chile,CHL,2004,3.543070078
@@ -972,7 +972,7 @@ Chile,CHL,2008,3.79189992
 Chile,CHL,2009,4.254759789
 Chile,CHL,2010,4.189539909
 Chile,CHL,2011,4.061729908
-Chile,CHL,2012,..
+Chile,CHL,2012,NaN
 Chile,CHL,2013,4.548140049
 Chile,CHL,2014,4.751679897
 Chile,CHL,2015,4.903900146
@@ -982,13 +982,13 @@ Chile,CHL,2018,5.473060131
 Chile,CHL,2019,5.626309872
 Chile,CHL,2020,5.629930019
 Chile,CHL,2021,4.999239922
-Chile,CHL,2022,..
+Chile,CHL,2022,NaN
 China,CHN,1999,1.888039947
-China,CHN,2000,..
-China,CHN,2001,..
-China,CHN,2002,..
-China,CHN,2003,..
-China,CHN,2004,..
+China,CHN,2000,NaN
+China,CHN,2001,NaN
+China,CHN,2002,NaN
+China,CHN,2003,NaN
+China,CHN,2004,NaN
 China,CHN,2005,2.391905546
 China,CHN,2006,2.441284418
 China,CHN,2007,2.700734854
@@ -1010,93 +1010,93 @@ China,CHN,2022,4.023569584
 Colombia,COL,1999,4.44080019
 Colombia,COL,2000,3.511209965
 Colombia,COL,2001,3.708679914
-Colombia,COL,2002,..
-Colombia,COL,2003,..
-Colombia,COL,2004,..
-Colombia,COL,2005,..
-Colombia,COL,2006,..
-Colombia,COL,2007,..
-Colombia,COL,2008,..
-Colombia,COL,2009,..
-Colombia,COL,2010,..
-Colombia,COL,2011,..
-Colombia,COL,2012,..
-Colombia,COL,2013,..
-Colombia,COL,2014,..
-Colombia,COL,2015,..
-Colombia,COL,2016,..
-Colombia,COL,2017,..
-Colombia,COL,2018,..
-Colombia,COL,2019,..
-Colombia,COL,2020,..
-Colombia,COL,2021,..
-Colombia,COL,2022,..
-Comoros,COM,1999,..
-Comoros,COM,2000,..
-Comoros,COM,2001,..
+Colombia,COL,2002,NaN
+Colombia,COL,2003,NaN
+Colombia,COL,2004,NaN
+Colombia,COL,2005,NaN
+Colombia,COL,2006,NaN
+Colombia,COL,2007,NaN
+Colombia,COL,2008,NaN
+Colombia,COL,2009,NaN
+Colombia,COL,2010,NaN
+Colombia,COL,2011,NaN
+Colombia,COL,2012,NaN
+Colombia,COL,2013,NaN
+Colombia,COL,2014,NaN
+Colombia,COL,2015,NaN
+Colombia,COL,2016,NaN
+Colombia,COL,2017,NaN
+Colombia,COL,2018,NaN
+Colombia,COL,2019,NaN
+Colombia,COL,2020,NaN
+Colombia,COL,2021,NaN
+Colombia,COL,2022,NaN
+Comoros,COM,1999,NaN
+Comoros,COM,2000,NaN
+Comoros,COM,2001,NaN
 Comoros,COM,2002,2.258419991
-Comoros,COM,2003,..
-Comoros,COM,2004,..
-Comoros,COM,2005,..
-Comoros,COM,2006,..
-Comoros,COM,2007,..
+Comoros,COM,2003,NaN
+Comoros,COM,2004,NaN
+Comoros,COM,2005,NaN
+Comoros,COM,2006,NaN
+Comoros,COM,2007,NaN
 Comoros,COM,2008,4.42264986
-Comoros,COM,2009,..
-Comoros,COM,2010,..
+Comoros,COM,2009,NaN
+Comoros,COM,2010,NaN
 Comoros,COM,2011,2.830450058
 Comoros,COM,2012,2.747839928
 Comoros,COM,2013,2.382760048
 Comoros,COM,2014,2.744729996
 Comoros,COM,2015,2.545059919
-Comoros,COM,2016,..
-Comoros,COM,2017,..
-Comoros,COM,2018,..
-Comoros,COM,2019,..
+Comoros,COM,2016,NaN
+Comoros,COM,2017,NaN
+Comoros,COM,2018,NaN
+Comoros,COM,2019,NaN
 Comoros,COM,2020,2.378050804
 Comoros,COM,2021,2.274853945
 Comoros,COM,2022,2.431644201
-Democratic Republic of Congo,COD,1999,..
-Democratic Republic of Congo,COD,2000,..
-Democratic Republic of Congo,COD,2001,..
-Democratic Republic of Congo,COD,2002,..
-Democratic Republic of Congo,COD,2003,..
-Democratic Republic of Congo,COD,2004,..
-Democratic Republic of Congo,COD,2005,..
-Democratic Republic of Congo,COD,2006,..
-Democratic Republic of Congo,COD,2007,..
-Democratic Republic of Congo,COD,2008,..
-Democratic Republic of Congo,COD,2009,..
+Democratic Republic of Congo,COD,1999,NaN
+Democratic Republic of Congo,COD,2000,NaN
+Democratic Republic of Congo,COD,2001,NaN
+Democratic Republic of Congo,COD,2002,NaN
+Democratic Republic of Congo,COD,2003,NaN
+Democratic Republic of Congo,COD,2004,NaN
+Democratic Republic of Congo,COD,2005,NaN
+Democratic Republic of Congo,COD,2006,NaN
+Democratic Republic of Congo,COD,2007,NaN
+Democratic Republic of Congo,COD,2008,NaN
+Democratic Republic of Congo,COD,2009,NaN
 Democratic Republic of Congo,COD,2010,1.524979949
-Democratic Republic of Congo,COD,2011,..
-Democratic Republic of Congo,COD,2012,..
+Democratic Republic of Congo,COD,2011,NaN
+Democratic Republic of Congo,COD,2012,NaN
 Democratic Republic of Congo,COD,2013,2.062210083
 Democratic Republic of Congo,COD,2014,1.951429963
 Democratic Republic of Congo,COD,2015,2.170439959
 Democratic Republic of Congo,COD,2016,2.118690014
 Democratic Republic of Congo,COD,2017,1.454949975
-Democratic Republic of Congo,COD,2018,..
-Democratic Republic of Congo,COD,2019,..
+Democratic Republic of Congo,COD,2018,NaN
+Democratic Republic of Congo,COD,2019,NaN
 Democratic Republic of Congo,COD,2020,2.622638464
 Democratic Republic of Congo,COD,2021,2.660484791
 Democratic Republic of Congo,COD,2022,3.002521276
-Congo,COG,1999,..
-Congo,COG,2000,..
-Congo,COG,2001,..
+Congo,COG,1999,NaN
+Congo,COG,2000,NaN
+Congo,COG,2001,NaN
 Congo,COG,2002,3.208319902
 Congo,COG,2003,2.836159945
 Congo,COG,2004,2.288130045
 Congo,COG,2005,1.681020021
-Congo,COG,2006,..
-Congo,COG,2007,..
-Congo,COG,2008,..
-Congo,COG,2009,..
+Congo,COG,2006,NaN
+Congo,COG,2007,NaN
+Congo,COG,2008,NaN
+Congo,COG,2009,NaN
 Congo,COG,2010,5.686729908
 Congo,COG,2011,2.646529675
 Congo,COG,2012,2.739230633
-Congo,COG,2013,..
+Congo,COG,2013,NaN
 Congo,COG,2014,3.182569981
 Congo,COG,2015,3.138829947
-Congo,COG,2016,..
+Congo,COG,2016,NaN
 Congo,COG,2017,4.172369957
 Congo,COG,2018,2.771670103
 Congo,COG,2019,3.559468985
@@ -1109,7 +1109,7 @@ Costa Rica,CRI,2001,4.832029819
 Costa Rica,CRI,2002,5.150440216
 Costa Rica,CRI,2003,5.133739948
 Costa Rica,CRI,2004,4.890629768
-Costa Rica,CRI,2005,..
+Costa Rica,CRI,2005,NaN
 Costa Rica,CRI,2006,4.616139889
 Costa Rica,CRI,2007,4.63451004
 Costa Rica,CRI,2008,4.886970043
@@ -1126,7 +1126,7 @@ Costa Rica,CRI,2018,6.769919872
 Costa Rica,CRI,2019,6.738080025
 Costa Rica,CRI,2020,6.62898016
 Costa Rica,CRI,2021,6.248419762
-Costa Rica,CRI,2022,..
+Costa Rica,CRI,2022,NaN
 Cote d'Ivoire,CIV,1999,2.685290098
 Cote d'Ivoire,CIV,2000,2.40031004
 Cote d'Ivoire,CIV,2001,2.444770098
@@ -1151,7 +1151,7 @@ Cote d'Ivoire,CIV,2019,3.413069963
 Cote d'Ivoire,CIV,2020,3.786740065
 Cote d'Ivoire,CIV,2021,3.327189922
 Cote d'Ivoire,CIV,2022,3.511970043
-Croatia,HRV,1999,..
+Croatia,HRV,1999,NaN
 Croatia,HRV,2000,6.112708569
 Croatia,HRV,2001,5.680865288
 Croatia,HRV,2002,3.823009968
@@ -1174,7 +1174,7 @@ Croatia,HRV,2018,3.912090063
 Croatia,HRV,2019,3.920079947
 Croatia,HRV,2020,4.389019966
 Croatia,HRV,2021,4.056660175
-Croatia,HRV,2022,..
+Croatia,HRV,2022,NaN
 Cuba,CUB,1999,6.755239964
 Cuba,CUB,2000,7.704810143
 Cuba,CUB,2001,8.358090401
@@ -1187,42 +1187,42 @@ Cuba,CUB,2007,11.86820984
 Cuba,CUB,2008,14.05908012
 Cuba,CUB,2009,13.12485981
 Cuba,CUB,2010,12.83730984
-Cuba,CUB,2011,..
+Cuba,CUB,2011,NaN
 Cuba,CUB,2012,11.55166054
 Cuba,CUB,2013,10.67169571
 Cuba,CUB,2014,9.607468605
 Cuba,CUB,2015,8.963336945
 Cuba,CUB,2016,9.013133049
-Cuba,CUB,2017,..
-Cuba,CUB,2018,..
+Cuba,CUB,2017,NaN
+Cuba,CUB,2018,NaN
 Cuba,CUB,2019,9.046969414
-Cuba,CUB,2020,..
+Cuba,CUB,2020,NaN
 Cuba,CUB,2021,9.38586235
-Cuba,CUB,2022,..
-Curacao,CUW,1999,..
-Curacao,CUW,2000,..
-Curacao,CUW,2001,..
-Curacao,CUW,2002,..
-Curacao,CUW,2003,..
-Curacao,CUW,2004,..
-Curacao,CUW,2005,..
-Curacao,CUW,2006,..
-Curacao,CUW,2007,..
-Curacao,CUW,2008,..
-Curacao,CUW,2009,..
-Curacao,CUW,2010,..
-Curacao,CUW,2011,..
-Curacao,CUW,2012,..
+Cuba,CUB,2022,NaN
+Curacao,CUW,1999,NaN
+Curacao,CUW,2000,NaN
+Curacao,CUW,2001,NaN
+Curacao,CUW,2002,NaN
+Curacao,CUW,2003,NaN
+Curacao,CUW,2004,NaN
+Curacao,CUW,2005,NaN
+Curacao,CUW,2006,NaN
+Curacao,CUW,2007,NaN
+Curacao,CUW,2008,NaN
+Curacao,CUW,2009,NaN
+Curacao,CUW,2010,NaN
+Curacao,CUW,2011,NaN
+Curacao,CUW,2012,NaN
 Curacao,CUW,2013,5.116330147
-Curacao,CUW,2014,..
-Curacao,CUW,2015,..
-Curacao,CUW,2016,..
-Curacao,CUW,2017,..
-Curacao,CUW,2018,..
-Curacao,CUW,2019,..
-Curacao,CUW,2020,..
-Curacao,CUW,2021,..
-Curacao,CUW,2022,..
+Curacao,CUW,2014,NaN
+Curacao,CUW,2015,NaN
+Curacao,CUW,2016,NaN
+Curacao,CUW,2017,NaN
+Curacao,CUW,2018,NaN
+Curacao,CUW,2019,NaN
+Curacao,CUW,2020,NaN
+Curacao,CUW,2021,NaN
+Curacao,CUW,2022,NaN
 Cyprus,CYP,1999,4.772079945
 Cyprus,CYP,2000,4.9895401
 Cyprus,CYP,2001,5.11552
@@ -1246,7 +1246,7 @@ Cyprus,CYP,2018,5.025352955
 Cyprus,CYP,2019,5.212600231
 Cyprus,CYP,2020,5.636940002
 Cyprus,CYP,2021,5.235859871
-Cyprus,CYP,2022,..
+Cyprus,CYP,2022,NaN
 Czechia,CZE,1999,3.66753006
 Czechia,CZE,2000,3.64034009
 Czechia,CZE,2001,3.732830048
@@ -1270,7 +1270,7 @@ Czechia,CZE,2018,4.266059875
 Czechia,CZE,2019,4.542469978
 Czechia,CZE,2020,4.721590042
 Czechia,CZE,2021,4.803199768
-Czechia,CZE,2022,..
+Czechia,CZE,2022,NaN
 Denmark,DNK,1999,7.931159973
 Denmark,DNK,2000,8.084340096
 Denmark,DNK,2001,8.215450287
@@ -1304,10 +1304,10 @@ Djibouti,DJI,2004,9.264670372
 Djibouti,DJI,2005,8.365889549
 Djibouti,DJI,2006,8.278779984
 Djibouti,DJI,2007,8.40625
-Djibouti,DJI,2008,..
-Djibouti,DJI,2009,..
+Djibouti,DJI,2008,NaN
+Djibouti,DJI,2009,NaN
 Djibouti,DJI,2010,4.49022007
-Djibouti,DJI,2011,..
+Djibouti,DJI,2011,NaN
 Djibouti,DJI,2012,6.351275444
 Djibouti,DJI,2013,4.647825241
 Djibouti,DJI,2014,4.384075165
@@ -1315,23 +1315,23 @@ Djibouti,DJI,2015,3.598949909
 Djibouti,DJI,2016,3.922260046
 Djibouti,DJI,2017,3.733449936
 Djibouti,DJI,2018,3.751430035
-Djibouti,DJI,2019,..
-Djibouti,DJI,2020,..
-Djibouti,DJI,2021,..
-Djibouti,DJI,2022,..
+Djibouti,DJI,2019,NaN
+Djibouti,DJI,2020,NaN
+Djibouti,DJI,2021,NaN
+Djibouti,DJI,2022,NaN
 Dominica,DMA,1999,4.028580189
-Dominica,DMA,2000,..
-Dominica,DMA,2001,..
-Dominica,DMA,2002,..
-Dominica,DMA,2003,..
-Dominica,DMA,2004,..
-Dominica,DMA,2005,..
-Dominica,DMA,2006,..
-Dominica,DMA,2007,..
-Dominica,DMA,2008,..
-Dominica,DMA,2009,..
-Dominica,DMA,2010,..
-Dominica,DMA,2011,..
+Dominica,DMA,2000,NaN
+Dominica,DMA,2001,NaN
+Dominica,DMA,2002,NaN
+Dominica,DMA,2003,NaN
+Dominica,DMA,2004,NaN
+Dominica,DMA,2005,NaN
+Dominica,DMA,2006,NaN
+Dominica,DMA,2007,NaN
+Dominica,DMA,2008,NaN
+Dominica,DMA,2009,NaN
+Dominica,DMA,2010,NaN
+Dominica,DMA,2011,NaN
 Dominica,DMA,2012,4.393104553
 Dominica,DMA,2013,4.464482784
 Dominica,DMA,2014,4.5245924
@@ -1343,20 +1343,20 @@ Dominica,DMA,2019,5.534490108
 Dominica,DMA,2020,4.69630003
 Dominica,DMA,2021,5.465845108
 Dominica,DMA,2022,6.043142319
-Dominican Republic,DOM,1999,..
+Dominican Republic,DOM,1999,NaN
 Dominican Republic,DOM,2000,1.888290048
 Dominican Republic,DOM,2001,1.967829943
 Dominican Republic,DOM,2002,1.914010048
 Dominican Republic,DOM,2003,1.84465003
-Dominican Republic,DOM,2004,..
-Dominican Republic,DOM,2005,..
-Dominican Republic,DOM,2006,..
+Dominican Republic,DOM,2004,NaN
+Dominican Republic,DOM,2005,NaN
+Dominican Republic,DOM,2006,NaN
 Dominican Republic,DOM,2007,2.046789885
-Dominican Republic,DOM,2008,..
-Dominican Republic,DOM,2009,..
+Dominican Republic,DOM,2008,NaN
+Dominican Republic,DOM,2009,NaN
 Dominican Republic,DOM,2010,1.887287855
 Dominican Republic,DOM,2011,1.87925756
-Dominican Republic,DOM,2012,..
+Dominican Republic,DOM,2012,NaN
 Dominican Republic,DOM,2013,3.628181458
 Dominican Republic,DOM,2014,3.622434378
 Dominican Republic,DOM,2015,3.604002714
@@ -1369,14 +1369,14 @@ Dominican Republic,DOM,2021,3.747313499
 Dominican Republic,DOM,2022,3.940271378
 Ecuador,ECU,1999,1.547340035
 Ecuador,ECU,2000,1.202659965
-Ecuador,ECU,2001,..
-Ecuador,ECU,2002,..
-Ecuador,ECU,2003,..
-Ecuador,ECU,2004,..
-Ecuador,ECU,2005,..
-Ecuador,ECU,2006,..
-Ecuador,ECU,2007,..
-Ecuador,ECU,2008,..
+Ecuador,ECU,2001,NaN
+Ecuador,ECU,2002,NaN
+Ecuador,ECU,2003,NaN
+Ecuador,ECU,2004,NaN
+Ecuador,ECU,2005,NaN
+Ecuador,ECU,2006,NaN
+Ecuador,ECU,2007,NaN
+Ecuador,ECU,2008,NaN
 Ecuador,ECU,2009,4.5176301
 Ecuador,ECU,2010,4.600289822
 Ecuador,ECU,2011,4.744249821
@@ -1391,9 +1391,9 @@ Ecuador,ECU,2019,4.245779991
 Ecuador,ECU,2020,4.261030197
 Ecuador,ECU,2021,3.647769928
 Ecuador,ECU,2022,3.59897995
-Egypt,EGY,1999,..
-Egypt,EGY,2000,..
-Egypt,EGY,2001,..
+Egypt,EGY,1999,NaN
+Egypt,EGY,2000,NaN
+Egypt,EGY,2001,NaN
 Egypt,EGY,2002,4.795883656
 Egypt,EGY,2003,4.945630074
 Egypt,EGY,2004,4.6707201
@@ -1408,19 +1408,19 @@ Egypt,EGY,2012,3.368304729
 Egypt,EGY,2013,4.122526169
 Egypt,EGY,2014,4.251385689
 Egypt,EGY,2015,3.930848122
-Egypt,EGY,2016,..
-Egypt,EGY,2017,..
-Egypt,EGY,2018,..
-Egypt,EGY,2019,..
-Egypt,EGY,2020,..
-Egypt,EGY,2021,..
-Egypt,EGY,2022,..
+Egypt,EGY,2016,NaN
+Egypt,EGY,2017,NaN
+Egypt,EGY,2018,NaN
+Egypt,EGY,2019,NaN
+Egypt,EGY,2020,NaN
+Egypt,EGY,2021,NaN
+Egypt,EGY,2022,NaN
 El Salvador,SLV,1999,2.562609911
 El Salvador,SLV,2000,2.838680029
-El Salvador,SLV,2001,..
+El Salvador,SLV,2001,NaN
 El Salvador,SLV,2002,3.242840052
 El Salvador,SLV,2003,3.134670019
-El Salvador,SLV,2004,..
+El Salvador,SLV,2004,NaN
 El Salvador,SLV,2005,3.177850008
 El Salvador,SLV,2006,3.492980003
 El Salvador,SLV,2007,3.60984993
@@ -1439,54 +1439,54 @@ El Salvador,SLV,2019,3.387109995
 El Salvador,SLV,2020,3.660880089
 El Salvador,SLV,2021,3.577660084
 El Salvador,SLV,2022,3.256340027
-Equatorial Guinea,GNQ,1999,..
-Equatorial Guinea,GNQ,2000,..
-Equatorial Guinea,GNQ,2001,..
-Equatorial Guinea,GNQ,2002,..
-Equatorial Guinea,GNQ,2003,..
-Equatorial Guinea,GNQ,2004,..
-Equatorial Guinea,GNQ,2005,..
-Equatorial Guinea,GNQ,2006,..
-Equatorial Guinea,GNQ,2007,..
-Equatorial Guinea,GNQ,2008,..
-Equatorial Guinea,GNQ,2009,..
-Equatorial Guinea,GNQ,2010,..
-Equatorial Guinea,GNQ,2011,..
-Equatorial Guinea,GNQ,2012,..
-Equatorial Guinea,GNQ,2013,..
-Equatorial Guinea,GNQ,2014,..
-Equatorial Guinea,GNQ,2015,..
-Equatorial Guinea,GNQ,2016,..
-Equatorial Guinea,GNQ,2017,..
-Equatorial Guinea,GNQ,2018,..
-Equatorial Guinea,GNQ,2019,..
-Equatorial Guinea,GNQ,2020,..
-Equatorial Guinea,GNQ,2021,..
-Equatorial Guinea,GNQ,2022,..
+Equatorial Guinea,GNQ,1999,NaN
+Equatorial Guinea,GNQ,2000,NaN
+Equatorial Guinea,GNQ,2001,NaN
+Equatorial Guinea,GNQ,2002,NaN
+Equatorial Guinea,GNQ,2003,NaN
+Equatorial Guinea,GNQ,2004,NaN
+Equatorial Guinea,GNQ,2005,NaN
+Equatorial Guinea,GNQ,2006,NaN
+Equatorial Guinea,GNQ,2007,NaN
+Equatorial Guinea,GNQ,2008,NaN
+Equatorial Guinea,GNQ,2009,NaN
+Equatorial Guinea,GNQ,2010,NaN
+Equatorial Guinea,GNQ,2011,NaN
+Equatorial Guinea,GNQ,2012,NaN
+Equatorial Guinea,GNQ,2013,NaN
+Equatorial Guinea,GNQ,2014,NaN
+Equatorial Guinea,GNQ,2015,NaN
+Equatorial Guinea,GNQ,2016,NaN
+Equatorial Guinea,GNQ,2017,NaN
+Equatorial Guinea,GNQ,2018,NaN
+Equatorial Guinea,GNQ,2019,NaN
+Equatorial Guinea,GNQ,2020,NaN
+Equatorial Guinea,GNQ,2021,NaN
+Equatorial Guinea,GNQ,2022,NaN
 Eritrea,ERI,1999,5.26281023
-Eritrea,ERI,2000,..
+Eritrea,ERI,2000,NaN
 Eritrea,ERI,2001,4.047160149
 Eritrea,ERI,2002,3.523900032
-Eritrea,ERI,2003,..
+Eritrea,ERI,2003,NaN
 Eritrea,ERI,2004,3.148969889
-Eritrea,ERI,2005,..
+Eritrea,ERI,2005,NaN
 Eritrea,ERI,2006,2.127000093
-Eritrea,ERI,2007,..
-Eritrea,ERI,2008,..
-Eritrea,ERI,2009,..
-Eritrea,ERI,2010,..
-Eritrea,ERI,2011,..
-Eritrea,ERI,2012,..
-Eritrea,ERI,2013,..
-Eritrea,ERI,2014,..
-Eritrea,ERI,2015,..
-Eritrea,ERI,2016,..
-Eritrea,ERI,2017,..
-Eritrea,ERI,2018,..
-Eritrea,ERI,2019,..
-Eritrea,ERI,2020,..
-Eritrea,ERI,2021,..
-Eritrea,ERI,2022,..
+Eritrea,ERI,2007,NaN
+Eritrea,ERI,2008,NaN
+Eritrea,ERI,2009,NaN
+Eritrea,ERI,2010,NaN
+Eritrea,ERI,2011,NaN
+Eritrea,ERI,2012,NaN
+Eritrea,ERI,2013,NaN
+Eritrea,ERI,2014,NaN
+Eritrea,ERI,2015,NaN
+Eritrea,ERI,2016,NaN
+Eritrea,ERI,2017,NaN
+Eritrea,ERI,2018,NaN
+Eritrea,ERI,2019,NaN
+Eritrea,ERI,2020,NaN
+Eritrea,ERI,2021,NaN
+Eritrea,ERI,2022,NaN
 Estonia,EST,1999,6.652490139
 Estonia,EST,2000,5.339459896
 Estonia,EST,2001,5.228459835
@@ -1510,7 +1510,7 @@ Estonia,EST,2018,5.239970207
 Estonia,EST,2019,5.260419846
 Estonia,EST,2020,5.52696991
 Estonia,EST,2021,5.26320982
-Estonia,EST,2022,..
+Estonia,EST,2022,NaN
 Eswatini,SWZ,1999,5.090950012
 Eswatini,SWZ,2000,5.508480072
 Eswatini,SWZ,2001,4.838240147
@@ -1519,7 +1519,7 @@ Eswatini,SWZ,2003,5.816770077
 Eswatini,SWZ,2004,5.401609898
 Eswatini,SWZ,2005,6.484620094
 Eswatini,SWZ,2006,6.554759979
-Eswatini,SWZ,2007,..
+Eswatini,SWZ,2007,NaN
 Eswatini,SWZ,2008,6.618120193
 Eswatini,SWZ,2009,6.471350193
 Eswatini,SWZ,2010,6.118370056
@@ -1535,13 +1535,13 @@ Eswatini,SWZ,2019,5.699148178
 Eswatini,SWZ,2020,5.360104561
 Eswatini,SWZ,2021,5.287148952
 Eswatini,SWZ,2022,5.692605972
-Ethiopia,ETH,1999,..
+Ethiopia,ETH,1999,NaN
 Ethiopia,ETH,2000,3.886149883
 Ethiopia,ETH,2001,3.700289965
 Ethiopia,ETH,2002,3.632450104
-Ethiopia,ETH,2003,..
-Ethiopia,ETH,2004,..
-Ethiopia,ETH,2005,..
+Ethiopia,ETH,2003,NaN
+Ethiopia,ETH,2004,NaN
+Ethiopia,ETH,2005,NaN
 Ethiopia,ETH,2006,5.490960121
 Ethiopia,ETH,2007,5.451129913
 Ethiopia,ETH,2008,5.408199787
@@ -1559,42 +1559,42 @@ Ethiopia,ETH,2019,4.480869293
 Ethiopia,ETH,2020,4.090565205
 Ethiopia,ETH,2021,4.065248966
 Ethiopia,ETH,2022,3.736495018
-Faroe Islands,FRO,1999,..
-Faroe Islands,FRO,2000,..
-Faroe Islands,FRO,2001,..
-Faroe Islands,FRO,2002,..
-Faroe Islands,FRO,2003,..
-Faroe Islands,FRO,2004,..
-Faroe Islands,FRO,2005,..
-Faroe Islands,FRO,2006,..
-Faroe Islands,FRO,2007,..
-Faroe Islands,FRO,2008,..
-Faroe Islands,FRO,2009,..
-Faroe Islands,FRO,2010,..
-Faroe Islands,FRO,2011,..
-Faroe Islands,FRO,2012,..
-Faroe Islands,FRO,2013,..
-Faroe Islands,FRO,2014,..
-Faroe Islands,FRO,2015,..
-Faroe Islands,FRO,2016,..
-Faroe Islands,FRO,2017,..
-Faroe Islands,FRO,2018,..
-Faroe Islands,FRO,2019,..
-Faroe Islands,FRO,2020,..
-Faroe Islands,FRO,2021,..
-Faroe Islands,FRO,2022,..
+Faroe Islands,FRO,1999,NaN
+Faroe Islands,FRO,2000,NaN
+Faroe Islands,FRO,2001,NaN
+Faroe Islands,FRO,2002,NaN
+Faroe Islands,FRO,2003,NaN
+Faroe Islands,FRO,2004,NaN
+Faroe Islands,FRO,2005,NaN
+Faroe Islands,FRO,2006,NaN
+Faroe Islands,FRO,2007,NaN
+Faroe Islands,FRO,2008,NaN
+Faroe Islands,FRO,2009,NaN
+Faroe Islands,FRO,2010,NaN
+Faroe Islands,FRO,2011,NaN
+Faroe Islands,FRO,2012,NaN
+Faroe Islands,FRO,2013,NaN
+Faroe Islands,FRO,2014,NaN
+Faroe Islands,FRO,2015,NaN
+Faroe Islands,FRO,2016,NaN
+Faroe Islands,FRO,2017,NaN
+Faroe Islands,FRO,2018,NaN
+Faroe Islands,FRO,2019,NaN
+Faroe Islands,FRO,2020,NaN
+Faroe Islands,FRO,2021,NaN
+Faroe Islands,FRO,2022,NaN
 Fiji,FJI,1999,5.168640137
 Fiji,FJI,2000,5.877739906
 Fiji,FJI,2001,5.643109798
 Fiji,FJI,2002,6.275869846
-Fiji,FJI,2003,..
+Fiji,FJI,2003,NaN
 Fiji,FJI,2004,6.209159851
 Fiji,FJI,2005,5.167059898
 Fiji,FJI,2006,5.655320168
 Fiji,FJI,2007,5.894720078
 Fiji,FJI,2008,4.25357008
 Fiji,FJI,2009,4.498479843
-Fiji,FJI,2010,..
+Fiji,FJI,2010,NaN
 Fiji,FJI,2011,4.17305994
 Fiji,FJI,2012,4.46150589
 Fiji,FJI,2013,4.351394176
@@ -1630,8 +1630,8 @@ Finland,FIN,2018,6.275579929
 Finland,FIN,2019,6.416950226
 Finland,FIN,2020,6.634940147
 Finland,FIN,2021,6.538259983
-Finland,FIN,2022,..
-France,FRA,1999,..
+Finland,FIN,2022,NaN
+France,FRA,1999,NaN
 France,FRA,2000,5.60021925
 France,FRA,2001,5.617800236
 France,FRA,2002,5.780975342
@@ -1654,42 +1654,42 @@ France,FRA,2018,5.407169819
 France,FRA,2019,5.354430199
 France,FRA,2020,5.659810066
 France,FRA,2021,5.430389881
-France,FRA,2022,..
-French Polynesia,PYF,1999,..
-French Polynesia,PYF,2000,..
-French Polynesia,PYF,2001,..
-French Polynesia,PYF,2002,..
-French Polynesia,PYF,2003,..
-French Polynesia,PYF,2004,..
-French Polynesia,PYF,2005,..
-French Polynesia,PYF,2006,..
-French Polynesia,PYF,2007,..
-French Polynesia,PYF,2008,..
-French Polynesia,PYF,2009,..
-French Polynesia,PYF,2010,..
-French Polynesia,PYF,2011,..
-French Polynesia,PYF,2012,..
-French Polynesia,PYF,2013,..
-French Polynesia,PYF,2014,..
-French Polynesia,PYF,2015,..
-French Polynesia,PYF,2016,..
-French Polynesia,PYF,2017,..
-French Polynesia,PYF,2018,..
-French Polynesia,PYF,2019,..
-French Polynesia,PYF,2020,..
-French Polynesia,PYF,2021,..
-French Polynesia,PYF,2022,..
+France,FRA,2022,NaN
+French Polynesia,PYF,1999,NaN
+French Polynesia,PYF,2000,NaN
+French Polynesia,PYF,2001,NaN
+French Polynesia,PYF,2002,NaN
+French Polynesia,PYF,2003,NaN
+French Polynesia,PYF,2004,NaN
+French Polynesia,PYF,2005,NaN
+French Polynesia,PYF,2006,NaN
+French Polynesia,PYF,2007,NaN
+French Polynesia,PYF,2008,NaN
+French Polynesia,PYF,2009,NaN
+French Polynesia,PYF,2010,NaN
+French Polynesia,PYF,2011,NaN
+French Polynesia,PYF,2012,NaN
+French Polynesia,PYF,2013,NaN
+French Polynesia,PYF,2014,NaN
+French Polynesia,PYF,2015,NaN
+French Polynesia,PYF,2016,NaN
+French Polynesia,PYF,2017,NaN
+French Polynesia,PYF,2018,NaN
+French Polynesia,PYF,2019,NaN
+French Polynesia,PYF,2020,NaN
+French Polynesia,PYF,2021,NaN
+French Polynesia,PYF,2022,NaN
 Gabon,GAB,1999,3.081229925
 Gabon,GAB,2000,3.827090025
-Gabon,GAB,2001,..
-Gabon,GAB,2002,..
-Gabon,GAB,2003,..
-Gabon,GAB,2004,..
-Gabon,GAB,2005,..
-Gabon,GAB,2006,..
-Gabon,GAB,2007,..
-Gabon,GAB,2008,..
-Gabon,GAB,2009,..
+Gabon,GAB,2001,NaN
+Gabon,GAB,2002,NaN
+Gabon,GAB,2003,NaN
+Gabon,GAB,2004,NaN
+Gabon,GAB,2005,NaN
+Gabon,GAB,2006,NaN
+Gabon,GAB,2007,NaN
+Gabon,GAB,2008,NaN
+Gabon,GAB,2009,NaN
 Gabon,GAB,2010,3.078089952
 Gabon,GAB,2011,2.987459898
 Gabon,GAB,2012,3.013400078
@@ -1751,7 +1751,7 @@ Georgia,GEO,2019,3.829859972
 Georgia,GEO,2020,3.849859238
 Georgia,GEO,2021,3.594419956
 Georgia,GEO,2022,3.754980087
-Germany,DEU,1999,..
+Germany,DEU,1999,NaN
 Germany,DEU,2000,4.068152428
 Germany,DEU,2001,4.147081375
 Germany,DEU,2002,4.163057327
@@ -1776,10 +1776,10 @@ Germany,DEU,2020,5.590380192
 Germany,DEU,2021,5.454889774
 Germany,DEU,2022,4.543890476
 Ghana,GHA,1999,4.110370159
-Ghana,GHA,2000,..
+Ghana,GHA,2000,NaN
 Ghana,GHA,2001,5.354440212
-Ghana,GHA,2002,..
-Ghana,GHA,2003,..
+Ghana,GHA,2002,NaN
+Ghana,GHA,2003,NaN
 Ghana,GHA,2004,7.535580158
 Ghana,GHA,2005,7.42208004
 Ghana,GHA,2006,5.147940159
@@ -1799,30 +1799,30 @@ Ghana,GHA,2019,3.153071165
 Ghana,GHA,2020,3.409159899
 Ghana,GHA,2021,3.41949439
 Ghana,GHA,2022,2.905294418
-Gibraltar,GIB,1999,..
-Gibraltar,GIB,2000,..
-Gibraltar,GIB,2001,..
-Gibraltar,GIB,2002,..
-Gibraltar,GIB,2003,..
-Gibraltar,GIB,2004,..
-Gibraltar,GIB,2005,..
-Gibraltar,GIB,2006,..
-Gibraltar,GIB,2007,..
-Gibraltar,GIB,2008,..
-Gibraltar,GIB,2009,..
-Gibraltar,GIB,2010,..
-Gibraltar,GIB,2011,..
-Gibraltar,GIB,2012,..
-Gibraltar,GIB,2013,..
-Gibraltar,GIB,2014,..
-Gibraltar,GIB,2015,..
-Gibraltar,GIB,2016,..
-Gibraltar,GIB,2017,..
-Gibraltar,GIB,2018,..
-Gibraltar,GIB,2019,..
-Gibraltar,GIB,2020,..
-Gibraltar,GIB,2021,..
-Gibraltar,GIB,2022,..
+Gibraltar,GIB,1999,NaN
+Gibraltar,GIB,2000,NaN
+Gibraltar,GIB,2001,NaN
+Gibraltar,GIB,2002,NaN
+Gibraltar,GIB,2003,NaN
+Gibraltar,GIB,2004,NaN
+Gibraltar,GIB,2005,NaN
+Gibraltar,GIB,2006,NaN
+Gibraltar,GIB,2007,NaN
+Gibraltar,GIB,2008,NaN
+Gibraltar,GIB,2009,NaN
+Gibraltar,GIB,2010,NaN
+Gibraltar,GIB,2011,NaN
+Gibraltar,GIB,2012,NaN
+Gibraltar,GIB,2013,NaN
+Gibraltar,GIB,2014,NaN
+Gibraltar,GIB,2015,NaN
+Gibraltar,GIB,2016,NaN
+Gibraltar,GIB,2017,NaN
+Gibraltar,GIB,2018,NaN
+Gibraltar,GIB,2019,NaN
+Gibraltar,GIB,2020,NaN
+Gibraltar,GIB,2021,NaN
+Gibraltar,GIB,2022,NaN
 Greece,GRC,1999,3.027729988
 Greece,GRC,2000,3.230190039
 Greece,GRC,2001,3.364579916
@@ -1846,90 +1846,90 @@ Greece,GRC,2018,3.597340107
 Greece,GRC,2019,3.586129904
 Greece,GRC,2020,4.495000362
 Greece,GRC,2021,4.082014561
-Greece,GRC,2022,..
-Greenland,GRL,1999,..
-Greenland,GRL,2000,..
-Greenland,GRL,2001,..
-Greenland,GRL,2002,..
-Greenland,GRL,2003,..
-Greenland,GRL,2004,..
-Greenland,GRL,2005,..
-Greenland,GRL,2006,..
-Greenland,GRL,2007,..
-Greenland,GRL,2008,..
-Greenland,GRL,2009,..
-Greenland,GRL,2010,..
-Greenland,GRL,2011,..
-Greenland,GRL,2012,..
-Greenland,GRL,2013,..
-Greenland,GRL,2014,..
-Greenland,GRL,2015,..
-Greenland,GRL,2016,..
-Greenland,GRL,2017,..
-Greenland,GRL,2018,..
-Greenland,GRL,2019,..
-Greenland,GRL,2020,..
-Greenland,GRL,2021,..
-Greenland,GRL,2022,..
-Grenada,GRD,1999,..
-Grenada,GRD,2000,..
-Grenada,GRD,2001,..
-Grenada,GRD,2002,..
+Greece,GRC,2022,NaN
+Greenland,GRL,1999,NaN
+Greenland,GRL,2000,NaN
+Greenland,GRL,2001,NaN
+Greenland,GRL,2002,NaN
+Greenland,GRL,2003,NaN
+Greenland,GRL,2004,NaN
+Greenland,GRL,2005,NaN
+Greenland,GRL,2006,NaN
+Greenland,GRL,2007,NaN
+Greenland,GRL,2008,NaN
+Greenland,GRL,2009,NaN
+Greenland,GRL,2010,NaN
+Greenland,GRL,2011,NaN
+Greenland,GRL,2012,NaN
+Greenland,GRL,2013,NaN
+Greenland,GRL,2014,NaN
+Greenland,GRL,2015,NaN
+Greenland,GRL,2016,NaN
+Greenland,GRL,2017,NaN
+Greenland,GRL,2018,NaN
+Greenland,GRL,2019,NaN
+Greenland,GRL,2020,NaN
+Greenland,GRL,2021,NaN
+Greenland,GRL,2022,NaN
+Grenada,GRD,1999,NaN
+Grenada,GRD,2000,NaN
+Grenada,GRD,2001,NaN
+Grenada,GRD,2002,NaN
 Grenada,GRD,2003,3.926739931
-Grenada,GRD,2004,..
-Grenada,GRD,2005,..
-Grenada,GRD,2006,..
-Grenada,GRD,2007,..
-Grenada,GRD,2008,..
-Grenada,GRD,2009,..
+Grenada,GRD,2004,NaN
+Grenada,GRD,2005,NaN
+Grenada,GRD,2006,NaN
+Grenada,GRD,2007,NaN
+Grenada,GRD,2008,NaN
+Grenada,GRD,2009,NaN
 Grenada,GRD,2010,5.075082302
 Grenada,GRD,2011,5.485323429
 Grenada,GRD,2012,5.072258949
-Grenada,GRD,2013,..
+Grenada,GRD,2013,NaN
 Grenada,GRD,2014,4.477565765
 Grenada,GRD,2015,4.238610268
-Grenada,GRD,2016,..
+Grenada,GRD,2016,NaN
 Grenada,GRD,2017,3.173799992
 Grenada,GRD,2018,3.559193373
-Grenada,GRD,2019,..
-Grenada,GRD,2020,..
+Grenada,GRD,2019,NaN
+Grenada,GRD,2020,NaN
 Grenada,GRD,2021,4.090303421
 Grenada,GRD,2022,3.935364962
-Guam,GUM,1999,..
-Guam,GUM,2000,..
-Guam,GUM,2001,..
-Guam,GUM,2002,..
-Guam,GUM,2003,..
-Guam,GUM,2004,..
-Guam,GUM,2005,..
-Guam,GUM,2006,..
-Guam,GUM,2007,..
-Guam,GUM,2008,..
-Guam,GUM,2009,..
-Guam,GUM,2010,..
-Guam,GUM,2011,..
-Guam,GUM,2012,..
-Guam,GUM,2013,..
-Guam,GUM,2014,..
-Guam,GUM,2015,..
-Guam,GUM,2016,..
-Guam,GUM,2017,..
-Guam,GUM,2018,..
-Guam,GUM,2019,..
-Guam,GUM,2020,..
-Guam,GUM,2021,..
-Guam,GUM,2022,..
-Guatemala,GTM,1999,..
-Guatemala,GTM,2000,..
-Guatemala,GTM,2001,..
-Guatemala,GTM,2002,..
-Guatemala,GTM,2003,..
-Guatemala,GTM,2004,..
-Guatemala,GTM,2005,..
+Guam,GUM,1999,NaN
+Guam,GUM,2000,NaN
+Guam,GUM,2001,NaN
+Guam,GUM,2002,NaN
+Guam,GUM,2003,NaN
+Guam,GUM,2004,NaN
+Guam,GUM,2005,NaN
+Guam,GUM,2006,NaN
+Guam,GUM,2007,NaN
+Guam,GUM,2008,NaN
+Guam,GUM,2009,NaN
+Guam,GUM,2010,NaN
+Guam,GUM,2011,NaN
+Guam,GUM,2012,NaN
+Guam,GUM,2013,NaN
+Guam,GUM,2014,NaN
+Guam,GUM,2015,NaN
+Guam,GUM,2016,NaN
+Guam,GUM,2017,NaN
+Guam,GUM,2018,NaN
+Guam,GUM,2019,NaN
+Guam,GUM,2020,NaN
+Guam,GUM,2021,NaN
+Guam,GUM,2022,NaN
+Guatemala,GTM,1999,NaN
+Guatemala,GTM,2000,NaN
+Guatemala,GTM,2001,NaN
+Guatemala,GTM,2002,NaN
+Guatemala,GTM,2003,NaN
+Guatemala,GTM,2004,NaN
+Guatemala,GTM,2005,NaN
 Guatemala,GTM,2006,3.032850027
 Guatemala,GTM,2007,3.088089943
 Guatemala,GTM,2008,3.236860037
-Guatemala,GTM,2009,..
+Guatemala,GTM,2009,NaN
 Guatemala,GTM,2010,2.848649979
 Guatemala,GTM,2011,2.968650103
 Guatemala,GTM,2012,3.005249977
@@ -1950,8 +1950,8 @@ Guinea,GIN,2002,1.778970003
 Guinea,GIN,2003,1.626129985
 Guinea,GIN,2004,1.515689969
 Guinea,GIN,2005,1.268149972
-Guinea,GIN,2006,..
-Guinea,GIN,2007,..
+Guinea,GIN,2006,NaN
+Guinea,GIN,2007,NaN
 Guinea,GIN,2008,1.581120014
 Guinea,GIN,2009,2.207250118
 Guinea,GIN,2010,2.551189899
@@ -1968,29 +1968,29 @@ Guinea,GIN,2020,2.432670116
 Guinea,GIN,2021,2.040748119
 Guinea,GIN,2022,1.985614896
 Guinea-Bissau,GNB,1999,2.03237009
-Guinea-Bissau,GNB,2000,..
-Guinea-Bissau,GNB,2001,..
-Guinea-Bissau,GNB,2002,..
-Guinea-Bissau,GNB,2003,..
-Guinea-Bissau,GNB,2004,..
-Guinea-Bissau,GNB,2005,..
-Guinea-Bissau,GNB,2006,..
-Guinea-Bissau,GNB,2007,..
-Guinea-Bissau,GNB,2008,..
-Guinea-Bissau,GNB,2009,..
+Guinea-Bissau,GNB,2000,NaN
+Guinea-Bissau,GNB,2001,NaN
+Guinea-Bissau,GNB,2002,NaN
+Guinea-Bissau,GNB,2003,NaN
+Guinea-Bissau,GNB,2004,NaN
+Guinea-Bissau,GNB,2005,NaN
+Guinea-Bissau,GNB,2006,NaN
+Guinea-Bissau,GNB,2007,NaN
+Guinea-Bissau,GNB,2008,NaN
+Guinea-Bissau,GNB,2009,NaN
 Guinea-Bissau,GNB,2010,1.682209969
 Guinea-Bissau,GNB,2011,1.765930057
 Guinea-Bissau,GNB,2012,1.886379957
 Guinea-Bissau,GNB,2013,2.010270119
-Guinea-Bissau,GNB,2014,..
-Guinea-Bissau,GNB,2015,..
-Guinea-Bissau,GNB,2016,..
-Guinea-Bissau,GNB,2017,..
-Guinea-Bissau,GNB,2018,..
-Guinea-Bissau,GNB,2019,..
-Guinea-Bissau,GNB,2020,..
-Guinea-Bissau,GNB,2021,..
-Guinea-Bissau,GNB,2022,..
+Guinea-Bissau,GNB,2014,NaN
+Guinea-Bissau,GNB,2015,NaN
+Guinea-Bissau,GNB,2016,NaN
+Guinea-Bissau,GNB,2017,NaN
+Guinea-Bissau,GNB,2018,NaN
+Guinea-Bissau,GNB,2019,NaN
+Guinea-Bissau,GNB,2020,NaN
+Guinea-Bissau,GNB,2021,NaN
+Guinea-Bissau,GNB,2022,NaN
 Guyana,GUY,1999,8.561059952
 Guyana,GUY,2000,8.484149933
 Guyana,GUY,2001,8.397299767
@@ -2000,36 +2000,36 @@ Guyana,GUY,2004,5.51293993
 Guyana,GUY,2005,8.139730453
 Guyana,GUY,2006,3.118910074
 Guyana,GUY,2007,2.391170025
-Guyana,GUY,2008,..
+Guyana,GUY,2008,NaN
 Guyana,GUY,2009,2.150579929
 Guyana,GUY,2010,2.409389973
 Guyana,GUY,2011,2.506690025
 Guyana,GUY,2012,2.241319895
-Guyana,GUY,2013,..
+Guyana,GUY,2013,NaN
 Guyana,GUY,2014,4.360330105
 Guyana,GUY,2015,3.895699978
 Guyana,GUY,2016,4.737750053
 Guyana,GUY,2017,4.66478014
 Guyana,GUY,2018,4.45058012
-Guyana,GUY,2019,..
-Guyana,GUY,2020,..
-Guyana,GUY,2021,..
-Guyana,GUY,2022,..
-Haiti,HTI,1999,..
-Haiti,HTI,2000,..
-Haiti,HTI,2001,..
-Haiti,HTI,2002,..
-Haiti,HTI,2003,..
-Haiti,HTI,2004,..
-Haiti,HTI,2005,..
-Haiti,HTI,2006,..
-Haiti,HTI,2007,..
-Haiti,HTI,2008,..
-Haiti,HTI,2009,..
-Haiti,HTI,2010,..
-Haiti,HTI,2011,..
-Haiti,HTI,2012,..
-Haiti,HTI,2013,..
+Guyana,GUY,2019,NaN
+Guyana,GUY,2020,NaN
+Guyana,GUY,2021,NaN
+Guyana,GUY,2022,NaN
+Haiti,HTI,1999,NaN
+Haiti,HTI,2000,NaN
+Haiti,HTI,2001,NaN
+Haiti,HTI,2002,NaN
+Haiti,HTI,2003,NaN
+Haiti,HTI,2004,NaN
+Haiti,HTI,2005,NaN
+Haiti,HTI,2006,NaN
+Haiti,HTI,2007,NaN
+Haiti,HTI,2008,NaN
+Haiti,HTI,2009,NaN
+Haiti,HTI,2010,NaN
+Haiti,HTI,2011,NaN
+Haiti,HTI,2012,NaN
+Haiti,HTI,2013,NaN
 Haiti,HTI,2014,1.752269983
 Haiti,HTI,2015,1.854979992
 Haiti,HTI,2016,1.387760043
@@ -2039,19 +2039,19 @@ Haiti,HTI,2019,1.759413004
 Haiti,HTI,2020,1.37101388
 Haiti,HTI,2021,1.242751837
 Haiti,HTI,2022,1.274668932
-Honduras,HND,1999,..
-Honduras,HND,2000,..
-Honduras,HND,2001,..
-Honduras,HND,2002,..
-Honduras,HND,2003,..
-Honduras,HND,2004,..
-Honduras,HND,2005,..
-Honduras,HND,2006,..
-Honduras,HND,2007,..
-Honduras,HND,2008,..
-Honduras,HND,2009,..
-Honduras,HND,2010,..
-Honduras,HND,2011,..
+Honduras,HND,1999,NaN
+Honduras,HND,2000,NaN
+Honduras,HND,2001,NaN
+Honduras,HND,2002,NaN
+Honduras,HND,2003,NaN
+Honduras,HND,2004,NaN
+Honduras,HND,2005,NaN
+Honduras,HND,2006,NaN
+Honduras,HND,2007,NaN
+Honduras,HND,2008,NaN
+Honduras,HND,2009,NaN
+Honduras,HND,2010,NaN
+Honduras,HND,2011,NaN
 Honduras,HND,2012,6.299727917
 Honduras,HND,2013,5.874929905
 Honduras,HND,2014,7.090119839
@@ -2063,8 +2063,8 @@ Honduras,HND,2019,5.932459831
 Honduras,HND,2020,5.97629118
 Honduras,HND,2021,5.810501575
 Honduras,HND,2022,4.441578865
-Hong Kong,HKG,1999,..
-Hong Kong,HKG,2000,..
+Hong Kong,HKG,1999,NaN
+Hong Kong,HKG,2000,NaN
 Hong Kong,HKG,2001,3.903700113
 Hong Kong,HKG,2002,4.015540123
 Hong Kong,HKG,2003,4.285299778
@@ -2110,7 +2110,7 @@ Hungary,HUN,2018,4.623439789
 Hungary,HUN,2019,4.224880219
 Hungary,HUN,2020,4.153570175
 Hungary,HUN,2021,4.684060097
-Hungary,HUN,2022,..
+Hungary,HUN,2022,NaN
 Iceland,ISL,1999,6.434010029
 Iceland,ISL,2000,6.431439877
 Iceland,ISL,2001,6.705920219
@@ -2137,14 +2137,14 @@ Iceland,ISL,2021,8.217809677
 Iceland,ISL,2022,7.139665127
 India,IND,1999,4.415390015
 India,IND,2000,4.324790001
-India,IND,2001,..
-India,IND,2002,..
+India,IND,2001,NaN
+India,IND,2002,NaN
 India,IND,2003,3.613409996
 India,IND,2004,3.352540016
 India,IND,2005,3.188750029
 India,IND,2006,3.142849922
-India,IND,2007,..
-India,IND,2008,..
+India,IND,2007,NaN
+India,IND,2008,NaN
 India,IND,2009,3.278249979
 India,IND,2010,3.377690077
 India,IND,2011,3.79618001
@@ -2159,14 +2159,14 @@ India,IND,2019,3.897323608
 India,IND,2020,4.040141582
 India,IND,2021,4.635141373
 India,IND,2022,4.120728493
-Indonesia,IDN,1999,..
-Indonesia,IDN,2000,..
+Indonesia,IDN,1999,NaN
+Indonesia,IDN,2000,NaN
 Indonesia,IDN,2001,2.460030079
 Indonesia,IDN,2002,2.645689964
 Indonesia,IDN,2003,3.217999935
 Indonesia,IDN,2004,2.748470068
 Indonesia,IDN,2005,2.872819901
-Indonesia,IDN,2006,..
+Indonesia,IDN,2006,NaN
 Indonesia,IDN,2007,3.044250011
 Indonesia,IDN,2008,2.901900053
 Indonesia,IDN,2009,3.525130033
@@ -2205,32 +2205,32 @@ Iran,IRN,2017,3.459569931
 Iran,IRN,2018,3.619790077
 Iran,IRN,2019,3.240050077
 Iran,IRN,2020,3.204950094
-Iran,IRN,2021,..
+Iran,IRN,2021,NaN
 Iran,IRN,2022,3.060367346
-Iraq,IRQ,1999,..
-Iraq,IRQ,2000,..
-Iraq,IRQ,2001,..
-Iraq,IRQ,2002,..
-Iraq,IRQ,2003,..
-Iraq,IRQ,2004,..
-Iraq,IRQ,2005,..
-Iraq,IRQ,2006,..
-Iraq,IRQ,2007,..
-Iraq,IRQ,2008,..
-Iraq,IRQ,2009,..
-Iraq,IRQ,2010,..
-Iraq,IRQ,2011,..
-Iraq,IRQ,2012,..
-Iraq,IRQ,2013,..
-Iraq,IRQ,2014,..
-Iraq,IRQ,2015,..
-Iraq,IRQ,2016,..
-Iraq,IRQ,2017,..
-Iraq,IRQ,2018,..
-Iraq,IRQ,2019,..
-Iraq,IRQ,2020,..
-Iraq,IRQ,2021,..
-Iraq,IRQ,2022,..
+Iraq,IRQ,1999,NaN
+Iraq,IRQ,2000,NaN
+Iraq,IRQ,2001,NaN
+Iraq,IRQ,2002,NaN
+Iraq,IRQ,2003,NaN
+Iraq,IRQ,2004,NaN
+Iraq,IRQ,2005,NaN
+Iraq,IRQ,2006,NaN
+Iraq,IRQ,2007,NaN
+Iraq,IRQ,2008,NaN
+Iraq,IRQ,2009,NaN
+Iraq,IRQ,2010,NaN
+Iraq,IRQ,2011,NaN
+Iraq,IRQ,2012,NaN
+Iraq,IRQ,2013,NaN
+Iraq,IRQ,2014,NaN
+Iraq,IRQ,2015,NaN
+Iraq,IRQ,2016,NaN
+Iraq,IRQ,2017,NaN
+Iraq,IRQ,2018,NaN
+Iraq,IRQ,2019,NaN
+Iraq,IRQ,2020,NaN
+Iraq,IRQ,2021,NaN
+Iraq,IRQ,2022,NaN
 Ireland,IRL,1999,4.133790016
 Ireland,IRL,2000,4.132259846
 Ireland,IRL,2001,4.087490082
@@ -2254,31 +2254,31 @@ Ireland,IRL,2018,3.37838006
 Ireland,IRL,2019,3.296169996
 Ireland,IRL,2020,3.250819921
 Ireland,IRL,2021,3.005980015
-Ireland,IRL,2022,..
-Isle of Man,IMN,1999,..
-Isle of Man,IMN,2000,..
-Isle of Man,IMN,2001,..
-Isle of Man,IMN,2002,..
-Isle of Man,IMN,2003,..
-Isle of Man,IMN,2004,..
-Isle of Man,IMN,2005,..
-Isle of Man,IMN,2006,..
-Isle of Man,IMN,2007,..
-Isle of Man,IMN,2008,..
-Isle of Man,IMN,2009,..
-Isle of Man,IMN,2010,..
-Isle of Man,IMN,2011,..
-Isle of Man,IMN,2012,..
-Isle of Man,IMN,2013,..
-Isle of Man,IMN,2014,..
-Isle of Man,IMN,2015,..
-Isle of Man,IMN,2016,..
-Isle of Man,IMN,2017,..
-Isle of Man,IMN,2018,..
-Isle of Man,IMN,2019,..
-Isle of Man,IMN,2020,..
-Isle of Man,IMN,2021,..
-Isle of Man,IMN,2022,..
+Ireland,IRL,2022,NaN
+Isle of Man,IMN,1999,NaN
+Isle of Man,IMN,2000,NaN
+Isle of Man,IMN,2001,NaN
+Isle of Man,IMN,2002,NaN
+Isle of Man,IMN,2003,NaN
+Isle of Man,IMN,2004,NaN
+Isle of Man,IMN,2005,NaN
+Isle of Man,IMN,2006,NaN
+Isle of Man,IMN,2007,NaN
+Isle of Man,IMN,2008,NaN
+Isle of Man,IMN,2009,NaN
+Isle of Man,IMN,2010,NaN
+Isle of Man,IMN,2011,NaN
+Isle of Man,IMN,2012,NaN
+Isle of Man,IMN,2013,NaN
+Isle of Man,IMN,2014,NaN
+Isle of Man,IMN,2015,NaN
+Isle of Man,IMN,2016,NaN
+Isle of Man,IMN,2017,NaN
+Isle of Man,IMN,2018,NaN
+Isle of Man,IMN,2019,NaN
+Isle of Man,IMN,2020,NaN
+Isle of Man,IMN,2021,NaN
+Isle of Man,IMN,2022,NaN
 Israel,ISR,1999,6.220930099
 Israel,ISR,2000,5.951950073
 Israel,ISR,2001,6.193160057
@@ -2326,15 +2326,15 @@ Italy,ITA,2018,4.256140232
 Italy,ITA,2019,4.095270157
 Italy,ITA,2020,4.441359997
 Italy,ITA,2021,4.218289852
-Italy,ITA,2022,..
-Jamaica,JAM,1999,..
+Italy,ITA,2022,NaN
+Jamaica,JAM,1999,NaN
 Jamaica,JAM,2000,4.983469963
 Jamaica,JAM,2001,5.381030083
 Jamaica,JAM,2002,5.375229836
 Jamaica,JAM,2003,4.256849766
 Jamaica,JAM,2004,3.912549973
 Jamaica,JAM,2005,4.616419792
-Jamaica,JAM,2006,..
+Jamaica,JAM,2006,NaN
 Jamaica,JAM,2007,5.49022007
 Jamaica,JAM,2008,6.191319942
 Jamaica,JAM,2009,6.198480129
@@ -2376,27 +2376,27 @@ Japan,JPN,2020,3.306289911
 Japan,JPN,2021,3.335639954
 Japan,JPN,2022,3.237621307
 Jordan,JOR,1999,4.943669796
-Jordan,JOR,2000,..
-Jordan,JOR,2001,..
-Jordan,JOR,2002,..
-Jordan,JOR,2003,..
-Jordan,JOR,2004,..
-Jordan,JOR,2005,..
-Jordan,JOR,2006,..
-Jordan,JOR,2007,..
-Jordan,JOR,2008,..
-Jordan,JOR,2009,..
-Jordan,JOR,2010,..
-Jordan,JOR,2011,..
-Jordan,JOR,2012,..
-Jordan,JOR,2013,..
-Jordan,JOR,2014,..
-Jordan,JOR,2015,..
+Jordan,JOR,2000,NaN
+Jordan,JOR,2001,NaN
+Jordan,JOR,2002,NaN
+Jordan,JOR,2003,NaN
+Jordan,JOR,2004,NaN
+Jordan,JOR,2005,NaN
+Jordan,JOR,2006,NaN
+Jordan,JOR,2007,NaN
+Jordan,JOR,2008,NaN
+Jordan,JOR,2009,NaN
+Jordan,JOR,2010,NaN
+Jordan,JOR,2011,NaN
+Jordan,JOR,2012,NaN
+Jordan,JOR,2013,NaN
+Jordan,JOR,2014,NaN
+Jordan,JOR,2015,NaN
 Jordan,JOR,2016,3.452820063
 Jordan,JOR,2017,3.213059902
 Jordan,JOR,2018,2.954619884
 Jordan,JOR,2019,2.988470078
-Jordan,JOR,2020,..
+Jordan,JOR,2020,NaN
 Jordan,JOR,2021,3.138370037
 Jordan,JOR,2022,3.160229921
 Kazakhstan,KAZ,1999,3.892570019
@@ -2431,8 +2431,8 @@ Kenya,KEN,2003,6.494269848
 Kenya,KEN,2004,6.796929836
 Kenya,KEN,2005,7.335649967
 Kenya,KEN,2006,7.049839973
-Kenya,KEN,2007,..
-Kenya,KEN,2008,..
+Kenya,KEN,2007,NaN
+Kenya,KEN,2008,NaN
 Kenya,KEN,2009,4.019999981
 Kenya,KEN,2010,4.815489769
 Kenya,KEN,2011,4.700129986
@@ -2450,15 +2450,15 @@ Kenya,KEN,2022,4.511017799
 Kiribati,KIR,1999,9.693320274
 Kiribati,KIR,2000,10.05860996
 Kiribati,KIR,2001,11.60754013
-Kiribati,KIR,2002,..
-Kiribati,KIR,2003,..
-Kiribati,KIR,2004,..
-Kiribati,KIR,2005,..
-Kiribati,KIR,2006,..
-Kiribati,KIR,2007,..
-Kiribati,KIR,2008,..
-Kiribati,KIR,2009,..
-Kiribati,KIR,2010,..
+Kiribati,KIR,2002,NaN
+Kiribati,KIR,2003,NaN
+Kiribati,KIR,2004,NaN
+Kiribati,KIR,2005,NaN
+Kiribati,KIR,2006,NaN
+Kiribati,KIR,2007,NaN
+Kiribati,KIR,2008,NaN
+Kiribati,KIR,2009,NaN
+Kiribati,KIR,2010,NaN
 Kiribati,KIR,2011,13.04459953
 Kiribati,KIR,2012,13.42766571
 Kiribati,KIR,2013,13.21899986
@@ -2468,49 +2468,49 @@ Kiribati,KIR,2016,13.4829998
 Kiribati,KIR,2017,13.57499981
 Kiribati,KIR,2018,15.37699986
 Kiribati,KIR,2019,13.76865482
-Kiribati,KIR,2020,..
+Kiribati,KIR,2020,NaN
 Kiribati,KIR,2021,14.19515991
-Kiribati,KIR,2022,..
-North Korea,PRK,1999,..
-North Korea,PRK,2000,..
-North Korea,PRK,2001,..
-North Korea,PRK,2002,..
-North Korea,PRK,2003,..
-North Korea,PRK,2004,..
-North Korea,PRK,2005,..
-North Korea,PRK,2006,..
-North Korea,PRK,2007,..
-North Korea,PRK,2008,..
-North Korea,PRK,2009,..
-North Korea,PRK,2010,..
-North Korea,PRK,2011,..
-North Korea,PRK,2012,..
-North Korea,PRK,2013,..
-North Korea,PRK,2014,..
-North Korea,PRK,2015,..
-North Korea,PRK,2016,..
-North Korea,PRK,2017,..
-North Korea,PRK,2018,..
-North Korea,PRK,2019,..
-North Korea,PRK,2020,..
-North Korea,PRK,2021,..
-North Korea,PRK,2022,..
+Kiribati,KIR,2022,NaN
+North Korea,PRK,1999,NaN
+North Korea,PRK,2000,NaN
+North Korea,PRK,2001,NaN
+North Korea,PRK,2002,NaN
+North Korea,PRK,2003,NaN
+North Korea,PRK,2004,NaN
+North Korea,PRK,2005,NaN
+North Korea,PRK,2006,NaN
+North Korea,PRK,2007,NaN
+North Korea,PRK,2008,NaN
+North Korea,PRK,2009,NaN
+North Korea,PRK,2010,NaN
+North Korea,PRK,2011,NaN
+North Korea,PRK,2012,NaN
+North Korea,PRK,2013,NaN
+North Korea,PRK,2014,NaN
+North Korea,PRK,2015,NaN
+North Korea,PRK,2016,NaN
+North Korea,PRK,2017,NaN
+North Korea,PRK,2018,NaN
+North Korea,PRK,2019,NaN
+North Korea,PRK,2020,NaN
+North Korea,PRK,2021,NaN
+North Korea,PRK,2022,NaN
 South Korea,KOR,1999,3.369290113
-South Korea,KOR,2000,..
-South Korea,KOR,2001,..
-South Korea,KOR,2002,..
-South Korea,KOR,2003,..
-South Korea,KOR,2004,..
-South Korea,KOR,2005,..
-South Korea,KOR,2006,..
-South Korea,KOR,2007,..
-South Korea,KOR,2008,..
+South Korea,KOR,2000,NaN
+South Korea,KOR,2001,NaN
+South Korea,KOR,2002,NaN
+South Korea,KOR,2003,NaN
+South Korea,KOR,2004,NaN
+South Korea,KOR,2005,NaN
+South Korea,KOR,2006,NaN
+South Korea,KOR,2007,NaN
+South Korea,KOR,2008,NaN
 South Korea,KOR,2009,3.91358161
 South Korea,KOR,2010,3.52756691
-South Korea,KOR,2011,..
-South Korea,KOR,2012,..
-South Korea,KOR,2013,..
-South Korea,KOR,2014,..
+South Korea,KOR,2011,NaN
+South Korea,KOR,2012,NaN
+South Korea,KOR,2013,NaN
+South Korea,KOR,2014,NaN
 South Korea,KOR,2015,4.454239845
 South Korea,KOR,2016,4.333099842
 South Korea,KOR,2017,4.328239918
@@ -2518,48 +2518,48 @@ South Korea,KOR,2018,4.458079815
 South Korea,KOR,2019,4.684659958
 South Korea,KOR,2020,4.801720142
 South Korea,KOR,2021,4.866270065
-South Korea,KOR,2022,..
-Kosovo,XKX,1999,..
-Kosovo,XKX,2000,..
-Kosovo,XKX,2001,..
-Kosovo,XKX,2002,..
-Kosovo,XKX,2003,..
-Kosovo,XKX,2004,..
-Kosovo,XKX,2005,..
-Kosovo,XKX,2006,..
-Kosovo,XKX,2007,..
-Kosovo,XKX,2008,..
-Kosovo,XKX,2009,..
-Kosovo,XKX,2010,..
-Kosovo,XKX,2011,..
-Kosovo,XKX,2012,..
-Kosovo,XKX,2013,..
-Kosovo,XKX,2014,..
-Kosovo,XKX,2015,..
-Kosovo,XKX,2016,..
-Kosovo,XKX,2017,..
-Kosovo,XKX,2018,..
-Kosovo,XKX,2019,..
-Kosovo,XKX,2020,..
-Kosovo,XKX,2021,..
-Kosovo,XKX,2022,..
-Kuwait,KWT,1999,..
-Kuwait,KWT,2000,..
+South Korea,KOR,2022,NaN
+Kosovo,XKX,1999,NaN
+Kosovo,XKX,2000,NaN
+Kosovo,XKX,2001,NaN
+Kosovo,XKX,2002,NaN
+Kosovo,XKX,2003,NaN
+Kosovo,XKX,2004,NaN
+Kosovo,XKX,2005,NaN
+Kosovo,XKX,2006,NaN
+Kosovo,XKX,2007,NaN
+Kosovo,XKX,2008,NaN
+Kosovo,XKX,2009,NaN
+Kosovo,XKX,2010,NaN
+Kosovo,XKX,2011,NaN
+Kosovo,XKX,2012,NaN
+Kosovo,XKX,2013,NaN
+Kosovo,XKX,2014,NaN
+Kosovo,XKX,2015,NaN
+Kosovo,XKX,2016,NaN
+Kosovo,XKX,2017,NaN
+Kosovo,XKX,2018,NaN
+Kosovo,XKX,2019,NaN
+Kosovo,XKX,2020,NaN
+Kosovo,XKX,2021,NaN
+Kosovo,XKX,2022,NaN
+Kuwait,KWT,1999,NaN
+Kuwait,KWT,2000,NaN
 Kuwait,KWT,2001,6.585830212
 Kuwait,KWT,2002,6.551109791
 Kuwait,KWT,2003,5.211292267
 Kuwait,KWT,2004,5.535069942
 Kuwait,KWT,2005,4.738339901
 Kuwait,KWT,2006,3.759979963
-Kuwait,KWT,2007,..
-Kuwait,KWT,2008,..
-Kuwait,KWT,2009,..
-Kuwait,KWT,2010,..
-Kuwait,KWT,2011,..
-Kuwait,KWT,2012,..
-Kuwait,KWT,2013,..
-Kuwait,KWT,2014,..
-Kuwait,KWT,2015,..
+Kuwait,KWT,2007,NaN
+Kuwait,KWT,2008,NaN
+Kuwait,KWT,2009,NaN
+Kuwait,KWT,2010,NaN
+Kuwait,KWT,2011,NaN
+Kuwait,KWT,2012,NaN
+Kuwait,KWT,2013,NaN
+Kuwait,KWT,2014,NaN
+Kuwait,KWT,2015,NaN
 Kuwait,KWT,2016,5.95593977
 Kuwait,KWT,2017,6.35444212
 Kuwait,KWT,2018,6.391652584
@@ -2591,11 +2591,11 @@ Kyrgyz Republic,KGZ,2019,6.073181152
 Kyrgyz Republic,KGZ,2020,6.619716644
 Kyrgyz Republic,KGZ,2021,6.17235136
 Kyrgyz Republic,KGZ,2022,7.168843746
-Lao PDR,LAO,1999,..
+Lao PDR,LAO,1999,NaN
 Lao PDR,LAO,2000,1.503690004
 Lao PDR,LAO,2001,1.990280032
 Lao PDR,LAO,2002,2.825220108
-Lao PDR,LAO,2003,..
+Lao PDR,LAO,2003,NaN
 Lao PDR,LAO,2004,2.413000107
 Lao PDR,LAO,2005,2.414089918
 Lao PDR,LAO,2006,2.958790064
@@ -2638,12 +2638,12 @@ Latvia,LVA,2018,4.243569851
 Latvia,LVA,2019,4.43584013
 Latvia,LVA,2020,4.850590229
 Latvia,LVA,2021,4.615469933
-Latvia,LVA,2022,..
-Lebanon,LBN,1999,..
-Lebanon,LBN,2000,..
+Latvia,LVA,2022,NaN
+Lebanon,LBN,1999,NaN
+Lebanon,LBN,2000,NaN
 Lebanon,LBN,2001,2.841480017
 Lebanon,LBN,2002,2.552710056
-Lebanon,LBN,2003,..
+Lebanon,LBN,2003,NaN
 Lebanon,LBN,2004,2.640949965
 Lebanon,LBN,2005,2.646189928
 Lebanon,LBN,2006,2.779759884
@@ -2654,15 +2654,15 @@ Lebanon,LBN,2010,1.613309979
 Lebanon,LBN,2011,1.652519941
 Lebanon,LBN,2012,2.14902997
 Lebanon,LBN,2013,2.433969975
-Lebanon,LBN,2014,..
-Lebanon,LBN,2015,..
+Lebanon,LBN,2014,NaN
+Lebanon,LBN,2015,NaN
 Lebanon,LBN,2016,2.126333237
 Lebanon,LBN,2017,2.137486219
 Lebanon,LBN,2018,2.527220726
 Lebanon,LBN,2019,2.600265503
 Lebanon,LBN,2020,1.669968128
-Lebanon,LBN,2021,..
-Lebanon,LBN,2022,..
+Lebanon,LBN,2021,NaN
+Lebanon,LBN,2022,NaN
 Lesotho,LSO,1999,12.49934959
 Lesotho,LSO,2000,10.09154987
 Lesotho,LSO,2001,9.365050316
@@ -2671,10 +2671,10 @@ Lesotho,LSO,2003,13.21957016
 Lesotho,LSO,2004,11.10900974
 Lesotho,LSO,2005,12.07966042
 Lesotho,LSO,2006,11.27128029
-Lesotho,LSO,2007,..
+Lesotho,LSO,2007,NaN
 Lesotho,LSO,2008,12.32874012
-Lesotho,LSO,2009,..
-Lesotho,LSO,2010,..
+Lesotho,LSO,2009,NaN
+Lesotho,LSO,2010,NaN
 Lesotho,LSO,2011,8.170000076
 Lesotho,LSO,2012,7.670000076
 Lesotho,LSO,2013,7.289999962
@@ -2687,19 +2687,19 @@ Lesotho,LSO,2019,7.194068909
 Lesotho,LSO,2020,6.997992516
 Lesotho,LSO,2021,7.507479191
 Lesotho,LSO,2022,6.433475494
-Liberia,LBR,1999,..
-Liberia,LBR,2000,..
-Liberia,LBR,2001,..
-Liberia,LBR,2002,..
-Liberia,LBR,2003,..
-Liberia,LBR,2004,..
-Liberia,LBR,2005,..
-Liberia,LBR,2006,..
-Liberia,LBR,2007,..
+Liberia,LBR,1999,NaN
+Liberia,LBR,2000,NaN
+Liberia,LBR,2001,NaN
+Liberia,LBR,2002,NaN
+Liberia,LBR,2003,NaN
+Liberia,LBR,2004,NaN
+Liberia,LBR,2005,NaN
+Liberia,LBR,2006,NaN
+Liberia,LBR,2007,NaN
 Liberia,LBR,2008,1.701660037
-Liberia,LBR,2009,..
-Liberia,LBR,2010,..
-Liberia,LBR,2011,..
+Liberia,LBR,2009,NaN
+Liberia,LBR,2010,NaN
+Liberia,LBR,2011,NaN
 Liberia,LBR,2012,1.777119994
 Liberia,LBR,2013,1.690780044
 Liberia,LBR,2014,2.168983459
@@ -2712,54 +2712,54 @@ Liberia,LBR,2020,2.136014223
 Liberia,LBR,2021,2.111867905
 Liberia,LBR,2022,2.276095867
 Libya,LBY,1999,2.264169931
-Libya,LBY,2000,..
-Libya,LBY,2001,..
-Libya,LBY,2002,..
-Libya,LBY,2003,..
-Libya,LBY,2004,..
-Libya,LBY,2005,..
-Libya,LBY,2006,..
-Libya,LBY,2007,..
-Libya,LBY,2008,..
-Libya,LBY,2009,..
-Libya,LBY,2010,..
-Libya,LBY,2011,..
-Libya,LBY,2012,..
-Libya,LBY,2013,..
-Libya,LBY,2014,..
-Libya,LBY,2015,..
-Libya,LBY,2016,..
-Libya,LBY,2017,..
-Libya,LBY,2018,..
-Libya,LBY,2019,..
-Libya,LBY,2020,..
-Libya,LBY,2021,..
-Libya,LBY,2022,..
-Liechtenstein,LIE,1999,..
-Liechtenstein,LIE,2000,..
-Liechtenstein,LIE,2001,..
-Liechtenstein,LIE,2002,..
+Libya,LBY,2000,NaN
+Libya,LBY,2001,NaN
+Libya,LBY,2002,NaN
+Libya,LBY,2003,NaN
+Libya,LBY,2004,NaN
+Libya,LBY,2005,NaN
+Libya,LBY,2006,NaN
+Libya,LBY,2007,NaN
+Libya,LBY,2008,NaN
+Libya,LBY,2009,NaN
+Libya,LBY,2010,NaN
+Libya,LBY,2011,NaN
+Libya,LBY,2012,NaN
+Libya,LBY,2013,NaN
+Libya,LBY,2014,NaN
+Libya,LBY,2015,NaN
+Libya,LBY,2016,NaN
+Libya,LBY,2017,NaN
+Libya,LBY,2018,NaN
+Libya,LBY,2019,NaN
+Libya,LBY,2020,NaN
+Libya,LBY,2021,NaN
+Libya,LBY,2022,NaN
+Liechtenstein,LIE,1999,NaN
+Liechtenstein,LIE,2000,NaN
+Liechtenstein,LIE,2001,NaN
+Liechtenstein,LIE,2002,NaN
 Liechtenstein,LIE,2003,2.46013999
 Liechtenstein,LIE,2004,2.433330059
-Liechtenstein,LIE,2005,..
+Liechtenstein,LIE,2005,NaN
 Liechtenstein,LIE,2006,2.053809881
 Liechtenstein,LIE,2007,1.921190023
 Liechtenstein,LIE,2008,2.048369884
-Liechtenstein,LIE,2009,..
-Liechtenstein,LIE,2010,..
+Liechtenstein,LIE,2009,NaN
+Liechtenstein,LIE,2010,NaN
 Liechtenstein,LIE,2011,2.556040049
-Liechtenstein,LIE,2012,..
-Liechtenstein,LIE,2013,..
-Liechtenstein,LIE,2014,..
-Liechtenstein,LIE,2015,..
-Liechtenstein,LIE,2016,..
-Liechtenstein,LIE,2017,..
-Liechtenstein,LIE,2018,..
-Liechtenstein,LIE,2019,..
-Liechtenstein,LIE,2020,..
-Liechtenstein,LIE,2021,..
-Liechtenstein,LIE,2022,..
-Lithuania,LTU,1999,..
+Liechtenstein,LIE,2012,NaN
+Liechtenstein,LIE,2013,NaN
+Liechtenstein,LIE,2014,NaN
+Liechtenstein,LIE,2015,NaN
+Liechtenstein,LIE,2016,NaN
+Liechtenstein,LIE,2017,NaN
+Liechtenstein,LIE,2018,NaN
+Liechtenstein,LIE,2019,NaN
+Liechtenstein,LIE,2020,NaN
+Liechtenstein,LIE,2021,NaN
+Liechtenstein,LIE,2022,NaN
+Lithuania,LTU,1999,NaN
 Lithuania,LTU,2000,5.973029137
 Lithuania,LTU,2001,5.84758997
 Lithuania,LTU,2002,5.800079823
@@ -2782,8 +2782,8 @@ Lithuania,LTU,2018,3.89289999
 Lithuania,LTU,2019,3.964099884
 Lithuania,LTU,2020,4.508590221
 Lithuania,LTU,2021,4.254909992
-Lithuania,LTU,2022,..
-Luxembourg,LUX,1999,..
+Lithuania,LTU,2022,NaN
+Luxembourg,LUX,1999,NaN
 Luxembourg,LUX,2000,4.2496562
 Luxembourg,LUX,2001,3.539730072
 Luxembourg,LUX,2002,4.622199535
@@ -2858,14 +2858,14 @@ Madagascar,MDG,2022,3.139019966
 Malawi,MWI,1999,3.432240009
 Malawi,MWI,2000,3.606129885
 Malawi,MWI,2001,3.098340034
-Malawi,MWI,2002,..
+Malawi,MWI,2002,NaN
 Malawi,MWI,2003,2.209640026
-Malawi,MWI,2004,..
-Malawi,MWI,2005,..
-Malawi,MWI,2006,..
-Malawi,MWI,2007,..
-Malawi,MWI,2008,..
-Malawi,MWI,2009,..
+Malawi,MWI,2004,NaN
+Malawi,MWI,2005,NaN
+Malawi,MWI,2006,NaN
+Malawi,MWI,2007,NaN
+Malawi,MWI,2008,NaN
+Malawi,MWI,2009,NaN
 Malawi,MWI,2010,2.432369947
 Malawi,MWI,2011,2.853460073
 Malawi,MWI,2012,2.528611898
@@ -2875,17 +2875,17 @@ Malawi,MWI,2015,3.444496632
 Malawi,MWI,2016,3.244130611
 Malawi,MWI,2017,3.575054884
 Malawi,MWI,2018,3.3229599
-Malawi,MWI,2019,..
-Malawi,MWI,2020,..
-Malawi,MWI,2021,..
-Malawi,MWI,2022,..
+Malawi,MWI,2019,NaN
+Malawi,MWI,2020,NaN
+Malawi,MWI,2021,NaN
+Malawi,MWI,2022,NaN
 Malaysia,MYS,1999,5.686789989
 Malaysia,MYS,2000,5.971610069
 Malaysia,MYS,2001,7.484469891
 Malaysia,MYS,2002,7.657929897
 Malaysia,MYS,2003,7.502880096
 Malaysia,MYS,2004,5.923890114
-Malaysia,MYS,2005,..
+Malaysia,MYS,2005,NaN
 Malaysia,MYS,2006,4.485760212
 Malaysia,MYS,2007,4.372539997
 Malaysia,MYS,2008,3.958519936
@@ -2903,7 +2903,7 @@ Malaysia,MYS,2019,3.979539633
 Malaysia,MYS,2020,4.518887043
 Malaysia,MYS,2021,4.261094093
 Malaysia,MYS,2022,3.499337912
-Maldives,MDV,1999,..
+Maldives,MDV,1999,NaN
 Maldives,MDV,2000,5.737206936
 Maldives,MDV,2001,5.249499798
 Maldives,MDV,2002,5.791860104
@@ -2934,8 +2934,8 @@ Mali,MLI,2002,2.896229982
 Mali,MLI,2003,3.805599928
 Mali,MLI,2004,3.859220028
 Mali,MLI,2005,3.52218008
-Mali,MLI,2006,..
-Mali,MLI,2007,..
+Mali,MLI,2006,NaN
+Mali,MLI,2007,NaN
 Mali,MLI,2008,3.403559923
 Mali,MLI,2009,3.869040012
 Mali,MLI,2010,3.343889952
@@ -2951,7 +2951,7 @@ Mali,MLI,2019,3.555049896
 Mali,MLI,2020,3.954459906
 Mali,MLI,2021,4.363709927
 Mali,MLI,2022,4.035055161
-Malta,MLT,1999,..
+Malta,MLT,1999,NaN
 Malta,MLT,2000,5.146474838
 Malta,MLT,2001,5.646224976
 Malta,MLT,2002,4.143050194
@@ -2974,51 +2974,51 @@ Malta,MLT,2018,4.923611164
 Malta,MLT,2019,4.899350166
 Malta,MLT,2020,5.644871235
 Malta,MLT,2021,5.364799976
-Malta,MLT,2022,..
+Malta,MLT,2022,NaN
 Marshall Islands,MHL,1999,13.8498497
-Marshall Islands,MHL,2000,..
-Marshall Islands,MHL,2001,..
+Marshall Islands,MHL,2000,NaN
+Marshall Islands,MHL,2001,NaN
 Marshall Islands,MHL,2002,8.19519043
 Marshall Islands,MHL,2003,11.84414005
-Marshall Islands,MHL,2004,..
-Marshall Islands,MHL,2005,..
-Marshall Islands,MHL,2006,..
-Marshall Islands,MHL,2007,..
-Marshall Islands,MHL,2008,..
-Marshall Islands,MHL,2009,..
-Marshall Islands,MHL,2010,..
-Marshall Islands,MHL,2011,..
-Marshall Islands,MHL,2012,..
-Marshall Islands,MHL,2013,..
-Marshall Islands,MHL,2014,..
-Marshall Islands,MHL,2015,..
-Marshall Islands,MHL,2016,..
-Marshall Islands,MHL,2017,..
-Marshall Islands,MHL,2018,..
+Marshall Islands,MHL,2004,NaN
+Marshall Islands,MHL,2005,NaN
+Marshall Islands,MHL,2006,NaN
+Marshall Islands,MHL,2007,NaN
+Marshall Islands,MHL,2008,NaN
+Marshall Islands,MHL,2009,NaN
+Marshall Islands,MHL,2010,NaN
+Marshall Islands,MHL,2011,NaN
+Marshall Islands,MHL,2012,NaN
+Marshall Islands,MHL,2013,NaN
+Marshall Islands,MHL,2014,NaN
+Marshall Islands,MHL,2015,NaN
+Marshall Islands,MHL,2016,NaN
+Marshall Islands,MHL,2017,NaN
+Marshall Islands,MHL,2018,NaN
 Marshall Islands,MHL,2019,9.920570374
-Marshall Islands,MHL,2020,..
-Marshall Islands,MHL,2021,..
+Marshall Islands,MHL,2020,NaN
+Marshall Islands,MHL,2021,NaN
 Marshall Islands,MHL,2022,7.540939808
 Mauritania,MRT,1999,1.722030044
-Mauritania,MRT,2000,..
+Mauritania,MRT,2000,NaN
 Mauritania,MRT,2001,2.106839895
 Mauritania,MRT,2002,2.277149916
 Mauritania,MRT,2003,2.365010023
 Mauritania,MRT,2004,1.950799942
-Mauritania,MRT,2005,..
+Mauritania,MRT,2005,NaN
 Mauritania,MRT,2006,1.958510041
-Mauritania,MRT,2007,..
-Mauritania,MRT,2008,..
-Mauritania,MRT,2009,..
-Mauritania,MRT,2010,..
+Mauritania,MRT,2007,NaN
+Mauritania,MRT,2008,NaN
+Mauritania,MRT,2009,NaN
+Mauritania,MRT,2010,NaN
 Mauritania,MRT,2011,2.331020117
 Mauritania,MRT,2012,2.158210039
 Mauritania,MRT,2013,2.293540001
 Mauritania,MRT,2014,2.557964325
 Mauritania,MRT,2015,2.829566002
 Mauritania,MRT,2016,1.944059968
-Mauritania,MRT,2017,..
-Mauritania,MRT,2018,..
+Mauritania,MRT,2017,NaN
+Mauritania,MRT,2018,NaN
 Mauritania,MRT,2019,1.82317996
 Mauritania,MRT,2020,1.802649975
 Mauritania,MRT,2021,1.891970038
@@ -3067,23 +3067,23 @@ Mexico,MEX,2015,5.050879955
 Mexico,MEX,2016,4.757959843
 Mexico,MEX,2017,4.397520065
 Mexico,MEX,2018,4.139450073
-Mexico,MEX,2019,..
+Mexico,MEX,2019,NaN
 Mexico,MEX,2020,4.500599861
 Mexico,MEX,2021,4.249529839
-Mexico,MEX,2022,..
+Mexico,MEX,2022,NaN
 Micronesia,FSM,1999,6.424910069
 Micronesia,FSM,2000,6.706870079
-Micronesia,FSM,2001,..
-Micronesia,FSM,2002,..
-Micronesia,FSM,2003,..
-Micronesia,FSM,2004,..
-Micronesia,FSM,2005,..
-Micronesia,FSM,2006,..
-Micronesia,FSM,2007,..
-Micronesia,FSM,2008,..
-Micronesia,FSM,2009,..
-Micronesia,FSM,2010,..
-Micronesia,FSM,2011,..
+Micronesia,FSM,2001,NaN
+Micronesia,FSM,2002,NaN
+Micronesia,FSM,2003,NaN
+Micronesia,FSM,2004,NaN
+Micronesia,FSM,2005,NaN
+Micronesia,FSM,2006,NaN
+Micronesia,FSM,2007,NaN
+Micronesia,FSM,2008,NaN
+Micronesia,FSM,2009,NaN
+Micronesia,FSM,2010,NaN
+Micronesia,FSM,2011,NaN
 Micronesia,FSM,2012,11.71899986
 Micronesia,FSM,2013,12.34399986
 Micronesia,FSM,2014,12.22799969
@@ -3093,8 +3093,8 @@ Micronesia,FSM,2017,12.41600037
 Micronesia,FSM,2018,9.69699955
 Micronesia,FSM,2019,10.22599983
 Micronesia,FSM,2020,10.53899956
-Micronesia,FSM,2021,..
-Micronesia,FSM,2022,..
+Micronesia,FSM,2021,NaN
+Micronesia,FSM,2022,NaN
 Moldova,MDA,1999,4.662559986
 Moldova,MDA,2000,4.486390114
 Moldova,MDA,2001,4.846849918
@@ -3121,38 +3121,38 @@ Moldova,MDA,2021,5.824059963
 Moldova,MDA,2022,6.110539913
 Monaco,MCO,1999,1.195269942
 Monaco,MCO,2000,1.255370021
-Monaco,MCO,2001,..
-Monaco,MCO,2002,..
-Monaco,MCO,2003,..
+Monaco,MCO,2001,NaN
+Monaco,MCO,2002,NaN
+Monaco,MCO,2003,NaN
 Monaco,MCO,2004,1.266680002
-Monaco,MCO,2005,..
-Monaco,MCO,2006,..
-Monaco,MCO,2007,..
-Monaco,MCO,2008,..
+Monaco,MCO,2005,NaN
+Monaco,MCO,2006,NaN
+Monaco,MCO,2007,NaN
+Monaco,MCO,2008,NaN
 Monaco,MCO,2009,1.354310036
 Monaco,MCO,2010,1.31735003
 Monaco,MCO,2011,1.589890003
 Monaco,MCO,2012,1.780040026
 Monaco,MCO,2013,1.334400058
 Monaco,MCO,2014,1.021950006
-Monaco,MCO,2015,..
+Monaco,MCO,2015,NaN
 Monaco,MCO,2016,1.372460008
 Monaco,MCO,2017,1.457929969
-Monaco,MCO,2018,..
+Monaco,MCO,2018,NaN
 Monaco,MCO,2019,1.158900023
-Monaco,MCO,2020,..
+Monaco,MCO,2020,NaN
 Monaco,MCO,2021,1.418789983
 Monaco,MCO,2022,1.17324996
 Mongolia,MNG,1999,5.145659924
 Mongolia,MNG,2000,5.550370216
 Mongolia,MNG,2001,4.936064243
 Mongolia,MNG,2002,7.210780144
-Mongolia,MNG,2003,..
+Mongolia,MNG,2003,NaN
 Mongolia,MNG,2004,4.325729847
-Mongolia,MNG,2005,..
-Mongolia,MNG,2006,..
+Mongolia,MNG,2005,NaN
+Mongolia,MNG,2006,NaN
 Mongolia,MNG,2007,4.690130234
-Mongolia,MNG,2008,..
+Mongolia,MNG,2008,NaN
 Mongolia,MNG,2009,5.144849777
 Mongolia,MNG,2010,4.645100117
 Mongolia,MNG,2011,4.60902977
@@ -3167,45 +3167,45 @@ Mongolia,MNG,2019,3.652369738
 Mongolia,MNG,2020,4.663455009
 Mongolia,MNG,2021,3.343896151
 Mongolia,MNG,2022,4.180567265
-Montenegro,MNE,1999,..
-Montenegro,MNE,2000,..
-Montenegro,MNE,2001,..
-Montenegro,MNE,2002,..
-Montenegro,MNE,2003,..
-Montenegro,MNE,2004,..
-Montenegro,MNE,2005,..
-Montenegro,MNE,2006,..
-Montenegro,MNE,2007,..
-Montenegro,MNE,2008,..
-Montenegro,MNE,2009,..
-Montenegro,MNE,2010,..
-Montenegro,MNE,2011,..
-Montenegro,MNE,2012,..
-Montenegro,MNE,2013,..
-Montenegro,MNE,2014,..
-Montenegro,MNE,2015,..
-Montenegro,MNE,2016,..
-Montenegro,MNE,2017,..
-Montenegro,MNE,2018,..
-Montenegro,MNE,2019,..
-Montenegro,MNE,2020,..
-Montenegro,MNE,2021,..
-Montenegro,MNE,2022,..
+Montenegro,MNE,1999,NaN
+Montenegro,MNE,2000,NaN
+Montenegro,MNE,2001,NaN
+Montenegro,MNE,2002,NaN
+Montenegro,MNE,2003,NaN
+Montenegro,MNE,2004,NaN
+Montenegro,MNE,2005,NaN
+Montenegro,MNE,2006,NaN
+Montenegro,MNE,2007,NaN
+Montenegro,MNE,2008,NaN
+Montenegro,MNE,2009,NaN
+Montenegro,MNE,2010,NaN
+Montenegro,MNE,2011,NaN
+Montenegro,MNE,2012,NaN
+Montenegro,MNE,2013,NaN
+Montenegro,MNE,2014,NaN
+Montenegro,MNE,2015,NaN
+Montenegro,MNE,2016,NaN
+Montenegro,MNE,2017,NaN
+Montenegro,MNE,2018,NaN
+Montenegro,MNE,2019,NaN
+Montenegro,MNE,2020,NaN
+Montenegro,MNE,2021,NaN
+Montenegro,MNE,2022,NaN
 Morocco,MAR,1999,4.62526989
-Morocco,MAR,2000,..
-Morocco,MAR,2001,..
-Morocco,MAR,2002,..
-Morocco,MAR,2003,..
-Morocco,MAR,2004,..
-Morocco,MAR,2005,..
-Morocco,MAR,2006,..
-Morocco,MAR,2007,..
+Morocco,MAR,2000,NaN
+Morocco,MAR,2001,NaN
+Morocco,MAR,2002,NaN
+Morocco,MAR,2003,NaN
+Morocco,MAR,2004,NaN
+Morocco,MAR,2005,NaN
+Morocco,MAR,2006,NaN
+Morocco,MAR,2007,NaN
 Morocco,MAR,2008,4.853390217
 Morocco,MAR,2009,4.831190109
-Morocco,MAR,2010,..
-Morocco,MAR,2011,..
+Morocco,MAR,2010,NaN
+Morocco,MAR,2011,NaN
 Morocco,MAR,2012,5.552948475
-Morocco,MAR,2013,..
+Morocco,MAR,2013,NaN
 Morocco,MAR,2014,5.482760429
 Morocco,MAR,2015,5.133368969
 Morocco,MAR,2016,5.085301876
@@ -3216,16 +3216,16 @@ Morocco,MAR,2020,6.284282684
 Morocco,MAR,2021,5.642734051
 Morocco,MAR,2022,5.912246704
 Mozambique,MOZ,1999,2.641530037
-Mozambique,MOZ,2000,..
-Mozambique,MOZ,2001,..
-Mozambique,MOZ,2002,..
-Mozambique,MOZ,2003,..
+Mozambique,MOZ,2000,NaN
+Mozambique,MOZ,2001,NaN
+Mozambique,MOZ,2002,NaN
+Mozambique,MOZ,2003,NaN
 Mozambique,MOZ,2004,3.198390007
 Mozambique,MOZ,2005,3.858340025
 Mozambique,MOZ,2006,3.735929966
-Mozambique,MOZ,2007,..
-Mozambique,MOZ,2008,..
-Mozambique,MOZ,2009,..
+Mozambique,MOZ,2007,NaN
+Mozambique,MOZ,2008,NaN
+Mozambique,MOZ,2009,NaN
 Mozambique,MOZ,2010,5.390528679
 Mozambique,MOZ,2011,5.621944904
 Mozambique,MOZ,2012,5.557509899
@@ -3239,18 +3239,18 @@ Mozambique,MOZ,2019,6.286394119
 Mozambique,MOZ,2020,6.642562866
 Mozambique,MOZ,2021,6.497897625
 Mozambique,MOZ,2022,6.161983967
-Myanmar,MMR,1999,..
-Myanmar,MMR,2000,..
-Myanmar,MMR,2001,..
-Myanmar,MMR,2002,..
-Myanmar,MMR,2003,..
-Myanmar,MMR,2004,..
-Myanmar,MMR,2005,..
-Myanmar,MMR,2006,..
-Myanmar,MMR,2007,..
-Myanmar,MMR,2008,..
-Myanmar,MMR,2009,..
-Myanmar,MMR,2010,..
+Myanmar,MMR,1999,NaN
+Myanmar,MMR,2000,NaN
+Myanmar,MMR,2001,NaN
+Myanmar,MMR,2002,NaN
+Myanmar,MMR,2003,NaN
+Myanmar,MMR,2004,NaN
+Myanmar,MMR,2005,NaN
+Myanmar,MMR,2006,NaN
+Myanmar,MMR,2007,NaN
+Myanmar,MMR,2008,NaN
+Myanmar,MMR,2009,NaN
+Myanmar,MMR,2010,NaN
 Myanmar,MMR,2011,0.787440002
 Myanmar,MMR,2012,1.586428761
 Myanmar,MMR,2013,1.84381175
@@ -3260,20 +3260,20 @@ Myanmar,MMR,2016,2.158088446
 Myanmar,MMR,2017,2.166529894
 Myanmar,MMR,2018,1.992490053
 Myanmar,MMR,2019,1.999760032
-Myanmar,MMR,2020,..
-Myanmar,MMR,2021,..
-Myanmar,MMR,2022,..
+Myanmar,MMR,2020,NaN
+Myanmar,MMR,2021,NaN
+Myanmar,MMR,2022,NaN
 Namibia,NAM,1999,7.130760193
 Namibia,NAM,2000,6.901780128
 Namibia,NAM,2001,6.888869762
 Namibia,NAM,2002,6.742330074
 Namibia,NAM,2003,6.137139797
-Namibia,NAM,2004,..
-Namibia,NAM,2005,..
+Namibia,NAM,2004,NaN
+Namibia,NAM,2005,NaN
 Namibia,NAM,2006,6.031710148
-Namibia,NAM,2007,..
+Namibia,NAM,2007,NaN
 Namibia,NAM,2008,6.403429985
-Namibia,NAM,2009,..
+Namibia,NAM,2009,NaN
 Namibia,NAM,2010,8.243300438
 Namibia,NAM,2011,8.021379471
 Namibia,NAM,2012,9.242812157
@@ -3287,26 +3287,26 @@ Namibia,NAM,2019,9.3225317
 Namibia,NAM,2020,9.277998924
 Namibia,NAM,2021,10.39144802
 Namibia,NAM,2022,9.677911758
-Nauru,NRU,1999,..
-Nauru,NRU,2000,..
-Nauru,NRU,2001,..
+Nauru,NRU,1999,NaN
+Nauru,NRU,2000,NaN
+Nauru,NRU,2001,NaN
 Nauru,NRU,2002,15.86347008
-Nauru,NRU,2003,..
-Nauru,NRU,2004,..
-Nauru,NRU,2005,..
-Nauru,NRU,2006,..
+Nauru,NRU,2003,NaN
+Nauru,NRU,2004,NaN
+Nauru,NRU,2005,NaN
+Nauru,NRU,2006,NaN
 Nauru,NRU,2007,4.246150017
-Nauru,NRU,2008,..
-Nauru,NRU,2009,..
-Nauru,NRU,2010,..
-Nauru,NRU,2011,..
-Nauru,NRU,2012,..
-Nauru,NRU,2013,..
-Nauru,NRU,2014,..
+Nauru,NRU,2008,NaN
+Nauru,NRU,2009,NaN
+Nauru,NRU,2010,NaN
+Nauru,NRU,2011,NaN
+Nauru,NRU,2012,NaN
+Nauru,NRU,2013,NaN
+Nauru,NRU,2014,NaN
 Nauru,NRU,2015,6.252603054
 Nauru,NRU,2016,7.985621929
 Nauru,NRU,2017,6.810566425
-Nauru,NRU,2018,..
+Nauru,NRU,2018,NaN
 Nauru,NRU,2019,6.011013031
 Nauru,NRU,2020,6.09919405
 Nauru,NRU,2021,6.218871117
@@ -3359,40 +3359,40 @@ Netherlands,NLD,2019,5.159860134
 Netherlands,NLD,2020,5.423810005
 Netherlands,NLD,2021,5.506090164
 Netherlands,NLD,2022,5.052011013
-New Caledonia,NCL,1999,..
-New Caledonia,NCL,2000,..
-New Caledonia,NCL,2001,..
-New Caledonia,NCL,2002,..
-New Caledonia,NCL,2003,..
-New Caledonia,NCL,2004,..
-New Caledonia,NCL,2005,..
-New Caledonia,NCL,2006,..
-New Caledonia,NCL,2007,..
-New Caledonia,NCL,2008,..
-New Caledonia,NCL,2009,..
-New Caledonia,NCL,2010,..
-New Caledonia,NCL,2011,..
-New Caledonia,NCL,2012,..
-New Caledonia,NCL,2013,..
-New Caledonia,NCL,2014,..
-New Caledonia,NCL,2015,..
-New Caledonia,NCL,2016,..
-New Caledonia,NCL,2017,..
-New Caledonia,NCL,2018,..
-New Caledonia,NCL,2019,..
-New Caledonia,NCL,2020,..
-New Caledonia,NCL,2021,..
-New Caledonia,NCL,2022,..
+New Caledonia,NCL,1999,NaN
+New Caledonia,NCL,2000,NaN
+New Caledonia,NCL,2001,NaN
+New Caledonia,NCL,2002,NaN
+New Caledonia,NCL,2003,NaN
+New Caledonia,NCL,2004,NaN
+New Caledonia,NCL,2005,NaN
+New Caledonia,NCL,2006,NaN
+New Caledonia,NCL,2007,NaN
+New Caledonia,NCL,2008,NaN
+New Caledonia,NCL,2009,NaN
+New Caledonia,NCL,2010,NaN
+New Caledonia,NCL,2011,NaN
+New Caledonia,NCL,2012,NaN
+New Caledonia,NCL,2013,NaN
+New Caledonia,NCL,2014,NaN
+New Caledonia,NCL,2015,NaN
+New Caledonia,NCL,2016,NaN
+New Caledonia,NCL,2017,NaN
+New Caledonia,NCL,2018,NaN
+New Caledonia,NCL,2019,NaN
+New Caledonia,NCL,2020,NaN
+New Caledonia,NCL,2021,NaN
+New Caledonia,NCL,2022,NaN
 New Zealand,NZL,1999,6.636209965
-New Zealand,NZL,2000,..
-New Zealand,NZL,2001,..
-New Zealand,NZL,2002,..
-New Zealand,NZL,2003,..
-New Zealand,NZL,2004,..
-New Zealand,NZL,2005,..
-New Zealand,NZL,2006,..
-New Zealand,NZL,2007,..
-New Zealand,NZL,2008,..
+New Zealand,NZL,2000,NaN
+New Zealand,NZL,2001,NaN
+New Zealand,NZL,2002,NaN
+New Zealand,NZL,2003,NaN
+New Zealand,NZL,2004,NaN
+New Zealand,NZL,2005,NaN
+New Zealand,NZL,2006,NaN
+New Zealand,NZL,2007,NaN
+New Zealand,NZL,2008,NaN
 New Zealand,NZL,2009,6.543338299
 New Zealand,NZL,2010,6.597412586
 New Zealand,NZL,2011,6.551252842
@@ -3409,19 +3409,19 @@ New Zealand,NZL,2021,5.548220158
 New Zealand,NZL,2022,5.230120182
 Nicaragua,NIC,1999,2.923650026
 Nicaragua,NIC,2000,3.001600027
-Nicaragua,NIC,2001,..
+Nicaragua,NIC,2001,NaN
 Nicaragua,NIC,2002,2.391010046
 Nicaragua,NIC,2003,2.422009945
-Nicaragua,NIC,2004,..
-Nicaragua,NIC,2005,..
-Nicaragua,NIC,2006,..
-Nicaragua,NIC,2007,..
-Nicaragua,NIC,2008,..
-Nicaragua,NIC,2009,..
+Nicaragua,NIC,2004,NaN
+Nicaragua,NIC,2005,NaN
+Nicaragua,NIC,2006,NaN
+Nicaragua,NIC,2007,NaN
+Nicaragua,NIC,2008,NaN
+Nicaragua,NIC,2009,NaN
 Nicaragua,NIC,2010,4.484240055
-Nicaragua,NIC,2011,..
-Nicaragua,NIC,2012,..
-Nicaragua,NIC,2013,..
+Nicaragua,NIC,2011,NaN
+Nicaragua,NIC,2012,NaN
+Nicaragua,NIC,2013,NaN
 Nicaragua,NIC,2014,4.0832901
 Nicaragua,NIC,2015,4.078430176
 Nicaragua,NIC,2016,4.081130028
@@ -3436,8 +3436,8 @@ Niger,NER,2000,2.565020084
 Niger,NER,2001,2.279819965
 Niger,NER,2002,2.401340008
 Niger,NER,2003,1.937059999
-Niger,NER,2004,..
-Niger,NER,2005,..
+Niger,NER,2004,NaN
+Niger,NER,2005,NaN
 Niger,NER,2006,2.558520079
 Niger,NER,2007,3.014620066
 Niger,NER,2008,2.723119974
@@ -3455,17 +3455,17 @@ Niger,NER,2019,3.526227236
 Niger,NER,2020,3.819200993
 Niger,NER,2021,3.82175827
 Niger,NER,2022,4.101430893
-Nigeria,NGA,1999,..
-Nigeria,NGA,2000,..
-Nigeria,NGA,2001,..
-Nigeria,NGA,2002,..
-Nigeria,NGA,2003,..
-Nigeria,NGA,2004,..
-Nigeria,NGA,2005,..
-Nigeria,NGA,2006,..
-Nigeria,NGA,2007,..
-Nigeria,NGA,2008,..
-Nigeria,NGA,2009,..
+Nigeria,NGA,1999,NaN
+Nigeria,NGA,2000,NaN
+Nigeria,NGA,2001,NaN
+Nigeria,NGA,2002,NaN
+Nigeria,NGA,2003,NaN
+Nigeria,NGA,2004,NaN
+Nigeria,NGA,2005,NaN
+Nigeria,NGA,2006,NaN
+Nigeria,NGA,2007,NaN
+Nigeria,NGA,2008,NaN
+Nigeria,NGA,2009,NaN
 Nigeria,NGA,2010,0.496685654
 Nigeria,NGA,2011,0.564658761
 Nigeria,NGA,2012,0.549233079
@@ -3479,54 +3479,54 @@ Nigeria,NGA,2019,0.358478993
 Nigeria,NGA,2020,0.359637648
 Nigeria,NGA,2021,0.381919116
 Nigeria,NGA,2022,0.348516703
-North Macedonia,MKD,1999,..
-North Macedonia,MKD,2000,..
-North Macedonia,MKD,2001,..
+North Macedonia,MKD,1999,NaN
+North Macedonia,MKD,2000,NaN
+North Macedonia,MKD,2001,NaN
 North Macedonia,MKD,2002,3.300149918
-North Macedonia,MKD,2003,..
-North Macedonia,MKD,2004,..
-North Macedonia,MKD,2005,..
-North Macedonia,MKD,2006,..
-North Macedonia,MKD,2007,..
-North Macedonia,MKD,2008,..
-North Macedonia,MKD,2009,..
-North Macedonia,MKD,2010,..
-North Macedonia,MKD,2011,..
-North Macedonia,MKD,2012,..
-North Macedonia,MKD,2013,..
-North Macedonia,MKD,2014,..
-North Macedonia,MKD,2015,..
-North Macedonia,MKD,2016,..
-North Macedonia,MKD,2017,..
-North Macedonia,MKD,2018,..
-North Macedonia,MKD,2019,..
-North Macedonia,MKD,2020,..
-North Macedonia,MKD,2021,..
-North Macedonia,MKD,2022,..
-Northern Mariana Islands,MNP,1999,..
-Northern Mariana Islands,MNP,2000,..
-Northern Mariana Islands,MNP,2001,..
-Northern Mariana Islands,MNP,2002,..
-Northern Mariana Islands,MNP,2003,..
-Northern Mariana Islands,MNP,2004,..
-Northern Mariana Islands,MNP,2005,..
-Northern Mariana Islands,MNP,2006,..
-Northern Mariana Islands,MNP,2007,..
-Northern Mariana Islands,MNP,2008,..
-Northern Mariana Islands,MNP,2009,..
-Northern Mariana Islands,MNP,2010,..
-Northern Mariana Islands,MNP,2011,..
-Northern Mariana Islands,MNP,2012,..
-Northern Mariana Islands,MNP,2013,..
-Northern Mariana Islands,MNP,2014,..
-Northern Mariana Islands,MNP,2015,..
-Northern Mariana Islands,MNP,2016,..
-Northern Mariana Islands,MNP,2017,..
-Northern Mariana Islands,MNP,2018,..
-Northern Mariana Islands,MNP,2019,..
-Northern Mariana Islands,MNP,2020,..
-Northern Mariana Islands,MNP,2021,..
-Northern Mariana Islands,MNP,2022,..
+North Macedonia,MKD,2003,NaN
+North Macedonia,MKD,2004,NaN
+North Macedonia,MKD,2005,NaN
+North Macedonia,MKD,2006,NaN
+North Macedonia,MKD,2007,NaN
+North Macedonia,MKD,2008,NaN
+North Macedonia,MKD,2009,NaN
+North Macedonia,MKD,2010,NaN
+North Macedonia,MKD,2011,NaN
+North Macedonia,MKD,2012,NaN
+North Macedonia,MKD,2013,NaN
+North Macedonia,MKD,2014,NaN
+North Macedonia,MKD,2015,NaN
+North Macedonia,MKD,2016,NaN
+North Macedonia,MKD,2017,NaN
+North Macedonia,MKD,2018,NaN
+North Macedonia,MKD,2019,NaN
+North Macedonia,MKD,2020,NaN
+North Macedonia,MKD,2021,NaN
+North Macedonia,MKD,2022,NaN
+Northern Mariana Islands,MNP,1999,NaN
+Northern Mariana Islands,MNP,2000,NaN
+Northern Mariana Islands,MNP,2001,NaN
+Northern Mariana Islands,MNP,2002,NaN
+Northern Mariana Islands,MNP,2003,NaN
+Northern Mariana Islands,MNP,2004,NaN
+Northern Mariana Islands,MNP,2005,NaN
+Northern Mariana Islands,MNP,2006,NaN
+Northern Mariana Islands,MNP,2007,NaN
+Northern Mariana Islands,MNP,2008,NaN
+Northern Mariana Islands,MNP,2009,NaN
+Northern Mariana Islands,MNP,2010,NaN
+Northern Mariana Islands,MNP,2011,NaN
+Northern Mariana Islands,MNP,2012,NaN
+Northern Mariana Islands,MNP,2013,NaN
+Northern Mariana Islands,MNP,2014,NaN
+Northern Mariana Islands,MNP,2015,NaN
+Northern Mariana Islands,MNP,2016,NaN
+Northern Mariana Islands,MNP,2017,NaN
+Northern Mariana Islands,MNP,2018,NaN
+Northern Mariana Islands,MNP,2019,NaN
+Northern Mariana Islands,MNP,2020,NaN
+Northern Mariana Islands,MNP,2021,NaN
+Northern Mariana Islands,MNP,2022,NaN
 Norway,NOR,1999,6.962220192
 Norway,NOR,2000,6.459340096
 Norway,NOR,2001,6.820159912
@@ -3559,27 +3559,27 @@ Oman,OMN,2003,3.896990061
 Oman,OMN,2004,4.02835989
 Oman,OMN,2005,3.517210007
 Oman,OMN,2006,3.859339952
-Oman,OMN,2007,..
-Oman,OMN,2008,..
+Oman,OMN,2007,NaN
+Oman,OMN,2008,NaN
 Oman,OMN,2009,4.187739849
-Oman,OMN,2010,..
-Oman,OMN,2011,..
-Oman,OMN,2012,..
+Oman,OMN,2010,NaN
+Oman,OMN,2011,NaN
+Oman,OMN,2012,NaN
 Oman,OMN,2013,4.353839874
-Oman,OMN,2014,..
-Oman,OMN,2015,..
-Oman,OMN,2016,..
+Oman,OMN,2014,NaN
+Oman,OMN,2015,NaN
+Oman,OMN,2016,NaN
 Oman,OMN,2017,5.995940208
 Oman,OMN,2018,4.585659981
 Oman,OMN,2019,5.063630104
 Oman,OMN,2020,6.877699852
-Oman,OMN,2021,..
+Oman,OMN,2021,NaN
 Oman,OMN,2022,4.19907999
 Pakistan,PAK,1999,2.611490011
 Pakistan,PAK,2000,1.837820053
-Pakistan,PAK,2001,..
-Pakistan,PAK,2002,..
-Pakistan,PAK,2003,..
+Pakistan,PAK,2001,NaN
+Pakistan,PAK,2002,NaN
+Pakistan,PAK,2003,NaN
 Pakistan,PAK,2004,1.443379998
 Pakistan,PAK,2005,1.670580029
 Pakistan,PAK,2006,1.980559945
@@ -3599,27 +3599,27 @@ Pakistan,PAK,2019,2.21491766
 Pakistan,PAK,2020,2.057182312
 Pakistan,PAK,2021,1.687461257
 Pakistan,PAK,2022,1.974449039
-Palau,PLW,1999,..
+Palau,PLW,1999,NaN
 Palau,PLW,2000,7.844339848
 Palau,PLW,2001,7.584159851
 Palau,PLW,2002,7.546010017
-Palau,PLW,2003,..
-Palau,PLW,2004,..
-Palau,PLW,2005,..
-Palau,PLW,2006,..
-Palau,PLW,2007,..
-Palau,PLW,2008,..
-Palau,PLW,2009,..
-Palau,PLW,2010,..
-Palau,PLW,2011,..
-Palau,PLW,2012,..
-Palau,PLW,2013,..
-Palau,PLW,2014,..
-Palau,PLW,2015,..
-Palau,PLW,2016,..
-Palau,PLW,2017,..
-Palau,PLW,2018,..
-Palau,PLW,2019,..
+Palau,PLW,2003,NaN
+Palau,PLW,2004,NaN
+Palau,PLW,2005,NaN
+Palau,PLW,2006,NaN
+Palau,PLW,2007,NaN
+Palau,PLW,2008,NaN
+Palau,PLW,2009,NaN
+Palau,PLW,2010,NaN
+Palau,PLW,2011,NaN
+Palau,PLW,2012,NaN
+Palau,PLW,2013,NaN
+Palau,PLW,2014,NaN
+Palau,PLW,2015,NaN
+Palau,PLW,2016,NaN
+Palau,PLW,2017,NaN
+Palau,PLW,2018,NaN
+Palau,PLW,2019,NaN
 Palau,PLW,2020,3.471180677
 Palau,PLW,2021,3.944170952
 Palau,PLW,2022,3.576201439
@@ -3629,15 +3629,15 @@ Panama,PAN,2001,4.105879784
 Panama,PAN,2002,4.1916399
 Panama,PAN,2003,4.168700218
 Panama,PAN,2004,3.578660011
-Panama,PAN,2005,..
-Panama,PAN,2006,..
-Panama,PAN,2007,..
+Panama,PAN,2005,NaN
+Panama,PAN,2006,NaN
+Panama,PAN,2007,NaN
 Panama,PAN,2008,3.50229001
-Panama,PAN,2009,..
-Panama,PAN,2010,..
+Panama,PAN,2009,NaN
+Panama,PAN,2010,NaN
 Panama,PAN,2011,3.159009933
-Panama,PAN,2012,..
-Panama,PAN,2013,..
+Panama,PAN,2012,NaN
+Panama,PAN,2013,NaN
 Panama,PAN,2014,3.174010038
 Panama,PAN,2015,3.366699934
 Panama,PAN,2016,3.429130077
@@ -3647,22 +3647,22 @@ Panama,PAN,2019,3.093294144
 Panama,PAN,2020,4.302840233
 Panama,PAN,2021,3.711410046
 Panama,PAN,2022,3.366930008
-Papua New Guinea,PNG,1999,..
-Papua New Guinea,PNG,2000,..
-Papua New Guinea,PNG,2001,..
-Papua New Guinea,PNG,2002,..
-Papua New Guinea,PNG,2003,..
-Papua New Guinea,PNG,2004,..
-Papua New Guinea,PNG,2005,..
-Papua New Guinea,PNG,2006,..
-Papua New Guinea,PNG,2007,..
-Papua New Guinea,PNG,2008,..
-Papua New Guinea,PNG,2009,..
-Papua New Guinea,PNG,2010,..
-Papua New Guinea,PNG,2011,..
-Papua New Guinea,PNG,2012,..
-Papua New Guinea,PNG,2013,..
-Papua New Guinea,PNG,2014,..
+Papua New Guinea,PNG,1999,NaN
+Papua New Guinea,PNG,2000,NaN
+Papua New Guinea,PNG,2001,NaN
+Papua New Guinea,PNG,2002,NaN
+Papua New Guinea,PNG,2003,NaN
+Papua New Guinea,PNG,2004,NaN
+Papua New Guinea,PNG,2005,NaN
+Papua New Guinea,PNG,2006,NaN
+Papua New Guinea,PNG,2007,NaN
+Papua New Guinea,PNG,2008,NaN
+Papua New Guinea,PNG,2009,NaN
+Papua New Guinea,PNG,2010,NaN
+Papua New Guinea,PNG,2011,NaN
+Papua New Guinea,PNG,2012,NaN
+Papua New Guinea,PNG,2013,NaN
+Papua New Guinea,PNG,2014,NaN
 Papua New Guinea,PNG,2015,1.666000009
 Papua New Guinea,PNG,2016,0.846000016
 Papua New Guinea,PNG,2017,1.964930058
@@ -3670,18 +3670,18 @@ Papua New Guinea,PNG,2018,1.874830008
 Papua New Guinea,PNG,2019,0.736999989
 Papua New Guinea,PNG,2020,1.498000026
 Papua New Guinea,PNG,2021,1.345999956
-Papua New Guinea,PNG,2022,..
+Papua New Guinea,PNG,2022,NaN
 Paraguay,PRY,1999,4.230879784
 Paraguay,PRY,2000,4.230209827
 Paraguay,PRY,2001,3.833570004
 Paraguay,PRY,2002,3.407730103
 Paraguay,PRY,2003,3.382760048
 Paraguay,PRY,2004,2.869899988
-Paraguay,PRY,2005,..
-Paraguay,PRY,2006,..
+Paraguay,PRY,2005,NaN
+Paraguay,PRY,2006,NaN
 Paraguay,PRY,2007,2.739510059
-Paraguay,PRY,2008,..
-Paraguay,PRY,2009,..
+Paraguay,PRY,2008,NaN
+Paraguay,PRY,2009,NaN
 Paraguay,PRY,2010,2.770720005
 Paraguay,PRY,2011,3.692820072
 Paraguay,PRY,2012,3.668790102
@@ -3719,7 +3719,7 @@ Peru,PER,2019,3.822429895
 Peru,PER,2020,4.259379864
 Peru,PER,2021,3.927210093
 Peru,PER,2022,3.833159924
-Philippines,PHL,1999,..
+Philippines,PHL,1999,NaN
 Philippines,PHL,2000,3.164400101
 Philippines,PHL,2001,2.92463994
 Philippines,PHL,2002,2.89222002
@@ -3730,10 +3730,10 @@ Philippines,PHL,2006,2.425790071
 Philippines,PHL,2007,2.485179901
 Philippines,PHL,2008,2.582829952
 Philippines,PHL,2009,2.537770033
-Philippines,PHL,2010,..
-Philippines,PHL,2011,..
-Philippines,PHL,2012,..
-Philippines,PHL,2013,..
+Philippines,PHL,2010,NaN
+Philippines,PHL,2011,NaN
+Philippines,PHL,2012,NaN
+Philippines,PHL,2013,NaN
 Philippines,PHL,2014,2.664542437
 Philippines,PHL,2015,2.830523014
 Philippines,PHL,2016,3.301280975
@@ -3766,7 +3766,7 @@ Poland,POL,2018,4.605060101
 Poland,POL,2019,4.67881012
 Poland,POL,2020,4.852650166
 Poland,POL,2021,4.673039913
-Poland,POL,2022,..
+Poland,POL,2022,NaN
 Portugal,PRT,1999,5.046860218
 Portugal,PRT,2000,5.163849831
 Portugal,PRT,2001,5.33713007
@@ -3790,31 +3790,31 @@ Portugal,PRT,2018,4.675159931
 Portugal,PRT,2019,4.630020142
 Portugal,PRT,2020,4.876560211
 Portugal,PRT,2021,4.78316021
-Portugal,PRT,2022,..
-Puerto Rico,PRI,1999,..
-Puerto Rico,PRI,2000,..
-Puerto Rico,PRI,2001,..
-Puerto Rico,PRI,2002,..
-Puerto Rico,PRI,2003,..
-Puerto Rico,PRI,2004,..
-Puerto Rico,PRI,2005,..
-Puerto Rico,PRI,2006,..
-Puerto Rico,PRI,2007,..
-Puerto Rico,PRI,2008,..
-Puerto Rico,PRI,2009,..
-Puerto Rico,PRI,2010,..
-Puerto Rico,PRI,2011,..
-Puerto Rico,PRI,2012,..
+Portugal,PRT,2022,NaN
+Puerto Rico,PRI,1999,NaN
+Puerto Rico,PRI,2000,NaN
+Puerto Rico,PRI,2001,NaN
+Puerto Rico,PRI,2002,NaN
+Puerto Rico,PRI,2003,NaN
+Puerto Rico,PRI,2004,NaN
+Puerto Rico,PRI,2005,NaN
+Puerto Rico,PRI,2006,NaN
+Puerto Rico,PRI,2007,NaN
+Puerto Rico,PRI,2008,NaN
+Puerto Rico,PRI,2009,NaN
+Puerto Rico,PRI,2010,NaN
+Puerto Rico,PRI,2011,NaN
+Puerto Rico,PRI,2012,NaN
 Puerto Rico,PRI,2013,6.481080055
 Puerto Rico,PRI,2014,6.072659969
-Puerto Rico,PRI,2015,..
-Puerto Rico,PRI,2016,..
-Puerto Rico,PRI,2017,..
-Puerto Rico,PRI,2018,..
-Puerto Rico,PRI,2019,..
-Puerto Rico,PRI,2020,..
-Puerto Rico,PRI,2021,..
-Puerto Rico,PRI,2022,..
+Puerto Rico,PRI,2015,NaN
+Puerto Rico,PRI,2016,NaN
+Puerto Rico,PRI,2017,NaN
+Puerto Rico,PRI,2018,NaN
+Puerto Rico,PRI,2019,NaN
+Puerto Rico,PRI,2020,NaN
+Puerto Rico,PRI,2021,NaN
+Puerto Rico,PRI,2022,NaN
 Qatar,QAT,1999,4.345300198
 Qatar,QAT,2000,3.725980043
 Qatar,QAT,2001,3.200190067
@@ -3822,8 +3822,8 @@ Qatar,QAT,2002,3.846560001
 Qatar,QAT,2003,3.373939991
 Qatar,QAT,2004,3.462589979
 Qatar,QAT,2005,3.971879959
-Qatar,QAT,2006,..
-Qatar,QAT,2007,..
+Qatar,QAT,2006,NaN
+Qatar,QAT,2007,NaN
 Qatar,QAT,2008,4.22755003
 Qatar,QAT,2009,3.413150072
 Qatar,QAT,2010,4.539659977
@@ -3831,15 +3831,15 @@ Qatar,QAT,2011,4.012239933
 Qatar,QAT,2012,3.50744009
 Qatar,QAT,2013,4.073840141
 Qatar,QAT,2014,3.605350018
-Qatar,QAT,2015,..
-Qatar,QAT,2016,..
+Qatar,QAT,2015,NaN
+Qatar,QAT,2016,NaN
 Qatar,QAT,2017,2.967459917
-Qatar,QAT,2018,..
+Qatar,QAT,2018,NaN
 Qatar,QAT,2019,2.803780079
 Qatar,QAT,2020,3.233669996
-Qatar,QAT,2021,..
-Qatar,QAT,2022,..
-Romania,ROU,1999,..
+Qatar,QAT,2021,NaN
+Qatar,QAT,2022,NaN
+Romania,ROU,1999,NaN
 Romania,ROU,2000,2.868629932
 Romania,ROU,2001,3.266289949
 Romania,ROU,2002,3.504129887
@@ -3862,8 +3862,8 @@ Romania,ROU,2018,3.319180012
 Romania,ROU,2019,3.566950083
 Romania,ROU,2020,3.589260101
 Romania,ROU,2021,3.324529886
-Romania,ROU,2022,..
-Russian Federation,RUS,1999,..
+Romania,ROU,2022,NaN
+Russian Federation,RUS,1999,NaN
 Russian Federation,RUS,2000,2.93979001
 Russian Federation,RUS,2001,3.106019974
 Russian Federation,RUS,2002,3.835020065
@@ -3871,7 +3871,7 @@ Russian Federation,RUS,2003,3.678539991
 Russian Federation,RUS,2004,3.547869921
 Russian Federation,RUS,2005,3.771929979
 Russian Federation,RUS,2006,3.866260052
-Russian Federation,RUS,2007,..
+Russian Federation,RUS,2007,NaN
 Russian Federation,RUS,2008,4.101749897
 Russian Federation,RUS,2009,4.470641613
 Russian Federation,RUS,2010,3.847624302
@@ -3890,14 +3890,14 @@ Russian Federation,RUS,2022,4.054027557
 Rwanda,RWA,1999,3.857990026
 Rwanda,RWA,2000,3.434180021
 Rwanda,RWA,2001,4.825019836
-Rwanda,RWA,2002,..
-Rwanda,RWA,2003,..
-Rwanda,RWA,2004,..
-Rwanda,RWA,2005,..
-Rwanda,RWA,2006,..
+Rwanda,RWA,2002,NaN
+Rwanda,RWA,2003,NaN
+Rwanda,RWA,2004,NaN
+Rwanda,RWA,2005,NaN
+Rwanda,RWA,2006,NaN
 Rwanda,RWA,2007,3.985029936
 Rwanda,RWA,2008,3.502160072
-Rwanda,RWA,2009,..
+Rwanda,RWA,2009,NaN
 Rwanda,RWA,2010,4.631269932
 Rwanda,RWA,2011,4.383460045
 Rwanda,RWA,2012,4.421030045
@@ -3915,14 +3915,14 @@ Samoa,WSM,1999,4.016250134
 Samoa,WSM,2000,3.630959988
 Samoa,WSM,2001,3.976520061
 Samoa,WSM,2002,3.939320087
-Samoa,WSM,2003,..
-Samoa,WSM,2004,..
-Samoa,WSM,2005,..
-Samoa,WSM,2006,..
-Samoa,WSM,2007,..
+Samoa,WSM,2003,NaN
+Samoa,WSM,2004,NaN
+Samoa,WSM,2005,NaN
+Samoa,WSM,2006,NaN
+Samoa,WSM,2007,NaN
 Samoa,WSM,2008,5.116590023
-Samoa,WSM,2009,..
-Samoa,WSM,2010,..
+Samoa,WSM,2009,NaN
+Samoa,WSM,2010,NaN
 Samoa,WSM,2011,4.948041439
 Samoa,WSM,2012,4.89170742
 Samoa,WSM,2013,4.614860535
@@ -3935,20 +3935,20 @@ Samoa,WSM,2019,4.39581728
 Samoa,WSM,2020,4.481005192
 Samoa,WSM,2021,5.204488277
 Samoa,WSM,2022,4.880791187
-San Marino,SMR,1999,..
-San Marino,SMR,2000,..
-San Marino,SMR,2001,..
+San Marino,SMR,1999,NaN
+San Marino,SMR,2000,NaN
+San Marino,SMR,2001,NaN
 San Marino,SMR,2002,3.304997921
 San Marino,SMR,2003,3.132753849
 San Marino,SMR,2004,2.793839931
-San Marino,SMR,2005,..
-San Marino,SMR,2006,..
-San Marino,SMR,2007,..
-San Marino,SMR,2008,..
-San Marino,SMR,2009,..
+San Marino,SMR,2005,NaN
+San Marino,SMR,2006,NaN
+San Marino,SMR,2007,NaN
+San Marino,SMR,2008,NaN
+San Marino,SMR,2009,NaN
 San Marino,SMR,2010,2.62883997
 San Marino,SMR,2011,2.702960014
-San Marino,SMR,2012,..
+San Marino,SMR,2012,NaN
 San Marino,SMR,2013,3.267235279
 San Marino,SMR,2014,3.193576336
 San Marino,SMR,2015,3.119142771
@@ -3959,9 +3959,9 @@ San Marino,SMR,2019,3.379699945
 San Marino,SMR,2020,3.424619913
 San Marino,SMR,2021,3.108920097
 San Marino,SMR,2022,3.431818485
-Sao Tome and Principe,STP,1999,..
-Sao Tome and Principe,STP,2000,..
-Sao Tome and Principe,STP,2001,..
+Sao Tome and Principe,STP,1999,NaN
+Sao Tome and Principe,STP,2000,NaN
+Sao Tome and Principe,STP,2001,NaN
 Sao Tome and Principe,STP,2002,2.720580101
 Sao Tome and Principe,STP,2003,3.246929884
 Sao Tome and Principe,STP,2004,3.234709978
@@ -3971,7 +3971,7 @@ Sao Tome and Principe,STP,2007,6.286829948
 Sao Tome and Principe,STP,2008,5.554490089
 Sao Tome and Principe,STP,2009,9.994290352
 Sao Tome and Principe,STP,2010,9.988269806
-Sao Tome and Principe,STP,2011,..
+Sao Tome and Principe,STP,2011,NaN
 Sao Tome and Principe,STP,2012,6.928460121
 Sao Tome and Principe,STP,2013,6.685090065
 Sao Tome and Principe,STP,2014,4.432169914
@@ -3991,22 +3991,22 @@ Saudi Arabia,SAU,2003,7.105090141
 Saudi Arabia,SAU,2004,6.277470112
 Saudi Arabia,SAU,2005,5.430920124
 Saudi Arabia,SAU,2006,5.891170025
-Saudi Arabia,SAU,2007,..
+Saudi Arabia,SAU,2007,NaN
 Saudi Arabia,SAU,2008,5.13781023
-Saudi Arabia,SAU,2009,..
-Saudi Arabia,SAU,2010,..
-Saudi Arabia,SAU,2011,..
-Saudi Arabia,SAU,2012,..
-Saudi Arabia,SAU,2013,..
-Saudi Arabia,SAU,2014,..
-Saudi Arabia,SAU,2015,..
-Saudi Arabia,SAU,2016,..
-Saudi Arabia,SAU,2017,..
-Saudi Arabia,SAU,2018,..
-Saudi Arabia,SAU,2019,..
-Saudi Arabia,SAU,2020,..
-Saudi Arabia,SAU,2021,..
-Saudi Arabia,SAU,2022,..
+Saudi Arabia,SAU,2009,NaN
+Saudi Arabia,SAU,2010,NaN
+Saudi Arabia,SAU,2011,NaN
+Saudi Arabia,SAU,2012,NaN
+Saudi Arabia,SAU,2013,NaN
+Saudi Arabia,SAU,2014,NaN
+Saudi Arabia,SAU,2015,NaN
+Saudi Arabia,SAU,2016,NaN
+Saudi Arabia,SAU,2017,NaN
+Saudi Arabia,SAU,2018,NaN
+Saudi Arabia,SAU,2019,NaN
+Saudi Arabia,SAU,2020,NaN
+Saudi Arabia,SAU,2021,NaN
+Saudi Arabia,SAU,2022,NaN
 Senegal,SEN,1999,2.459810019
 Senegal,SEN,2000,2.463350058
 Senegal,SEN,2001,2.471509933
@@ -4015,7 +4015,7 @@ Senegal,SEN,2003,2.751250029
 Senegal,SEN,2004,3.077780008
 Senegal,SEN,2005,4.064430237
 Senegal,SEN,2006,3.8213799
-Senegal,SEN,2007,..
+Senegal,SEN,2007,NaN
 Senegal,SEN,2008,4.025680065
 Senegal,SEN,2009,4.920730114
 Senegal,SEN,2010,0.544770002
@@ -4031,41 +4031,41 @@ Senegal,SEN,2019,5.035270214
 Senegal,SEN,2020,5.686979771
 Senegal,SEN,2021,5.612010002
 Senegal,SEN,2022,5.987539768
-Serbia,SRB,1999,..
-Serbia,SRB,2000,..
-Serbia,SRB,2001,..
-Serbia,SRB,2002,..
-Serbia,SRB,2003,..
-Serbia,SRB,2004,..
-Serbia,SRB,2005,..
-Serbia,SRB,2006,..
+Serbia,SRB,1999,NaN
+Serbia,SRB,2000,NaN
+Serbia,SRB,2001,NaN
+Serbia,SRB,2002,NaN
+Serbia,SRB,2003,NaN
+Serbia,SRB,2004,NaN
+Serbia,SRB,2005,NaN
+Serbia,SRB,2006,NaN
 Serbia,SRB,2007,4.209839821
 Serbia,SRB,2008,4.280944347
 Serbia,SRB,2009,4.483980179
 Serbia,SRB,2010,3.900932312
 Serbia,SRB,2011,4.238359928
 Serbia,SRB,2012,3.847684383
-Serbia,SRB,2013,..
-Serbia,SRB,2014,..
-Serbia,SRB,2015,..
+Serbia,SRB,2013,NaN
+Serbia,SRB,2014,NaN
+Serbia,SRB,2015,NaN
 Serbia,SRB,2016,3.63470006
 Serbia,SRB,2017,3.710160017
 Serbia,SRB,2018,3.582319975
 Serbia,SRB,2019,3.616470098
-Serbia,SRB,2020,..
+Serbia,SRB,2020,NaN
 Serbia,SRB,2021,3.298670053
 Serbia,SRB,2022,3.239389896
 Seychelles,SYC,1999,4.944680214
 Seychelles,SYC,2000,3.979164839
-Seychelles,SYC,2001,..
+Seychelles,SYC,2001,NaN
 Seychelles,SYC,2002,4.881090164
 Seychelles,SYC,2003,5.05177021
-Seychelles,SYC,2004,..
-Seychelles,SYC,2005,..
+Seychelles,SYC,2004,NaN
+Seychelles,SYC,2005,NaN
 Seychelles,SYC,2006,4.483310223
 Seychelles,SYC,2007,4.06658268
-Seychelles,SYC,2008,..
-Seychelles,SYC,2009,..
+Seychelles,SYC,2008,NaN
+Seychelles,SYC,2009,NaN
 Seychelles,SYC,2010,3.548263311
 Seychelles,SYC,2011,3.629950047
 Seychelles,SYC,2012,2.542160034
@@ -4079,14 +4079,14 @@ Seychelles,SYC,2019,4.050551414
 Seychelles,SYC,2020,4.891200542
 Seychelles,SYC,2021,5.623589993
 Seychelles,SYC,2022,4.740135193
-Sierra Leone,SLE,1999,..
+Sierra Leone,SLE,1999,NaN
 Sierra Leone,SLE,2000,4.949369907
 Sierra Leone,SLE,2001,3.48251009
 Sierra Leone,SLE,2002,3.594340086
 Sierra Leone,SLE,2003,3.299000025
 Sierra Leone,SLE,2004,3.146929979
 Sierra Leone,SLE,2005,2.837270021
-Sierra Leone,SLE,2006,..
+Sierra Leone,SLE,2006,NaN
 Sierra Leone,SLE,2007,2.596780062
 Sierra Leone,SLE,2008,2.465889931
 Sierra Leone,SLE,2009,2.818209887
@@ -4095,7 +4095,7 @@ Sierra Leone,SLE,2011,2.678254604
 Sierra Leone,SLE,2012,2.881598473
 Sierra Leone,SLE,2013,2.379813194
 Sierra Leone,SLE,2014,2.6629076
-Sierra Leone,SLE,2015,..
+Sierra Leone,SLE,2015,NaN
 Sierra Leone,SLE,2016,2.911339998
 Sierra Leone,SLE,2017,4.660860062
 Sierra Leone,SLE,2018,6.989627838
@@ -4103,7 +4103,7 @@ Sierra Leone,SLE,2019,7.447011948
 Sierra Leone,SLE,2020,8.809548378
 Sierra Leone,SLE,2021,9.442235947
 Sierra Leone,SLE,2022,8.53918457
-Singapore,SGP,1999,..
+Singapore,SGP,1999,NaN
 Singapore,SGP,2000,3.32130003
 Singapore,SGP,2001,3.542490005
 Singapore,SGP,2002,3.878530025
@@ -4127,29 +4127,29 @@ Singapore,SGP,2019,2.729510069
 Singapore,SGP,2020,2.686990023
 Singapore,SGP,2021,2.824709892
 Singapore,SGP,2022,2.488919973
-Sint Maarten (Dutch part),SXM,1999,..
-Sint Maarten (Dutch part),SXM,2000,..
-Sint Maarten (Dutch part),SXM,2001,..
-Sint Maarten (Dutch part),SXM,2002,..
-Sint Maarten (Dutch part),SXM,2003,..
-Sint Maarten (Dutch part),SXM,2004,..
-Sint Maarten (Dutch part),SXM,2005,..
-Sint Maarten (Dutch part),SXM,2006,..
-Sint Maarten (Dutch part),SXM,2007,..
-Sint Maarten (Dutch part),SXM,2008,..
-Sint Maarten (Dutch part),SXM,2009,..
-Sint Maarten (Dutch part),SXM,2010,..
-Sint Maarten (Dutch part),SXM,2011,..
-Sint Maarten (Dutch part),SXM,2012,..
-Sint Maarten (Dutch part),SXM,2013,..
-Sint Maarten (Dutch part),SXM,2014,..
-Sint Maarten (Dutch part),SXM,2015,..
-Sint Maarten (Dutch part),SXM,2016,..
-Sint Maarten (Dutch part),SXM,2017,..
-Sint Maarten (Dutch part),SXM,2018,..
-Sint Maarten (Dutch part),SXM,2019,..
-Sint Maarten (Dutch part),SXM,2020,..
-Sint Maarten (Dutch part),SXM,2021,..
+Sint Maarten (Dutch part),SXM,1999,NaN
+Sint Maarten (Dutch part),SXM,2000,NaN
+Sint Maarten (Dutch part),SXM,2001,NaN
+Sint Maarten (Dutch part),SXM,2002,NaN
+Sint Maarten (Dutch part),SXM,2003,NaN
+Sint Maarten (Dutch part),SXM,2004,NaN
+Sint Maarten (Dutch part),SXM,2005,NaN
+Sint Maarten (Dutch part),SXM,2006,NaN
+Sint Maarten (Dutch part),SXM,2007,NaN
+Sint Maarten (Dutch part),SXM,2008,NaN
+Sint Maarten (Dutch part),SXM,2009,NaN
+Sint Maarten (Dutch part),SXM,2010,NaN
+Sint Maarten (Dutch part),SXM,2011,NaN
+Sint Maarten (Dutch part),SXM,2012,NaN
+Sint Maarten (Dutch part),SXM,2013,NaN
+Sint Maarten (Dutch part),SXM,2014,NaN
+Sint Maarten (Dutch part),SXM,2015,NaN
+Sint Maarten (Dutch part),SXM,2016,NaN
+Sint Maarten (Dutch part),SXM,2017,NaN
+Sint Maarten (Dutch part),SXM,2018,NaN
+Sint Maarten (Dutch part),SXM,2019,NaN
+Sint Maarten (Dutch part),SXM,2020,NaN
+Sint Maarten (Dutch part),SXM,2021,NaN
 Sint Maarten (Dutch part),SXM,2022,4.18044138
 Slovak Republic,SVK,1999,4.107299805
 Slovak Republic,SVK,2000,3.864680052
@@ -4174,8 +4174,8 @@ Slovak Republic,SVK,2018,3.952909946
 Slovak Republic,SVK,2019,4.273119926
 Slovak Republic,SVK,2020,4.764279842
 Slovak Republic,SVK,2021,4.797180176
-Slovak Republic,SVK,2022,..
-Slovenia,SVN,1999,..
+Slovak Republic,SVK,2022,NaN
+Slovenia,SVN,1999,NaN
 Slovenia,SVN,2000,6.130482674
 Slovenia,SVN,2001,5.756830215
 Slovenia,SVN,2002,5.672860146
@@ -4198,55 +4198,55 @@ Slovenia,SVN,2018,4.934559822
 Slovenia,SVN,2019,4.891530037
 Slovenia,SVN,2020,5.383739948
 Slovenia,SVN,2021,5.365260124
-Slovenia,SVN,2022,..
-Solomon Islands,SLB,1999,..
-Solomon Islands,SLB,2000,..
-Solomon Islands,SLB,2001,..
-Solomon Islands,SLB,2002,..
-Solomon Islands,SLB,2003,..
-Solomon Islands,SLB,2004,..
-Solomon Islands,SLB,2005,..
-Solomon Islands,SLB,2006,..
+Slovenia,SVN,2022,NaN
+Solomon Islands,SLB,1999,NaN
+Solomon Islands,SLB,2000,NaN
+Solomon Islands,SLB,2001,NaN
+Solomon Islands,SLB,2002,NaN
+Solomon Islands,SLB,2003,NaN
+Solomon Islands,SLB,2004,NaN
+Solomon Islands,SLB,2005,NaN
+Solomon Islands,SLB,2006,NaN
 Solomon Islands,SLB,2007,7.333270073
 Solomon Islands,SLB,2008,6.895150185
 Solomon Islands,SLB,2009,6.65858984
 Solomon Islands,SLB,2010,7.47837019
-Solomon Islands,SLB,2011,..
-Solomon Islands,SLB,2012,..
-Solomon Islands,SLB,2013,..
-Solomon Islands,SLB,2014,..
-Solomon Islands,SLB,2015,..
-Solomon Islands,SLB,2016,..
-Solomon Islands,SLB,2017,..
-Solomon Islands,SLB,2018,..
-Solomon Islands,SLB,2019,..
+Solomon Islands,SLB,2011,NaN
+Solomon Islands,SLB,2012,NaN
+Solomon Islands,SLB,2013,NaN
+Solomon Islands,SLB,2014,NaN
+Solomon Islands,SLB,2015,NaN
+Solomon Islands,SLB,2016,NaN
+Solomon Islands,SLB,2017,NaN
+Solomon Islands,SLB,2018,NaN
+Solomon Islands,SLB,2019,NaN
 Solomon Islands,SLB,2020,9.643546104
 Solomon Islands,SLB,2021,8.332326889
 Solomon Islands,SLB,2022,8.48737812
-Somalia,SOM,1999,..
-Somalia,SOM,2000,..
-Somalia,SOM,2001,..
-Somalia,SOM,2002,..
-Somalia,SOM,2003,..
-Somalia,SOM,2004,..
-Somalia,SOM,2005,..
-Somalia,SOM,2006,..
-Somalia,SOM,2007,..
-Somalia,SOM,2008,..
-Somalia,SOM,2009,..
-Somalia,SOM,2010,..
-Somalia,SOM,2011,..
-Somalia,SOM,2012,..
-Somalia,SOM,2013,..
-Somalia,SOM,2014,..
-Somalia,SOM,2015,..
-Somalia,SOM,2016,..
-Somalia,SOM,2017,..
-Somalia,SOM,2018,..
-Somalia,SOM,2019,..
-Somalia,SOM,2020,..
-Somalia,SOM,2021,..
-Somalia,SOM,2022,..
+Somalia,SOM,1999,NaN
+Somalia,SOM,2000,NaN
+Somalia,SOM,2001,NaN
+Somalia,SOM,2002,NaN
+Somalia,SOM,2003,NaN
+Somalia,SOM,2004,NaN
+Somalia,SOM,2005,NaN
+Somalia,SOM,2006,NaN
+Somalia,SOM,2007,NaN
+Somalia,SOM,2008,NaN
+Somalia,SOM,2009,NaN
+Somalia,SOM,2010,NaN
+Somalia,SOM,2011,NaN
+Somalia,SOM,2012,NaN
+Somalia,SOM,2013,NaN
+Somalia,SOM,2014,NaN
+Somalia,SOM,2015,NaN
+Somalia,SOM,2016,NaN
+Somalia,SOM,2017,NaN
+Somalia,SOM,2018,NaN
+Somalia,SOM,2019,NaN
+Somalia,SOM,2020,NaN
+Somalia,SOM,2021,NaN
+Somalia,SOM,2022,NaN
 South Africa,ZAF,1999,5.29117012
 South Africa,ZAF,2000,4.908810139
 South Africa,ZAF,2001,4.636179924
@@ -4271,17 +4271,17 @@ South Africa,ZAF,2019,5.911580086
 South Africa,ZAF,2020,6.170670033
 South Africa,ZAF,2021,6.549029827
 South Africa,ZAF,2022,6.16726017
-South Sudan,SSD,1999,..
-South Sudan,SSD,2000,..
-South Sudan,SSD,2001,..
-South Sudan,SSD,2002,..
-South Sudan,SSD,2003,..
-South Sudan,SSD,2004,..
-South Sudan,SSD,2005,..
-South Sudan,SSD,2006,..
-South Sudan,SSD,2007,..
-South Sudan,SSD,2008,..
-South Sudan,SSD,2009,..
+South Sudan,SSD,1999,NaN
+South Sudan,SSD,2000,NaN
+South Sudan,SSD,2001,NaN
+South Sudan,SSD,2002,NaN
+South Sudan,SSD,2003,NaN
+South Sudan,SSD,2004,NaN
+South Sudan,SSD,2005,NaN
+South Sudan,SSD,2006,NaN
+South Sudan,SSD,2007,NaN
+South Sudan,SSD,2008,NaN
+South Sudan,SSD,2009,NaN
 South Sudan,SSD,2010,1.045330048
 South Sudan,SSD,2011,0.962890029
 South Sudan,SSD,2012,1.576749325
@@ -4289,12 +4289,12 @@ South Sudan,SSD,2013,1.024500012
 South Sudan,SSD,2014,1.232460022
 South Sudan,SSD,2015,1.465559959
 South Sudan,SSD,2016,1.565392256
-South Sudan,SSD,2017,..
-South Sudan,SSD,2018,..
-South Sudan,SSD,2019,..
-South Sudan,SSD,2020,..
-South Sudan,SSD,2021,..
-South Sudan,SSD,2022,..
+South Sudan,SSD,2017,NaN
+South Sudan,SSD,2018,NaN
+South Sudan,SSD,2019,NaN
+South Sudan,SSD,2020,NaN
+South Sudan,SSD,2021,NaN
+South Sudan,SSD,2022,NaN
 Spain,ESP,1999,4.260439873
 Spain,ESP,2000,4.166049957
 Spain,ESP,2001,4.111269951
@@ -4319,16 +4319,16 @@ Spain,ESP,2019,4.230219841
 Spain,ESP,2020,4.895400047
 Spain,ESP,2021,4.865069866
 Spain,ESP,2022,4.315878868
-Sri Lanka,LKA,1999,..
-Sri Lanka,LKA,2000,..
-Sri Lanka,LKA,2001,..
-Sri Lanka,LKA,2002,..
-Sri Lanka,LKA,2003,..
-Sri Lanka,LKA,2004,..
-Sri Lanka,LKA,2005,..
-Sri Lanka,LKA,2006,..
-Sri Lanka,LKA,2007,..
-Sri Lanka,LKA,2008,..
+Sri Lanka,LKA,1999,NaN
+Sri Lanka,LKA,2000,NaN
+Sri Lanka,LKA,2001,NaN
+Sri Lanka,LKA,2002,NaN
+Sri Lanka,LKA,2003,NaN
+Sri Lanka,LKA,2004,NaN
+Sri Lanka,LKA,2005,NaN
+Sri Lanka,LKA,2006,NaN
+Sri Lanka,LKA,2007,NaN
+Sri Lanka,LKA,2008,NaN
 Sri Lanka,LKA,2009,2.055900097
 Sri Lanka,LKA,2010,1.66178
 Sri Lanka,LKA,2011,1.742920041
@@ -4339,7 +4339,7 @@ Sri Lanka,LKA,2015,2.109980106
 Sri Lanka,LKA,2016,3.229290009
 Sri Lanka,LKA,2017,2.593169928
 Sri Lanka,LKA,2018,1.987810016
-Sri Lanka,LKA,2019,..
+Sri Lanka,LKA,2019,NaN
 Sri Lanka,LKA,2020,1.557923913
 Sri Lanka,LKA,2021,1.506505847
 Sri Lanka,LKA,2022,1.20397222
@@ -4352,8 +4352,8 @@ St. Kitts and Nevis,KNA,2004,3.971349955
 St. Kitts and Nevis,KNA,2005,3.831449986
 St. Kitts and Nevis,KNA,2006,4.059259892
 St. Kitts and Nevis,KNA,2007,4.193809986
-St. Kitts and Nevis,KNA,2008,..
-St. Kitts and Nevis,KNA,2009,..
+St. Kitts and Nevis,KNA,2008,NaN
+St. Kitts and Nevis,KNA,2009,NaN
 St. Kitts and Nevis,KNA,2010,2.94405818
 St. Kitts and Nevis,KNA,2011,2.751112938
 St. Kitts and Nevis,KNA,2012,3.182905912
@@ -4368,14 +4368,14 @@ St. Kitts and Nevis,KNA,2020,3.10357976
 St. Kitts and Nevis,KNA,2021,2.783790112
 St. Kitts and Nevis,KNA,2022,3.63147068
 St. Lucia,LCA,1999,5.449940205
-St. Lucia,LCA,2000,..
+St. Lucia,LCA,2000,NaN
 St. Lucia,LCA,2001,5.707330227
-St. Lucia,LCA,2002,..
+St. Lucia,LCA,2002,NaN
 St. Lucia,LCA,2003,3.534490108
 St. Lucia,LCA,2004,3.436460018
 St. Lucia,LCA,2005,4.238959789
 St. Lucia,LCA,2006,4.696690083
-St. Lucia,LCA,2007,..
+St. Lucia,LCA,2007,NaN
 St. Lucia,LCA,2008,4.483530045
 St. Lucia,LCA,2009,3.067660093
 St. Lucia,LCA,2010,3.482899904
@@ -4389,96 +4389,96 @@ St. Lucia,LCA,2017,3.63334322
 St. Lucia,LCA,2018,3.332779884
 St. Lucia,LCA,2019,3.272670031
 St. Lucia,LCA,2020,3.6208601
-St. Lucia,LCA,2021,..
+St. Lucia,LCA,2021,NaN
 St. Lucia,LCA,2022,3.698470116
-St. Martin (French part),MAF,1999,..
-St. Martin (French part),MAF,2000,..
-St. Martin (French part),MAF,2001,..
-St. Martin (French part),MAF,2002,..
-St. Martin (French part),MAF,2003,..
-St. Martin (French part),MAF,2004,..
-St. Martin (French part),MAF,2005,..
-St. Martin (French part),MAF,2006,..
-St. Martin (French part),MAF,2007,..
-St. Martin (French part),MAF,2008,..
-St. Martin (French part),MAF,2009,..
-St. Martin (French part),MAF,2010,..
-St. Martin (French part),MAF,2011,..
-St. Martin (French part),MAF,2012,..
-St. Martin (French part),MAF,2013,..
-St. Martin (French part),MAF,2014,..
-St. Martin (French part),MAF,2015,..
-St. Martin (French part),MAF,2016,..
-St. Martin (French part),MAF,2017,..
-St. Martin (French part),MAF,2018,..
-St. Martin (French part),MAF,2019,..
-St. Martin (French part),MAF,2020,..
-St. Martin (French part),MAF,2021,..
-St. Martin (French part),MAF,2022,..
+St. Martin (French part),MAF,1999,NaN
+St. Martin (French part),MAF,2000,NaN
+St. Martin (French part),MAF,2001,NaN
+St. Martin (French part),MAF,2002,NaN
+St. Martin (French part),MAF,2003,NaN
+St. Martin (French part),MAF,2004,NaN
+St. Martin (French part),MAF,2005,NaN
+St. Martin (French part),MAF,2006,NaN
+St. Martin (French part),MAF,2007,NaN
+St. Martin (French part),MAF,2008,NaN
+St. Martin (French part),MAF,2009,NaN
+St. Martin (French part),MAF,2010,NaN
+St. Martin (French part),MAF,2011,NaN
+St. Martin (French part),MAF,2012,NaN
+St. Martin (French part),MAF,2013,NaN
+St. Martin (French part),MAF,2014,NaN
+St. Martin (French part),MAF,2015,NaN
+St. Martin (French part),MAF,2016,NaN
+St. Martin (French part),MAF,2017,NaN
+St. Martin (French part),MAF,2018,NaN
+St. Martin (French part),MAF,2019,NaN
+St. Martin (French part),MAF,2020,NaN
+St. Martin (French part),MAF,2021,NaN
+St. Martin (French part),MAF,2022,NaN
 St. Vincent and the Grenadines,VCT,1999,5.752689838
 St. Vincent and the Grenadines,VCT,2000,7.327879906
-St. Vincent and the Grenadines,VCT,2001,..
+St. Vincent and the Grenadines,VCT,2001,NaN
 St. Vincent and the Grenadines,VCT,2002,7.388020039
 St. Vincent and the Grenadines,VCT,2003,8.174889565
-St. Vincent and the Grenadines,VCT,2004,..
+St. Vincent and the Grenadines,VCT,2004,NaN
 St. Vincent and the Grenadines,VCT,2005,6.030829906
-St. Vincent and the Grenadines,VCT,2006,..
+St. Vincent and the Grenadines,VCT,2006,NaN
 St. Vincent and the Grenadines,VCT,2007,5.439370155
-St. Vincent and the Grenadines,VCT,2008,..
+St. Vincent and the Grenadines,VCT,2008,NaN
 St. Vincent and the Grenadines,VCT,2009,5.376110077
 St. Vincent and the Grenadines,VCT,2010,4.808390141
-St. Vincent and the Grenadines,VCT,2011,..
-St. Vincent and the Grenadines,VCT,2012,..
-St. Vincent and the Grenadines,VCT,2013,..
-St. Vincent and the Grenadines,VCT,2014,..
+St. Vincent and the Grenadines,VCT,2011,NaN
+St. Vincent and the Grenadines,VCT,2012,NaN
+St. Vincent and the Grenadines,VCT,2013,NaN
+St. Vincent and the Grenadines,VCT,2014,NaN
 St. Vincent and the Grenadines,VCT,2015,4.956152439
 St. Vincent and the Grenadines,VCT,2016,5.437374115
 St. Vincent and the Grenadines,VCT,2017,5.379749775
 St. Vincent and the Grenadines,VCT,2018,6.1611166
-St. Vincent and the Grenadines,VCT,2019,..
+St. Vincent and the Grenadines,VCT,2019,NaN
 St. Vincent and the Grenadines,VCT,2020,5.463758469
-St. Vincent and the Grenadines,VCT,2021,..
+St. Vincent and the Grenadines,VCT,2021,NaN
 St. Vincent and the Grenadines,VCT,2022,7.2095294
-Sudan,SDN,1999,..
+Sudan,SDN,1999,NaN
 Sudan,SDN,2000,1.012179971
-Sudan,SDN,2001,..
+Sudan,SDN,2001,NaN
 Sudan,SDN,2002,1.164250016
-Sudan,SDN,2003,..
+Sudan,SDN,2003,NaN
 Sudan,SDN,2004,1.312549949
 Sudan,SDN,2005,1.178429961
 Sudan,SDN,2006,1.553539991
-Sudan,SDN,2007,..
+Sudan,SDN,2007,NaN
 Sudan,SDN,2008,1.851500034
 Sudan,SDN,2009,2.022130013
-Sudan,SDN,2010,..
-Sudan,SDN,2011,..
-Sudan,SDN,2012,..
-Sudan,SDN,2013,..
-Sudan,SDN,2014,..
-Sudan,SDN,2015,..
-Sudan,SDN,2016,..
-Sudan,SDN,2017,..
-Sudan,SDN,2018,..
-Sudan,SDN,2019,..
-Sudan,SDN,2020,..
-Sudan,SDN,2021,..
-Sudan,SDN,2022,..
-Suriname,SUR,1999,..
-Suriname,SUR,2000,..
-Suriname,SUR,2001,..
-Suriname,SUR,2002,..
-Suriname,SUR,2003,..
-Suriname,SUR,2004,..
-Suriname,SUR,2005,..
-Suriname,SUR,2006,..
-Suriname,SUR,2007,..
-Suriname,SUR,2008,..
-Suriname,SUR,2009,..
-Suriname,SUR,2010,..
-Suriname,SUR,2011,..
-Suriname,SUR,2012,..
-Suriname,SUR,2013,..
-Suriname,SUR,2014,..
+Sudan,SDN,2010,NaN
+Sudan,SDN,2011,NaN
+Sudan,SDN,2012,NaN
+Sudan,SDN,2013,NaN
+Sudan,SDN,2014,NaN
+Sudan,SDN,2015,NaN
+Sudan,SDN,2016,NaN
+Sudan,SDN,2017,NaN
+Sudan,SDN,2018,NaN
+Sudan,SDN,2019,NaN
+Sudan,SDN,2020,NaN
+Sudan,SDN,2021,NaN
+Sudan,SDN,2022,NaN
+Suriname,SUR,1999,NaN
+Suriname,SUR,2000,NaN
+Suriname,SUR,2001,NaN
+Suriname,SUR,2002,NaN
+Suriname,SUR,2003,NaN
+Suriname,SUR,2004,NaN
+Suriname,SUR,2005,NaN
+Suriname,SUR,2006,NaN
+Suriname,SUR,2007,NaN
+Suriname,SUR,2008,NaN
+Suriname,SUR,2009,NaN
+Suriname,SUR,2010,NaN
+Suriname,SUR,2011,NaN
+Suriname,SUR,2012,NaN
+Suriname,SUR,2013,NaN
+Suriname,SUR,2014,NaN
 Suriname,SUR,2015,5.534796238
 Suriname,SUR,2016,5.640519142
 Suriname,SUR,2017,5.458612919
@@ -4510,7 +4510,7 @@ Sweden,SWE,2018,7.640840054
 Sweden,SWE,2019,7.638510227
 Sweden,SWE,2020,7.925610065
 Sweden,SWE,2021,7.572199821
-Sweden,SWE,2022,..
+Sweden,SWE,2022,NaN
 Switzerland,CHE,1999,4.759530067
 Switzerland,CHE,2000,4.658780098
 Switzerland,CHE,2001,4.822189808
@@ -4535,30 +4535,30 @@ Switzerland,CHE,2019,5.014389992
 Switzerland,CHE,2020,5.276760101
 Switzerland,CHE,2021,5.037089825
 Switzerland,CHE,2022,4.888244629
-Syrian Arab Republic,SYR,1999,..
-Syrian Arab Republic,SYR,2000,..
+Syrian Arab Republic,SYR,1999,NaN
+Syrian Arab Republic,SYR,2000,NaN
 Syrian Arab Republic,SYR,2001,4.54640007
 Syrian Arab Republic,SYR,2002,5.269849777
 Syrian Arab Republic,SYR,2003,6.480840206
 Syrian Arab Republic,SYR,2004,5.371479988
-Syrian Arab Republic,SYR,2005,..
+Syrian Arab Republic,SYR,2005,NaN
 Syrian Arab Republic,SYR,2006,5.279650211
 Syrian Arab Republic,SYR,2007,4.864709854
 Syrian Arab Republic,SYR,2008,4.59525013
 Syrian Arab Republic,SYR,2009,5.130139828
-Syrian Arab Republic,SYR,2010,..
-Syrian Arab Republic,SYR,2011,..
-Syrian Arab Republic,SYR,2012,..
-Syrian Arab Republic,SYR,2013,..
-Syrian Arab Republic,SYR,2014,..
-Syrian Arab Republic,SYR,2015,..
-Syrian Arab Republic,SYR,2016,..
-Syrian Arab Republic,SYR,2017,..
-Syrian Arab Republic,SYR,2018,..
-Syrian Arab Republic,SYR,2019,..
-Syrian Arab Republic,SYR,2020,..
-Syrian Arab Republic,SYR,2021,..
-Syrian Arab Republic,SYR,2022,..
+Syrian Arab Republic,SYR,2010,NaN
+Syrian Arab Republic,SYR,2011,NaN
+Syrian Arab Republic,SYR,2012,NaN
+Syrian Arab Republic,SYR,2013,NaN
+Syrian Arab Republic,SYR,2014,NaN
+Syrian Arab Republic,SYR,2015,NaN
+Syrian Arab Republic,SYR,2016,NaN
+Syrian Arab Republic,SYR,2017,NaN
+Syrian Arab Republic,SYR,2018,NaN
+Syrian Arab Republic,SYR,2019,NaN
+Syrian Arab Republic,SYR,2020,NaN
+Syrian Arab Republic,SYR,2021,NaN
+Syrian Arab Republic,SYR,2022,NaN
 Tajikistan,TJK,1999,2.076519966
 Tajikistan,TJK,2000,2.328710079
 Tajikistan,TJK,2001,2.376590014
@@ -4583,11 +4583,11 @@ Tajikistan,TJK,2019,5.484276295
 Tajikistan,TJK,2020,5.737252712
 Tajikistan,TJK,2021,5.701633453
 Tajikistan,TJK,2022,5.715097904
-Tanzania,TZA,1999,..
-Tanzania,TZA,2000,..
-Tanzania,TZA,2001,..
-Tanzania,TZA,2002,..
-Tanzania,TZA,2003,..
+Tanzania,TZA,1999,NaN
+Tanzania,TZA,2000,NaN
+Tanzania,TZA,2001,NaN
+Tanzania,TZA,2002,NaN
+Tanzania,TZA,2003,NaN
 Tanzania,TZA,2004,3.562449932
 Tanzania,TZA,2005,3.547470093
 Tanzania,TZA,2006,3.009919882
@@ -4631,15 +4631,15 @@ Thailand,THA,2019,3.022214174
 Thailand,THA,2020,3.153141737
 Thailand,THA,2021,2.982124329
 Thailand,THA,2022,2.611870289
-Timor-Leste,TLS,1999,..
-Timor-Leste,TLS,2000,..
-Timor-Leste,TLS,2001,..
-Timor-Leste,TLS,2002,..
-Timor-Leste,TLS,2003,..
-Timor-Leste,TLS,2004,..
-Timor-Leste,TLS,2005,..
-Timor-Leste,TLS,2006,..
-Timor-Leste,TLS,2007,..
+Timor-Leste,TLS,1999,NaN
+Timor-Leste,TLS,2000,NaN
+Timor-Leste,TLS,2001,NaN
+Timor-Leste,TLS,2002,NaN
+Timor-Leste,TLS,2003,NaN
+Timor-Leste,TLS,2004,NaN
+Timor-Leste,TLS,2005,NaN
+Timor-Leste,TLS,2006,NaN
+Timor-Leste,TLS,2007,NaN
 Timor-Leste,TLS,2008,8.670149803
 Timor-Leste,TLS,2009,12.90248013
 Timor-Leste,TLS,2010,11.10657978
@@ -4654,7 +4654,7 @@ Timor-Leste,TLS,2018,4.874409676
 Timor-Leste,TLS,2019,4.179688931
 Timor-Leste,TLS,2020,3.652873516
 Timor-Leste,TLS,2021,2.973894119
-Timor-Leste,TLS,2022,..
+Timor-Leste,TLS,2022,NaN
 Togo,TGO,1999,2.963969946
 Togo,TGO,2000,2.776449919
 Togo,TGO,2001,2.667500019
@@ -4685,18 +4685,18 @@ Tonga,TON,2001,4.477560043
 Tonga,TON,2002,3.795000076
 Tonga,TON,2003,4.159510136
 Tonga,TON,2004,3.91376996
-Tonga,TON,2005,..
-Tonga,TON,2006,..
-Tonga,TON,2007,..
-Tonga,TON,2008,..
-Tonga,TON,2009,..
-Tonga,TON,2010,..
-Tonga,TON,2011,..
-Tonga,TON,2012,..
-Tonga,TON,2013,..
-Tonga,TON,2014,..
-Tonga,TON,2015,..
-Tonga,TON,2016,..
+Tonga,TON,2005,NaN
+Tonga,TON,2006,NaN
+Tonga,TON,2007,NaN
+Tonga,TON,2008,NaN
+Tonga,TON,2009,NaN
+Tonga,TON,2010,NaN
+Tonga,TON,2011,NaN
+Tonga,TON,2012,NaN
+Tonga,TON,2013,NaN
+Tonga,TON,2014,NaN
+Tonga,TON,2015,NaN
+Tonga,TON,2016,NaN
 Tonga,TON,2017,5.059225082
 Tonga,TON,2018,4.969455242
 Tonga,TON,2019,5.273229599
@@ -4708,12 +4708,12 @@ Trinidad and Tobago,TTO,2000,2.755650043
 Trinidad and Tobago,TTO,2001,3.065289974
 Trinidad and Tobago,TTO,2002,3.543009996
 Trinidad and Tobago,TTO,2003,3.136600018
-Trinidad and Tobago,TTO,2004,..
-Trinidad and Tobago,TTO,2005,..
-Trinidad and Tobago,TTO,2006,..
-Trinidad and Tobago,TTO,2007,..
-Trinidad and Tobago,TTO,2008,..
-Trinidad and Tobago,TTO,2009,..
+Trinidad and Tobago,TTO,2004,NaN
+Trinidad and Tobago,TTO,2005,NaN
+Trinidad and Tobago,TTO,2006,NaN
+Trinidad and Tobago,TTO,2007,NaN
+Trinidad and Tobago,TTO,2008,NaN
+Trinidad and Tobago,TTO,2009,NaN
 Trinidad and Tobago,TTO,2010,4.211554527
 Trinidad and Tobago,TTO,2011,3.850788355
 Trinidad and Tobago,TTO,2012,3.681926966
@@ -4739,27 +4739,27 @@ Tunisia,TUN,2007,6.464519978
 Tunisia,TUN,2008,6.271570206
 Tunisia,TUN,2009,6.528480053
 Tunisia,TUN,2010,5.963069916
-Tunisia,TUN,2011,..
+Tunisia,TUN,2011,NaN
 Tunisia,TUN,2012,5.950860023
-Tunisia,TUN,2013,..
-Tunisia,TUN,2014,..
+Tunisia,TUN,2013,NaN
+Tunisia,TUN,2014,NaN
 Tunisia,TUN,2015,6.220449924
-Tunisia,TUN,2016,..
-Tunisia,TUN,2017,..
-Tunisia,TUN,2018,..
+Tunisia,TUN,2016,NaN
+Tunisia,TUN,2017,NaN
+Tunisia,TUN,2018,NaN
 Tunisia,TUN,2019,6.173732281
 Tunisia,TUN,2020,7.265075684
 Tunisia,TUN,2021,6.679846764
 Tunisia,TUN,2022,6.804989815
-Turkiye,TUR,1999,..
-Turkiye,TUR,2000,..
-Turkiye,TUR,2001,..
-Turkiye,TUR,2002,..
-Turkiye,TUR,2003,..
-Turkiye,TUR,2004,..
-Turkiye,TUR,2005,..
-Turkiye,TUR,2006,..
-Turkiye,TUR,2007,..
+Turkiye,TUR,1999,NaN
+Turkiye,TUR,2000,NaN
+Turkiye,TUR,2001,NaN
+Turkiye,TUR,2002,NaN
+Turkiye,TUR,2003,NaN
+Turkiye,TUR,2004,NaN
+Turkiye,TUR,2005,NaN
+Turkiye,TUR,2006,NaN
+Turkiye,TUR,2007,NaN
 Turkiye,TUR,2008,3.320557833
 Turkiye,TUR,2009,3.765049696
 Turkiye,TUR,2010,3.787013531
@@ -4775,42 +4775,42 @@ Turkiye,TUR,2019,4.447760105
 Turkiye,TUR,2020,4.033820152
 Turkiye,TUR,2021,3.537879944
 Turkiye,TUR,2022,2.614303589
-Turkmenistan,TKM,1999,..
-Turkmenistan,TKM,2000,..
-Turkmenistan,TKM,2001,..
-Turkmenistan,TKM,2002,..
-Turkmenistan,TKM,2003,..
-Turkmenistan,TKM,2004,..
-Turkmenistan,TKM,2005,..
-Turkmenistan,TKM,2006,..
-Turkmenistan,TKM,2007,..
-Turkmenistan,TKM,2008,..
-Turkmenistan,TKM,2009,..
-Turkmenistan,TKM,2010,..
-Turkmenistan,TKM,2011,..
+Turkmenistan,TKM,1999,NaN
+Turkmenistan,TKM,2000,NaN
+Turkmenistan,TKM,2001,NaN
+Turkmenistan,TKM,2002,NaN
+Turkmenistan,TKM,2003,NaN
+Turkmenistan,TKM,2004,NaN
+Turkmenistan,TKM,2005,NaN
+Turkmenistan,TKM,2006,NaN
+Turkmenistan,TKM,2007,NaN
+Turkmenistan,TKM,2008,NaN
+Turkmenistan,TKM,2009,NaN
+Turkmenistan,TKM,2010,NaN
+Turkmenistan,TKM,2011,NaN
 Turkmenistan,TKM,2012,3.049249887
-Turkmenistan,TKM,2013,..
-Turkmenistan,TKM,2014,..
-Turkmenistan,TKM,2015,..
-Turkmenistan,TKM,2016,..
-Turkmenistan,TKM,2017,..
-Turkmenistan,TKM,2018,..
+Turkmenistan,TKM,2013,NaN
+Turkmenistan,TKM,2014,NaN
+Turkmenistan,TKM,2015,NaN
+Turkmenistan,TKM,2016,NaN
+Turkmenistan,TKM,2017,NaN
+Turkmenistan,TKM,2018,NaN
 Turkmenistan,TKM,2019,3.120549917
 Turkmenistan,TKM,2020,3.76267004
 Turkmenistan,TKM,2021,3.848910093
 Turkmenistan,TKM,2022,3.733860016
-Turks and Caicos Islands,TCA,1999,..
+Turks and Caicos Islands,TCA,1999,NaN
 Turks and Caicos Islands,TCA,2000,4.718830109
 Turks and Caicos Islands,TCA,2001,4.843009949
 Turks and Caicos Islands,TCA,2002,5.069139957
 Turks and Caicos Islands,TCA,2003,4.728779793
-Turks and Caicos Islands,TCA,2004,..
+Turks and Caicos Islands,TCA,2004,NaN
 Turks and Caicos Islands,TCA,2005,2.540999889
-Turks and Caicos Islands,TCA,2006,..
-Turks and Caicos Islands,TCA,2007,..
-Turks and Caicos Islands,TCA,2008,..
-Turks and Caicos Islands,TCA,2009,..
-Turks and Caicos Islands,TCA,2010,..
+Turks and Caicos Islands,TCA,2006,NaN
+Turks and Caicos Islands,TCA,2007,NaN
+Turks and Caicos Islands,TCA,2008,NaN
+Turks and Caicos Islands,TCA,2009,NaN
+Turks and Caicos Islands,TCA,2010,NaN
 Turks and Caicos Islands,TCA,2011,3.360295057
 Turks and Caicos Islands,TCA,2012,2.691465378
 Turks and Caicos Islands,TCA,2013,2.90922761
@@ -4823,41 +4823,41 @@ Turks and Caicos Islands,TCA,2019,3.029716015
 Turks and Caicos Islands,TCA,2020,2.420746803
 Turks and Caicos Islands,TCA,2021,4.106626034
 Turks and Caicos Islands,TCA,2022,4.109913826
-Tuvalu,TUV,1999,..
-Tuvalu,TUV,2000,..
-Tuvalu,TUV,2001,..
-Tuvalu,TUV,2002,..
-Tuvalu,TUV,2003,..
-Tuvalu,TUV,2004,..
-Tuvalu,TUV,2005,..
-Tuvalu,TUV,2006,..
-Tuvalu,TUV,2007,..
-Tuvalu,TUV,2008,..
-Tuvalu,TUV,2009,..
-Tuvalu,TUV,2010,..
-Tuvalu,TUV,2011,..
-Tuvalu,TUV,2012,..
-Tuvalu,TUV,2013,..
-Tuvalu,TUV,2014,..
-Tuvalu,TUV,2015,..
-Tuvalu,TUV,2016,..
-Tuvalu,TUV,2017,..
-Tuvalu,TUV,2018,..
-Tuvalu,TUV,2019,..
-Tuvalu,TUV,2020,..
-Tuvalu,TUV,2021,..
-Tuvalu,TUV,2022,..
-Uganda,UGA,1999,..
+Tuvalu,TUV,1999,NaN
+Tuvalu,TUV,2000,NaN
+Tuvalu,TUV,2001,NaN
+Tuvalu,TUV,2002,NaN
+Tuvalu,TUV,2003,NaN
+Tuvalu,TUV,2004,NaN
+Tuvalu,TUV,2005,NaN
+Tuvalu,TUV,2006,NaN
+Tuvalu,TUV,2007,NaN
+Tuvalu,TUV,2008,NaN
+Tuvalu,TUV,2009,NaN
+Tuvalu,TUV,2010,NaN
+Tuvalu,TUV,2011,NaN
+Tuvalu,TUV,2012,NaN
+Tuvalu,TUV,2013,NaN
+Tuvalu,TUV,2014,NaN
+Tuvalu,TUV,2015,NaN
+Tuvalu,TUV,2016,NaN
+Tuvalu,TUV,2017,NaN
+Tuvalu,TUV,2018,NaN
+Tuvalu,TUV,2019,NaN
+Tuvalu,TUV,2020,NaN
+Tuvalu,TUV,2021,NaN
+Tuvalu,TUV,2022,NaN
+Uganda,UGA,1999,NaN
 Uganda,UGA,2000,2.461669922
-Uganda,UGA,2001,..
-Uganda,UGA,2002,..
-Uganda,UGA,2003,..
+Uganda,UGA,2001,NaN
+Uganda,UGA,2002,NaN
+Uganda,UGA,2003,NaN
 Uganda,UGA,2004,4.952370167
-Uganda,UGA,2005,..
-Uganda,UGA,2006,..
-Uganda,UGA,2007,..
-Uganda,UGA,2008,..
-Uganda,UGA,2009,..
+Uganda,UGA,2005,NaN
+Uganda,UGA,2006,NaN
+Uganda,UGA,2007,NaN
+Uganda,UGA,2008,NaN
+Uganda,UGA,2009,NaN
 Uganda,UGA,2010,1.727399945
 Uganda,UGA,2011,2.298909903
 Uganda,UGA,2012,1.797469974
@@ -4895,30 +4895,30 @@ Ukraine,UKR,2019,5.441299915
 Ukraine,UKR,2020,5.382319927
 Ukraine,UKR,2021,5.140110016
 Ukraine,UKR,2022,5.933899879
-United Arab Emirates,ARE,1999,..
-United Arab Emirates,ARE,2000,..
-United Arab Emirates,ARE,2001,..
-United Arab Emirates,ARE,2002,..
-United Arab Emirates,ARE,2003,..
-United Arab Emirates,ARE,2004,..
-United Arab Emirates,ARE,2005,..
-United Arab Emirates,ARE,2006,..
-United Arab Emirates,ARE,2007,..
-United Arab Emirates,ARE,2008,..
-United Arab Emirates,ARE,2009,..
-United Arab Emirates,ARE,2010,..
-United Arab Emirates,ARE,2011,..
-United Arab Emirates,ARE,2012,..
-United Arab Emirates,ARE,2013,..
-United Arab Emirates,ARE,2014,..
-United Arab Emirates,ARE,2015,..
-United Arab Emirates,ARE,2016,..
-United Arab Emirates,ARE,2017,..
-United Arab Emirates,ARE,2018,..
+United Arab Emirates,ARE,1999,NaN
+United Arab Emirates,ARE,2000,NaN
+United Arab Emirates,ARE,2001,NaN
+United Arab Emirates,ARE,2002,NaN
+United Arab Emirates,ARE,2003,NaN
+United Arab Emirates,ARE,2004,NaN
+United Arab Emirates,ARE,2005,NaN
+United Arab Emirates,ARE,2006,NaN
+United Arab Emirates,ARE,2007,NaN
+United Arab Emirates,ARE,2008,NaN
+United Arab Emirates,ARE,2009,NaN
+United Arab Emirates,ARE,2010,NaN
+United Arab Emirates,ARE,2011,NaN
+United Arab Emirates,ARE,2012,NaN
+United Arab Emirates,ARE,2013,NaN
+United Arab Emirates,ARE,2014,NaN
+United Arab Emirates,ARE,2015,NaN
+United Arab Emirates,ARE,2016,NaN
+United Arab Emirates,ARE,2017,NaN
+United Arab Emirates,ARE,2018,NaN
 United Arab Emirates,ARE,2019,3.860209942
 United Arab Emirates,ARE,2020,3.984179974
 United Arab Emirates,ARE,2021,3.894030094
-United Arab Emirates,ARE,2022,..
+United Arab Emirates,ARE,2022,NaN
 United Kingdom,GBR,1999,3.98845005
 United Kingdom,GBR,2000,4.018219948
 United Kingdom,GBR,2001,4.100140095
@@ -4943,7 +4943,7 @@ United Kingdom,GBR,2019,5.261159897
 United Kingdom,GBR,2020,5.439350128
 United Kingdom,GBR,2021,5.904580116
 United Kingdom,GBR,2022,4.959175587
-United States,USA,1999,..
+United States,USA,1999,NaN
 United States,USA,2000,6.08564949
 United States,USA,2001,6.298923016
 United States,USA,2002,6.359955311
@@ -4966,8 +4966,8 @@ United States,USA,2018,4.895020008
 United States,USA,2019,4.95746994
 United States,USA,2020,5.399980068
 United States,USA,2021,5.428299904
-United States,USA,2022,..
-Uruguay,URY,1999,..
+United States,USA,2022,NaN
+Uruguay,URY,1999,NaN
 Uruguay,URY,2000,2.422549963
 Uruguay,URY,2001,2.800960064
 Uruguay,URY,2002,2.32220006
@@ -4975,10 +4975,10 @@ Uruguay,URY,2003,2.068209887
 Uruguay,URY,2004,2.499540091
 Uruguay,URY,2005,2.714750051
 Uruguay,URY,2006,2.8566401
-Uruguay,URY,2007,..
-Uruguay,URY,2008,..
-Uruguay,URY,2009,..
-Uruguay,URY,2010,..
+Uruguay,URY,2007,NaN
+Uruguay,URY,2008,NaN
+Uruguay,URY,2009,NaN
+Uruguay,URY,2010,NaN
 Uruguay,URY,2011,4.149370193
 Uruguay,URY,2012,4.093533516
 Uruguay,URY,2013,4.238920212
@@ -4991,18 +4991,18 @@ Uruguay,URY,2019,4.628339767
 Uruguay,URY,2020,4.542920113
 Uruguay,URY,2021,4.460659981
 Uruguay,URY,2022,4.507329941
-Uzbekistan,UZB,1999,..
-Uzbekistan,UZB,2000,..
-Uzbekistan,UZB,2001,..
-Uzbekistan,UZB,2002,..
-Uzbekistan,UZB,2003,..
-Uzbekistan,UZB,2004,..
-Uzbekistan,UZB,2005,..
-Uzbekistan,UZB,2006,..
-Uzbekistan,UZB,2007,..
-Uzbekistan,UZB,2008,..
-Uzbekistan,UZB,2009,..
-Uzbekistan,UZB,2010,..
+Uzbekistan,UZB,1999,NaN
+Uzbekistan,UZB,2000,NaN
+Uzbekistan,UZB,2001,NaN
+Uzbekistan,UZB,2002,NaN
+Uzbekistan,UZB,2003,NaN
+Uzbekistan,UZB,2004,NaN
+Uzbekistan,UZB,2005,NaN
+Uzbekistan,UZB,2006,NaN
+Uzbekistan,UZB,2007,NaN
+Uzbekistan,UZB,2008,NaN
+Uzbekistan,UZB,2009,NaN
+Uzbekistan,UZB,2010,NaN
 Uzbekistan,UZB,2011,5.818760872
 Uzbekistan,UZB,2012,6.026915073
 Uzbekistan,UZB,2013,5.741909981
@@ -5020,16 +5020,16 @@ Vanuatu,VUT,2000,7.003630161
 Vanuatu,VUT,2001,8.95114994
 Vanuatu,VUT,2002,8.131979942
 Vanuatu,VUT,2003,8.441510201
-Vanuatu,VUT,2004,..
-Vanuatu,VUT,2005,..
-Vanuatu,VUT,2006,..
-Vanuatu,VUT,2007,..
+Vanuatu,VUT,2004,NaN
+Vanuatu,VUT,2005,NaN
+Vanuatu,VUT,2006,NaN
+Vanuatu,VUT,2007,NaN
 Vanuatu,VUT,2008,5.951509953
 Vanuatu,VUT,2009,5.160510063
-Vanuatu,VUT,2010,..
-Vanuatu,VUT,2011,..
-Vanuatu,VUT,2012,..
-Vanuatu,VUT,2013,..
+Vanuatu,VUT,2010,NaN
+Vanuatu,VUT,2011,NaN
+Vanuatu,VUT,2012,NaN
+Vanuatu,VUT,2013,NaN
 Vanuatu,VUT,2014,5.181950092
 Vanuatu,VUT,2015,5.603380203
 Vanuatu,VUT,2016,7.677425861
@@ -5039,39 +5039,39 @@ Vanuatu,VUT,2019,1.774070024
 Vanuatu,VUT,2020,2.173589945
 Vanuatu,VUT,2021,10.11024094
 Vanuatu,VUT,2022,10.7033453
-Venezuela,VEN,1999,..
-Venezuela,VEN,2000,..
-Venezuela,VEN,2001,..
-Venezuela,VEN,2002,..
-Venezuela,VEN,2003,..
-Venezuela,VEN,2004,..
-Venezuela,VEN,2005,..
+Venezuela,VEN,1999,NaN
+Venezuela,VEN,2000,NaN
+Venezuela,VEN,2001,NaN
+Venezuela,VEN,2002,NaN
+Venezuela,VEN,2003,NaN
+Venezuela,VEN,2004,NaN
+Venezuela,VEN,2005,NaN
 Venezuela,VEN,2006,3.669059992
 Venezuela,VEN,2007,3.627320051
-Venezuela,VEN,2008,..
+Venezuela,VEN,2008,NaN
 Venezuela,VEN,2009,6.874680042
-Venezuela,VEN,2010,..
-Venezuela,VEN,2011,..
-Venezuela,VEN,2012,..
-Venezuela,VEN,2013,..
-Venezuela,VEN,2014,..
-Venezuela,VEN,2015,..
-Venezuela,VEN,2016,..
-Venezuela,VEN,2017,..
-Venezuela,VEN,2018,..
-Venezuela,VEN,2019,..
-Venezuela,VEN,2020,..
-Venezuela,VEN,2021,..
-Venezuela,VEN,2022,..
-Viet Nam,VNM,1999,..
-Viet Nam,VNM,2000,..
-Viet Nam,VNM,2001,..
-Viet Nam,VNM,2002,..
-Viet Nam,VNM,2003,..
-Viet Nam,VNM,2004,..
-Viet Nam,VNM,2005,..
-Viet Nam,VNM,2006,..
-Viet Nam,VNM,2007,..
+Venezuela,VEN,2010,NaN
+Venezuela,VEN,2011,NaN
+Venezuela,VEN,2012,NaN
+Venezuela,VEN,2013,NaN
+Venezuela,VEN,2014,NaN
+Venezuela,VEN,2015,NaN
+Venezuela,VEN,2016,NaN
+Venezuela,VEN,2017,NaN
+Venezuela,VEN,2018,NaN
+Venezuela,VEN,2019,NaN
+Venezuela,VEN,2020,NaN
+Venezuela,VEN,2021,NaN
+Venezuela,VEN,2022,NaN
+Viet Nam,VNM,1999,NaN
+Viet Nam,VNM,2000,NaN
+Viet Nam,VNM,2001,NaN
+Viet Nam,VNM,2002,NaN
+Viet Nam,VNM,2003,NaN
+Viet Nam,VNM,2004,NaN
+Viet Nam,VNM,2005,NaN
+Viet Nam,VNM,2006,NaN
+Viet Nam,VNM,2007,NaN
 Viet Nam,VNM,2008,4.886740208
 Viet Nam,VNM,2009,4.816500187
 Viet Nam,VNM,2010,4.045939922
@@ -5087,94 +5087,94 @@ Viet Nam,VNM,2019,3.084998369
 Viet Nam,VNM,2020,3.216528893
 Viet Nam,VNM,2021,2.945174932
 Viet Nam,VNM,2022,2.887386799
-Virgin Islands (U.S.),VIR,1999,..
-Virgin Islands (U.S.),VIR,2000,..
-Virgin Islands (U.S.),VIR,2001,..
-Virgin Islands (U.S.),VIR,2002,..
-Virgin Islands (U.S.),VIR,2003,..
-Virgin Islands (U.S.),VIR,2004,..
-Virgin Islands (U.S.),VIR,2005,..
-Virgin Islands (U.S.),VIR,2006,..
-Virgin Islands (U.S.),VIR,2007,..
-Virgin Islands (U.S.),VIR,2008,..
-Virgin Islands (U.S.),VIR,2009,..
-Virgin Islands (U.S.),VIR,2010,..
-Virgin Islands (U.S.),VIR,2011,..
-Virgin Islands (U.S.),VIR,2012,..
-Virgin Islands (U.S.),VIR,2013,..
-Virgin Islands (U.S.),VIR,2014,..
-Virgin Islands (U.S.),VIR,2015,..
-Virgin Islands (U.S.),VIR,2016,..
-Virgin Islands (U.S.),VIR,2017,..
-Virgin Islands (U.S.),VIR,2018,..
-Virgin Islands (U.S.),VIR,2019,..
-Virgin Islands (U.S.),VIR,2020,..
-Virgin Islands (U.S.),VIR,2021,..
-Virgin Islands (U.S.),VIR,2022,..
-West Bank and Gaza,PSE,1999,..
-West Bank and Gaza,PSE,2000,..
-West Bank and Gaza,PSE,2001,..
-West Bank and Gaza,PSE,2002,..
-West Bank and Gaza,PSE,2003,..
-West Bank and Gaza,PSE,2004,..
-West Bank and Gaza,PSE,2005,..
-West Bank and Gaza,PSE,2006,..
-West Bank and Gaza,PSE,2007,..
-West Bank and Gaza,PSE,2008,..
-West Bank and Gaza,PSE,2009,..
+Virgin Islands (U.S.),VIR,1999,NaN
+Virgin Islands (U.S.),VIR,2000,NaN
+Virgin Islands (U.S.),VIR,2001,NaN
+Virgin Islands (U.S.),VIR,2002,NaN
+Virgin Islands (U.S.),VIR,2003,NaN
+Virgin Islands (U.S.),VIR,2004,NaN
+Virgin Islands (U.S.),VIR,2005,NaN
+Virgin Islands (U.S.),VIR,2006,NaN
+Virgin Islands (U.S.),VIR,2007,NaN
+Virgin Islands (U.S.),VIR,2008,NaN
+Virgin Islands (U.S.),VIR,2009,NaN
+Virgin Islands (U.S.),VIR,2010,NaN
+Virgin Islands (U.S.),VIR,2011,NaN
+Virgin Islands (U.S.),VIR,2012,NaN
+Virgin Islands (U.S.),VIR,2013,NaN
+Virgin Islands (U.S.),VIR,2014,NaN
+Virgin Islands (U.S.),VIR,2015,NaN
+Virgin Islands (U.S.),VIR,2016,NaN
+Virgin Islands (U.S.),VIR,2017,NaN
+Virgin Islands (U.S.),VIR,2018,NaN
+Virgin Islands (U.S.),VIR,2019,NaN
+Virgin Islands (U.S.),VIR,2020,NaN
+Virgin Islands (U.S.),VIR,2021,NaN
+Virgin Islands (U.S.),VIR,2022,NaN
+West Bank and Gaza,PSE,1999,NaN
+West Bank and Gaza,PSE,2000,NaN
+West Bank and Gaza,PSE,2001,NaN
+West Bank and Gaza,PSE,2002,NaN
+West Bank and Gaza,PSE,2003,NaN
+West Bank and Gaza,PSE,2004,NaN
+West Bank and Gaza,PSE,2005,NaN
+West Bank and Gaza,PSE,2006,NaN
+West Bank and Gaza,PSE,2007,NaN
+West Bank and Gaza,PSE,2008,NaN
+West Bank and Gaza,PSE,2009,NaN
 West Bank and Gaza,PSE,2010,6.191679955
 West Bank and Gaza,PSE,2011,5.335279942
 West Bank and Gaza,PSE,2012,4.742109776
 West Bank and Gaza,PSE,2013,4.89467001
-West Bank and Gaza,PSE,2014,..
+West Bank and Gaza,PSE,2014,NaN
 West Bank and Gaza,PSE,2015,4.663219929
 West Bank and Gaza,PSE,2016,4.982960224
 West Bank and Gaza,PSE,2017,4.721539974
-West Bank and Gaza,PSE,2018,..
-West Bank and Gaza,PSE,2019,..
-West Bank and Gaza,PSE,2020,..
+West Bank and Gaza,PSE,2018,NaN
+West Bank and Gaza,PSE,2019,NaN
+West Bank and Gaza,PSE,2020,NaN
 West Bank and Gaza,PSE,2021,5.434420109
-West Bank and Gaza,PSE,2022,..
-Yemen, Rep.,YEM,1999,..
-Yemen, Rep.,YEM,2000,9.661629677
-Yemen, Rep.,YEM,2001,9.244709969
-Yemen, Rep.,YEM,2002,6.32079649
-Yemen, Rep.,YEM,2003,5.948279381
-Yemen, Rep.,YEM,2004,5.554146767
-Yemen, Rep.,YEM,2005,5.15025568
-Yemen, Rep.,YEM,2006,5.144415855
-Yemen, Rep.,YEM,2007,5.828782558
-Yemen, Rep.,YEM,2008,5.15143013
-Yemen, Rep.,YEM,2009,5.916243076
-Yemen, Rep.,YEM,2010,4.392223358
-Yemen, Rep.,YEM,2011,5.042026997
-Yemen, Rep.,YEM,2012,5.464789867
-Yemen, Rep.,YEM,2013,..
-Yemen, Rep.,YEM,2014,..
-Yemen, Rep.,YEM,2015,..
-Yemen, Rep.,YEM,2016,..
-Yemen, Rep.,YEM,2017,..
-Yemen, Rep.,YEM,2018,..
-Yemen, Rep.,YEM,2019,..
-Yemen, Rep.,YEM,2020,..
-Yemen, Rep.,YEM,2021,..
-Yemen, Rep.,YEM,2022,..
+West Bank and Gaza,PSE,2022,NaN
+Yemen,YEM,1999,NaN
+Yemen,YEM,2000,9.661629677
+Yemen,YEM,2001,9.244709969
+Yemen,YEM,2002,6.32079649
+Yemen,YEM,2003,5.948279381
+Yemen,YEM,2004,5.554146767
+Yemen,YEM,2005,5.15025568
+Yemen,YEM,2006,5.144415855
+Yemen,YEM,2007,5.828782558
+Yemen,YEM,2008,5.15143013
+Yemen,YEM,2009,5.916243076
+Yemen,YEM,2010,4.392223358
+Yemen,YEM,2011,5.042026997
+Yemen,YEM,2012,5.464789867
+Yemen,YEM,2013,NaN
+Yemen,YEM,2014,NaN
+Yemen,YEM,2015,NaN
+Yemen,YEM,2016,NaN
+Yemen,YEM,2017,NaN
+Yemen,YEM,2018,NaN
+Yemen,YEM,2019,NaN
+Yemen,YEM,2020,NaN
+Yemen,YEM,2021,NaN
+Yemen,YEM,2022,NaN
 Zambia,ZMB,1999,1.774950027
 Zambia,ZMB,2000,1.788190007
-Zambia,ZMB,2001,..
-Zambia,ZMB,2002,..
-Zambia,ZMB,2003,..
+Zambia,ZMB,2001,NaN
+Zambia,ZMB,2002,NaN
+Zambia,ZMB,2003,NaN
 Zambia,ZMB,2004,2.463429928
 Zambia,ZMB,2005,1.735530019
-Zambia,ZMB,2006,..
+Zambia,ZMB,2006,NaN
 Zambia,ZMB,2007,1.240759969
 Zambia,ZMB,2008,1.099720001
-Zambia,ZMB,2009,..
+Zambia,ZMB,2009,NaN
 Zambia,ZMB,2010,3.416004419
 Zambia,ZMB,2011,3.357722759
 Zambia,ZMB,2012,3.695002317
 Zambia,ZMB,2013,3.718207121
-Zambia,ZMB,2014,..
+Zambia,ZMB,2014,NaN
 Zambia,ZMB,2015,4.624330044
 Zambia,ZMB,2016,3.747920036
 Zambia,ZMB,2017,3.729640007
@@ -5183,27 +5183,27 @@ Zambia,ZMB,2019,4.41824007
 Zambia,ZMB,2020,3.949648142
 Zambia,ZMB,2021,3.106432199
 Zambia,ZMB,2022,3.58259511
-Zimbabwe,ZWE,1999,..
-Zimbabwe,ZWE,2000,..
-Zimbabwe,ZWE,2001,..
-Zimbabwe,ZWE,2002,..
-Zimbabwe,ZWE,2003,..
-Zimbabwe,ZWE,2004,..
-Zimbabwe,ZWE,2005,..
-Zimbabwe,ZWE,2006,..
-Zimbabwe,ZWE,2007,..
-Zimbabwe,ZWE,2008,..
-Zimbabwe,ZWE,2009,..
+Zimbabwe,ZWE,1999,NaN
+Zimbabwe,ZWE,2000,NaN
+Zimbabwe,ZWE,2001,NaN
+Zimbabwe,ZWE,2002,NaN
+Zimbabwe,ZWE,2003,NaN
+Zimbabwe,ZWE,2004,NaN
+Zimbabwe,ZWE,2005,NaN
+Zimbabwe,ZWE,2006,NaN
+Zimbabwe,ZWE,2007,NaN
+Zimbabwe,ZWE,2008,NaN
+Zimbabwe,ZWE,2009,NaN
 Zimbabwe,ZWE,2010,1.544059992
-Zimbabwe,ZWE,2011,..
+Zimbabwe,ZWE,2011,NaN
 Zimbabwe,ZWE,2012,6.07020998
 Zimbabwe,ZWE,2013,5.995979786
 Zimbabwe,ZWE,2014,6.13835001
-Zimbabwe,ZWE,2015,..
-Zimbabwe,ZWE,2016,..
+Zimbabwe,ZWE,2015,NaN
+Zimbabwe,ZWE,2016,NaN
 Zimbabwe,ZWE,2017,5.818779945
 Zimbabwe,ZWE,2018,2.050489902
-Zimbabwe,ZWE,2019,..
-Zimbabwe,ZWE,2020,..
-Zimbabwe,ZWE,2021,..
-Zimbabwe,ZWE,2022,..
+Zimbabwe,ZWE,2019,NaN
+Zimbabwe,ZWE,2020,NaN
+Zimbabwe,ZWE,2021,NaN
+Zimbabwe,ZWE,2022,NaN
