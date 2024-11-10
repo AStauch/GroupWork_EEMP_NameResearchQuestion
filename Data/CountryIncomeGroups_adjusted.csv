@@ -311,30 +311,30 @@ AZE,Azerbaijan,2019,UM
 AZE,Azerbaijan,2020,UM
 AZE,Azerbaijan,2021,UM
 AZE,Azerbaijan,2022,UM
-BHS,Bahamas, The,1999,H
-BHS,Bahamas, The,2000,H
-BHS,Bahamas, The,2001,H
-BHS,Bahamas, The,2002,H
-BHS,Bahamas, The,2003,H
-BHS,Bahamas, The,2004,H
-BHS,Bahamas, The,2005,H
-BHS,Bahamas, The,2006,H
-BHS,Bahamas, The,2007,H
-BHS,Bahamas, The,2008,H
-BHS,Bahamas, The,2009,H
-BHS,Bahamas, The,2010,H
-BHS,Bahamas, The,2011,H
-BHS,Bahamas, The,2012,H
-BHS,Bahamas, The,2013,H
-BHS,Bahamas, The,2014,H
-BHS,Bahamas, The,2015,H
-BHS,Bahamas, The,2016,H
-BHS,Bahamas, The,2017,H
-BHS,Bahamas, The,2018,H
-BHS,Bahamas, The,2019,H
-BHS,Bahamas, The,2020,H
-BHS,Bahamas, The,2021,H
-BHS,Bahamas, The,2022,H
+BHS,Bahamas,1999,H
+BHS,Bahamas,2000,H
+BHS,Bahamas,2001,H
+BHS,Bahamas,2002,H
+BHS,Bahamas,2003,H
+BHS,Bahamas,2004,H
+BHS,Bahamas,2005,H
+BHS,Bahamas,2006,H
+BHS,Bahamas,2007,H
+BHS,Bahamas,2008,H
+BHS,Bahamas,2009,H
+BHS,Bahamas,2010,H
+BHS,Bahamas,2011,H
+BHS,Bahamas,2012,H
+BHS,Bahamas,2013,H
+BHS,Bahamas,2014,H
+BHS,Bahamas,2015,H
+BHS,Bahamas,2016,H
+BHS,Bahamas,2017,H
+BHS,Bahamas,2018,H
+BHS,Bahamas,2019,H
+BHS,Bahamas,2020,H
+BHS,Bahamas,2021,H
+BHS,Bahamas,2022,H
 BHR,Bahrain,1999,UM
 BHR,Bahrain,2000,UM
 BHR,Bahrain,2001,H
@@ -1039,54 +1039,54 @@ COM,Comoros,2019,LM
 COM,Comoros,2020,LM
 COM,Comoros,2021,LM
 COM,Comoros,2022,LM
-COD,Congo, Dem. Rep.,1999,L
-COD,Congo, Dem. Rep.,2000,L
-COD,Congo, Dem. Rep.,2001,L
-COD,Congo, Dem. Rep.,2002,L
-COD,Congo, Dem. Rep.,2003,L
-COD,Congo, Dem. Rep.,2004,L
-COD,Congo, Dem. Rep.,2005,L
-COD,Congo, Dem. Rep.,2006,L
-COD,Congo, Dem. Rep.,2007,L
-COD,Congo, Dem. Rep.,2008,L
-COD,Congo, Dem. Rep.,2009,L
-COD,Congo, Dem. Rep.,2010,L
-COD,Congo, Dem. Rep.,2011,L
-COD,Congo, Dem. Rep.,2012,L
-COD,Congo, Dem. Rep.,2013,L
-COD,Congo, Dem. Rep.,2014,L
-COD,Congo, Dem. Rep.,2015,L
-COD,Congo, Dem. Rep.,2016,L
-COD,Congo, Dem. Rep.,2017,L
-COD,Congo, Dem. Rep.,2018,L
-COD,Congo, Dem. Rep.,2019,L
-COD,Congo, Dem. Rep.,2020,L
-COD,Congo, Dem. Rep.,2021,L
-COD,Congo, Dem. Rep.,2022,L
-COG,Congo, Rep.,1999,L
-COG,Congo, Rep.,2000,L
-COG,Congo, Rep.,2001,L
-COG,Congo, Rep.,2002,L
-COG,Congo, Rep.,2003,L
-COG,Congo, Rep.,2004,L
-COG,Congo, Rep.,2005,LM
-COG,Congo, Rep.,2006,LM
-COG,Congo, Rep.,2007,LM
-COG,Congo, Rep.,2008,LM
-COG,Congo, Rep.,2009,LM
-COG,Congo, Rep.,2010,LM
-COG,Congo, Rep.,2011,LM
-COG,Congo, Rep.,2012,LM
-COG,Congo, Rep.,2013,LM
-COG,Congo, Rep.,2014,LM
-COG,Congo, Rep.,2015,LM
-COG,Congo, Rep.,2016,LM
-COG,Congo, Rep.,2017,LM
-COG,Congo, Rep.,2018,LM
-COG,Congo, Rep.,2019,LM
-COG,Congo, Rep.,2020,LM
-COG,Congo, Rep.,2021,LM
-COG,Congo, Rep.,2022,LM
+COD,Democratic Republic of Congo,1999,L
+COD,Democratic Republic of Congo,2000,L
+COD,Democratic Republic of Congo,2001,L
+COD,Democratic Republic of Congo,2002,L
+COD,Democratic Republic of Congo,2003,L
+COD,Democratic Republic of Congo,2004,L
+COD,Democratic Republic of Congo,2005,L
+COD,Democratic Republic of Congo,2006,L
+COD,Democratic Republic of Congo,2007,L
+COD,Democratic Republic of Congo,2008,L
+COD,Democratic Republic of Congo,2009,L
+COD,Democratic Republic of Congo,2010,L
+COD,Democratic Republic of Congo,2011,L
+COD,Democratic Republic of Congo,2012,L
+COD,Democratic Republic of Congo,2013,L
+COD,Democratic Republic of Congo,2014,L
+COD,Democratic Republic of Congo,2015,L
+COD,Democratic Republic of Congo,2016,L
+COD,Democratic Republic of Congo,2017,L
+COD,Democratic Republic of Congo,2018,L
+COD,Democratic Republic of Congo,2019,L
+COD,Democratic Republic of Congo,2020,L
+COD,Democratic Republic of Congo,2021,L
+COD,Democratic Republic of Congo,2022,L
+COG,Congo,1999,L
+COG,Congo,2000,L
+COG,Congo,2001,L
+COG,Congo,2002,L
+COG,Congo,2003,L
+COG,Congo,2004,L
+COG,Congo,2005,LM
+COG,Congo,2006,LM
+COG,Congo,2007,LM
+COG,Congo,2008,LM
+COG,Congo,2009,LM
+COG,Congo,2010,LM
+COG,Congo,2011,LM
+COG,Congo,2012,LM
+COG,Congo,2013,LM
+COG,Congo,2014,LM
+COG,Congo,2015,LM
+COG,Congo,2016,LM
+COG,Congo,2017,LM
+COG,Congo,2018,LM
+COG,Congo,2019,LM
+COG,Congo,2020,LM
+COG,Congo,2021,LM
+COG,Congo,2022,LM
 CRI,Costa Rica,1999,LM
 CRI,Costa Rica,2000,UM
 CRI,Costa Rica,2001,UM
@@ -1364,30 +1364,30 @@ ECU,Ecuador,2019,UM
 ECU,Ecuador,2020,UM
 ECU,Ecuador,2021,UM
 ECU,Ecuador,2022,UM
-EGY,Egypt, Arab Rep.,1999,LM
-EGY,Egypt, Arab Rep.,2000,LM
-EGY,Egypt, Arab Rep.,2001,LM
-EGY,Egypt, Arab Rep.,2002,LM
-EGY,Egypt, Arab Rep.,2003,LM
-EGY,Egypt, Arab Rep.,2004,LM
-EGY,Egypt, Arab Rep.,2005,LM
-EGY,Egypt, Arab Rep.,2006,LM
-EGY,Egypt, Arab Rep.,2007,LM
-EGY,Egypt, Arab Rep.,2008,LM
-EGY,Egypt, Arab Rep.,2009,LM
-EGY,Egypt, Arab Rep.,2010,LM
-EGY,Egypt, Arab Rep.,2011,LM
-EGY,Egypt, Arab Rep.,2012,LM
-EGY,Egypt, Arab Rep.,2013,LM
-EGY,Egypt, Arab Rep.,2014,LM
-EGY,Egypt, Arab Rep.,2015,LM
-EGY,Egypt, Arab Rep.,2016,LM
-EGY,Egypt, Arab Rep.,2017,LM
-EGY,Egypt, Arab Rep.,2018,LM
-EGY,Egypt, Arab Rep.,2019,LM
-EGY,Egypt, Arab Rep.,2020,LM
-EGY,Egypt, Arab Rep.,2021,LM
-EGY,Egypt, Arab Rep.,2022,LM
+EGY,Egypt,1999,LM
+EGY,Egypt,2000,LM
+EGY,Egypt,2001,LM
+EGY,Egypt,2002,LM
+EGY,Egypt,2003,LM
+EGY,Egypt,2004,LM
+EGY,Egypt,2005,LM
+EGY,Egypt,2006,LM
+EGY,Egypt,2007,LM
+EGY,Egypt,2008,LM
+EGY,Egypt,2009,LM
+EGY,Egypt,2010,LM
+EGY,Egypt,2011,LM
+EGY,Egypt,2012,LM
+EGY,Egypt,2013,LM
+EGY,Egypt,2014,LM
+EGY,Egypt,2015,LM
+EGY,Egypt,2016,LM
+EGY,Egypt,2017,LM
+EGY,Egypt,2018,LM
+EGY,Egypt,2019,LM
+EGY,Egypt,2020,LM
+EGY,Egypt,2021,LM
+EGY,Egypt,2022,LM
 SLV,El Salvador,1999,LM
 SLV,El Salvador,2000,LM
 SLV,El Salvador,2001,LM
@@ -1676,30 +1676,30 @@ GAB,Gabon,2019,UM
 GAB,Gabon,2020,UM
 GAB,Gabon,2021,UM
 GAB,Gabon,2022,UM
-GMB,Gambia, The,1999,L
-GMB,Gambia, The,2000,L
-GMB,Gambia, The,2001,L
-GMB,Gambia, The,2002,L
-GMB,Gambia, The,2003,L
-GMB,Gambia, The,2004,L
-GMB,Gambia, The,2005,L
-GMB,Gambia, The,2006,L
-GMB,Gambia, The,2007,L
-GMB,Gambia, The,2008,L
-GMB,Gambia, The,2009,L
-GMB,Gambia, The,2010,L
-GMB,Gambia, The,2011,L
-GMB,Gambia, The,2012,L
-GMB,Gambia, The,2013,L
-GMB,Gambia, The,2014,L
-GMB,Gambia, The,2015,L
-GMB,Gambia, The,2016,L
-GMB,Gambia, The,2017,L
-GMB,Gambia, The,2018,L
-GMB,Gambia, The,2019,L
-GMB,Gambia, The,2020,L
-GMB,Gambia, The,2021,L
-GMB,Gambia, The,2022,L
+GMB,Gambia,1999,L
+GMB,Gambia,2000,L
+GMB,Gambia,2001,L
+GMB,Gambia,2002,L
+GMB,Gambia,2003,L
+GMB,Gambia,2004,L
+GMB,Gambia,2005,L
+GMB,Gambia,2006,L
+GMB,Gambia,2007,L
+GMB,Gambia,2008,L
+GMB,Gambia,2009,L
+GMB,Gambia,2010,L
+GMB,Gambia,2011,L
+GMB,Gambia,2012,L
+GMB,Gambia,2013,L
+GMB,Gambia,2014,L
+GMB,Gambia,2015,L
+GMB,Gambia,2016,L
+GMB,Gambia,2017,L
+GMB,Gambia,2018,L
+GMB,Gambia,2019,L
+GMB,Gambia,2020,L
+GMB,Gambia,2021,L
+GMB,Gambia,2022,L
 GEO,Georgia,1999,L
 GEO,Georgia,2000,L
 GEO,Georgia,2001,L
@@ -2022,30 +2022,30 @@ HND,Honduras,2019,LM
 HND,Honduras,2020,LM
 HND,Honduras,2021,LM
 HND,Honduras,2022,LM
-HKG,Hong Kong SAR, China,1999,H
-HKG,Hong Kong SAR, China,2000,H
-HKG,Hong Kong SAR, China,2001,H
-HKG,Hong Kong SAR, China,2002,H
-HKG,Hong Kong SAR, China,2003,H
-HKG,Hong Kong SAR, China,2004,H
-HKG,Hong Kong SAR, China,2005,H
-HKG,Hong Kong SAR, China,2006,H
-HKG,Hong Kong SAR, China,2007,H
-HKG,Hong Kong SAR, China,2008,H
-HKG,Hong Kong SAR, China,2009,H
-HKG,Hong Kong SAR, China,2010,H
-HKG,Hong Kong SAR, China,2011,H
-HKG,Hong Kong SAR, China,2012,H
-HKG,Hong Kong SAR, China,2013,H
-HKG,Hong Kong SAR, China,2014,H
-HKG,Hong Kong SAR, China,2015,H
-HKG,Hong Kong SAR, China,2016,H
-HKG,Hong Kong SAR, China,2017,H
-HKG,Hong Kong SAR, China,2018,H
-HKG,Hong Kong SAR, China,2019,H
-HKG,Hong Kong SAR, China,2020,H
-HKG,Hong Kong SAR, China,2021,H
-HKG,Hong Kong SAR, China,2022,H
+HKG,Hong Kong,1999,H
+HKG,Hong Kong,2000,H
+HKG,Hong Kong,2001,H
+HKG,Hong Kong,2002,H
+HKG,Hong Kong,2003,H
+HKG,Hong Kong,2004,H
+HKG,Hong Kong,2005,H
+HKG,Hong Kong,2006,H
+HKG,Hong Kong,2007,H
+HKG,Hong Kong,2008,H
+HKG,Hong Kong,2009,H
+HKG,Hong Kong,2010,H
+HKG,Hong Kong,2011,H
+HKG,Hong Kong,2012,H
+HKG,Hong Kong,2013,H
+HKG,Hong Kong,2014,H
+HKG,Hong Kong,2015,H
+HKG,Hong Kong,2016,H
+HKG,Hong Kong,2017,H
+HKG,Hong Kong,2018,H
+HKG,Hong Kong,2019,H
+HKG,Hong Kong,2020,H
+HKG,Hong Kong,2021,H
+HKG,Hong Kong,2022,H
 HUN,Hungary,1999,UM
 HUN,Hungary,2000,UM
 HUN,Hungary,2001,UM
@@ -2142,30 +2142,30 @@ IDN,Indonesia,2019,UM
 IDN,Indonesia,2020,LM
 IDN,Indonesia,2021,LM
 IDN,Indonesia,2022,UM
-IRN,Iran, Islamic Rep.,1999,LM
-IRN,Iran, Islamic Rep.,2000,LM
-IRN,Iran, Islamic Rep.,2001,LM
-IRN,Iran, Islamic Rep.,2002,LM
-IRN,Iran, Islamic Rep.,2003,LM
-IRN,Iran, Islamic Rep.,2004,LM
-IRN,Iran, Islamic Rep.,2005,LM
-IRN,Iran, Islamic Rep.,2006,LM
-IRN,Iran, Islamic Rep.,2007,LM
-IRN,Iran, Islamic Rep.,2008,LM
-IRN,Iran, Islamic Rep.,2009,UM
-IRN,Iran, Islamic Rep.,2010,UM
-IRN,Iran, Islamic Rep.,2011,UM
-IRN,Iran, Islamic Rep.,2012,UM
-IRN,Iran, Islamic Rep.,2013,UM
-IRN,Iran, Islamic Rep.,2014,UM
-IRN,Iran, Islamic Rep.,2015,UM
-IRN,Iran, Islamic Rep.,2016,UM
-IRN,Iran, Islamic Rep.,2017,UM
-IRN,Iran, Islamic Rep.,2018,UM
-IRN,Iran, Islamic Rep.,2019,UM
-IRN,Iran, Islamic Rep.,2020,LM
-IRN,Iran, Islamic Rep.,2021,LM
-IRN,Iran, Islamic Rep.,2022,LM
+IRN,Iran,1999,LM
+IRN,Iran,2000,LM
+IRN,Iran,2001,LM
+IRN,Iran,2002,LM
+IRN,Iran,2003,LM
+IRN,Iran,2004,LM
+IRN,Iran,2005,LM
+IRN,Iran,2006,LM
+IRN,Iran,2007,LM
+IRN,Iran,2008,LM
+IRN,Iran,2009,UM
+IRN,Iran,2010,UM
+IRN,Iran,2011,UM
+IRN,Iran,2012,UM
+IRN,Iran,2013,UM
+IRN,Iran,2014,UM
+IRN,Iran,2015,UM
+IRN,Iran,2016,UM
+IRN,Iran,2017,UM
+IRN,Iran,2018,UM
+IRN,Iran,2019,UM
+IRN,Iran,2020,LM
+IRN,Iran,2021,LM
+IRN,Iran,2022,LM
 IRQ,Iraq,1999,LM
 IRQ,Iraq,2000,LM
 IRQ,Iraq,2001,LM
@@ -2430,54 +2430,54 @@ KIR,Kiribati,2019,LM
 KIR,Kiribati,2020,LM
 KIR,Kiribati,2021,LM
 KIR,Kiribati,2022,LM
-PRK,Korea, Dem. Rep.,1999,L
-PRK,Korea, Dem. Rep.,2000,L
-PRK,Korea, Dem. Rep.,2001,L
-PRK,Korea, Dem. Rep.,2002,L
-PRK,Korea, Dem. Rep.,2003,L
-PRK,Korea, Dem. Rep.,2004,L
-PRK,Korea, Dem. Rep.,2005,L
-PRK,Korea, Dem. Rep.,2006,L
-PRK,Korea, Dem. Rep.,2007,L
-PRK,Korea, Dem. Rep.,2008,L
-PRK,Korea, Dem. Rep.,2009,L
-PRK,Korea, Dem. Rep.,2010,L
-PRK,Korea, Dem. Rep.,2011,L
-PRK,Korea, Dem. Rep.,2012,L
-PRK,Korea, Dem. Rep.,2013,L
-PRK,Korea, Dem. Rep.,2014,L
-PRK,Korea, Dem. Rep.,2015,L
-PRK,Korea, Dem. Rep.,2016,L
-PRK,Korea, Dem. Rep.,2017,L
-PRK,Korea, Dem. Rep.,2018,L
-PRK,Korea, Dem. Rep.,2019,L
-PRK,Korea, Dem. Rep.,2020,L
-PRK,Korea, Dem. Rep.,2021,L
-PRK,Korea, Dem. Rep.,2022,L
-KOR,Korea, Rep.,1999,UM
-KOR,Korea, Rep.,2000,UM
-KOR,Korea, Rep.,2001,H
-KOR,Korea, Rep.,2002,H
-KOR,Korea, Rep.,2003,H
-KOR,Korea, Rep.,2004,H
-KOR,Korea, Rep.,2005,H
-KOR,Korea, Rep.,2006,H
-KOR,Korea, Rep.,2007,H
-KOR,Korea, Rep.,2008,H
-KOR,Korea, Rep.,2009,H
-KOR,Korea, Rep.,2010,H
-KOR,Korea, Rep.,2011,H
-KOR,Korea, Rep.,2012,H
-KOR,Korea, Rep.,2013,H
-KOR,Korea, Rep.,2014,H
-KOR,Korea, Rep.,2015,H
-KOR,Korea, Rep.,2016,H
-KOR,Korea, Rep.,2017,H
-KOR,Korea, Rep.,2018,H
-KOR,Korea, Rep.,2019,H
-KOR,Korea, Rep.,2020,H
-KOR,Korea, Rep.,2021,H
-KOR,Korea, Rep.,2022,H
+PRK,North Korea,1999,L
+PRK,North Korea,2000,L
+PRK,North Korea,2001,L
+PRK,North Korea,2002,L
+PRK,North Korea,2003,L
+PRK,North Korea,2004,L
+PRK,North Korea,2005,L
+PRK,North Korea,2006,L
+PRK,North Korea,2007,L
+PRK,North Korea,2008,L
+PRK,North Korea,2009,L
+PRK,North Korea,2010,L
+PRK,North Korea,2011,L
+PRK,North Korea,2012,L
+PRK,North Korea,2013,L
+PRK,North Korea,2014,L
+PRK,North Korea,2015,L
+PRK,North Korea,2016,L
+PRK,North Korea,2017,L
+PRK,North Korea,2018,L
+PRK,North Korea,2019,L
+PRK,North Korea,2020,L
+PRK,North Korea,2021,L
+PRK,North Korea,2022,L
+KOR,South Korea,1999,UM
+KOR,South Korea,2000,UM
+KOR,South Korea,2001,H
+KOR,South Korea,2002,H
+KOR,South Korea,2003,H
+KOR,South Korea,2004,H
+KOR,South Korea,2005,H
+KOR,South Korea,2006,H
+KOR,South Korea,2007,H
+KOR,South Korea,2008,H
+KOR,South Korea,2009,H
+KOR,South Korea,2010,H
+KOR,South Korea,2011,H
+KOR,South Korea,2012,H
+KOR,South Korea,2013,H
+KOR,South Korea,2014,H
+KOR,South Korea,2015,H
+KOR,South Korea,2016,H
+KOR,South Korea,2017,H
+KOR,South Korea,2018,H
+KOR,South Korea,2019,H
+KOR,South Korea,2020,H
+KOR,South Korea,2021,H
+KOR,South Korea,2022,H
 XKX,Kosovo,2008,LM
 XKX,Kosovo,2009,LM
 XKX,Kosovo,2010,LM
@@ -2757,30 +2757,6 @@ LUX,Luxembourg,2019,H
 LUX,Luxembourg,2020,H
 LUX,Luxembourg,2021,H
 LUX,Luxembourg,2022,H
-MAC,Macao SAR, China,1999,H
-MAC,Macao SAR, China,2000,H
-MAC,Macao SAR, China,2001,H
-MAC,Macao SAR, China,2002,H
-MAC,Macao SAR, China,2003,H
-MAC,Macao SAR, China,2004,H
-MAC,Macao SAR, China,2005,H
-MAC,Macao SAR, China,2006,H
-MAC,Macao SAR, China,2007,H
-MAC,Macao SAR, China,2008,H
-MAC,Macao SAR, China,2009,H
-MAC,Macao SAR, China,2010,H
-MAC,Macao SAR, China,2011,H
-MAC,Macao SAR, China,2012,H
-MAC,Macao SAR, China,2013,H
-MAC,Macao SAR, China,2014,H
-MAC,Macao SAR, China,2015,H
-MAC,Macao SAR, China,2016,H
-MAC,Macao SAR, China,2017,H
-MAC,Macao SAR, China,2018,H
-MAC,Macao SAR, China,2019,H
-MAC,Macao SAR, China,2020,H
-MAC,Macao SAR, China,2021,H
-MAC,Macao SAR, China,2022,H
 MDG,Madagascar,1999,L
 MDG,Madagascar,2000,L
 MDG,Madagascar,2001,L
@@ -3021,30 +2997,6 @@ MEX,Mexico,2019,UM
 MEX,Mexico,2020,UM
 MEX,Mexico,2021,UM
 MEX,Mexico,2022,UM
-FSM,Micronesia, Fed. Sts.,1999,LM
-FSM,Micronesia, Fed. Sts.,2000,LM
-FSM,Micronesia, Fed. Sts.,2001,LM
-FSM,Micronesia, Fed. Sts.,2002,LM
-FSM,Micronesia, Fed. Sts.,2003,LM
-FSM,Micronesia, Fed. Sts.,2004,LM
-FSM,Micronesia, Fed. Sts.,2005,LM
-FSM,Micronesia, Fed. Sts.,2006,LM
-FSM,Micronesia, Fed. Sts.,2007,LM
-FSM,Micronesia, Fed. Sts.,2008,LM
-FSM,Micronesia, Fed. Sts.,2009,LM
-FSM,Micronesia, Fed. Sts.,2010,LM
-FSM,Micronesia, Fed. Sts.,2011,LM
-FSM,Micronesia, Fed. Sts.,2012,LM
-FSM,Micronesia, Fed. Sts.,2013,LM
-FSM,Micronesia, Fed. Sts.,2014,LM
-FSM,Micronesia, Fed. Sts.,2015,LM
-FSM,Micronesia, Fed. Sts.,2016,LM
-FSM,Micronesia, Fed. Sts.,2017,LM
-FSM,Micronesia, Fed. Sts.,2018,LM
-FSM,Micronesia, Fed. Sts.,2019,LM
-FSM,Micronesia, Fed. Sts.,2020,LM
-FSM,Micronesia, Fed. Sts.,2021,LM
-FSM,Micronesia, Fed. Sts.,2022,LM
 MDA,Moldova,1999,L
 MDA,Moldova,2000,L
 MDA,Moldova,2001,L
@@ -4444,30 +4396,30 @@ SYR,Syrian Arab Republic,2019,L
 SYR,Syrian Arab Republic,2020,L
 SYR,Syrian Arab Republic,2021,L
 SYR,Syrian Arab Republic,2022,L
-TWN,Taiwan, China,1999,H
-TWN,Taiwan, China,2000,H
-TWN,Taiwan, China,2001,H
-TWN,Taiwan, China,2002,H
-TWN,Taiwan, China,2003,H
-TWN,Taiwan, China,2004,H
-TWN,Taiwan, China,2005,H
-TWN,Taiwan, China,2006,H
-TWN,Taiwan, China,2007,H
-TWN,Taiwan, China,2008,H
-TWN,Taiwan, China,2009,H
-TWN,Taiwan, China,2010,H
-TWN,Taiwan, China,2011,H
-TWN,Taiwan, China,2012,H
-TWN,Taiwan, China,2013,H
-TWN,Taiwan, China,2014,H
-TWN,Taiwan, China,2015,H
-TWN,Taiwan, China,2016,H
-TWN,Taiwan, China,2017,H
-TWN,Taiwan, China,2018,H
-TWN,Taiwan, China,2019,H
-TWN,Taiwan, China,2020,H
-TWN,Taiwan, China,2021,H
-TWN,Taiwan, China,2022,H
+TWN,Taiwan,1999,H
+TWN,Taiwan,2000,H
+TWN,Taiwan,2001,H
+TWN,Taiwan,2002,H
+TWN,Taiwan,2003,H
+TWN,Taiwan,2004,H
+TWN,Taiwan,2005,H
+TWN,Taiwan,2006,H
+TWN,Taiwan,2007,H
+TWN,Taiwan,2008,H
+TWN,Taiwan,2009,H
+TWN,Taiwan,2010,H
+TWN,Taiwan,2011,H
+TWN,Taiwan,2012,H
+TWN,Taiwan,2013,H
+TWN,Taiwan,2014,H
+TWN,Taiwan,2015,H
+TWN,Taiwan,2016,H
+TWN,Taiwan,2017,H
+TWN,Taiwan,2018,H
+TWN,Taiwan,2019,H
+TWN,Taiwan,2020,H
+TWN,Taiwan,2021,H
+TWN,Taiwan,2022,H
 TJK,Tajikistan,1999,L
 TJK,Tajikistan,2000,L
 TJK,Tajikistan,2001,L
@@ -4926,75 +4878,51 @@ VUT,Vanuatu,2019,LM
 VUT,Vanuatu,2020,LM
 VUT,Vanuatu,2021,LM
 VUT,Vanuatu,2022,LM
-VEN,Venezuela, RB,1999,UM
-VEN,Venezuela, RB,2000,UM
-VEN,Venezuela, RB,2001,UM
-VEN,Venezuela, RB,2002,UM
-VEN,Venezuela, RB,2003,UM
-VEN,Venezuela, RB,2004,UM
-VEN,Venezuela, RB,2005,UM
-VEN,Venezuela, RB,2006,UM
-VEN,Venezuela, RB,2007,UM
-VEN,Venezuela, RB,2008,UM
-VEN,Venezuela, RB,2009,UM
-VEN,Venezuela, RB,2010,UM
-VEN,Venezuela, RB,2011,UM
-VEN,Venezuela, RB,2012,UM
-VEN,Venezuela, RB,2013,UM
-VEN,Venezuela, RB,2014,H
-VEN,Venezuela, RB,2015,UM
-VEN,Venezuela, RB,2016,UM
-VEN,Venezuela, RB,2017,UM
-VEN,Venezuela, RB,2018,UM
-VEN,Venezuela, RB,2019,UM
-VNM,Viet Nam,1999,L
-VNM,Viet Nam,2000,L
-VNM,Viet Nam,2001,L
-VNM,Viet Nam,2002,L
-VNM,Viet Nam,2003,L
-VNM,Viet Nam,2004,L
-VNM,Viet Nam,2005,L
-VNM,Viet Nam,2006,L
-VNM,Viet Nam,2007,L
-VNM,Viet Nam,2008,L
-VNM,Viet Nam,2009,LM
-VNM,Viet Nam,2010,LM
-VNM,Viet Nam,2011,LM
-VNM,Viet Nam,2012,LM
-VNM,Viet Nam,2013,LM
-VNM,Viet Nam,2014,LM
-VNM,Viet Nam,2015,LM
-VNM,Viet Nam,2016,LM
-VNM,Viet Nam,2017,LM
-VNM,Viet Nam,2018,LM
-VNM,Viet Nam,2019,LM
-VNM,Viet Nam,2020,LM
-VNM,Viet Nam,2021,LM
-VNM,Viet Nam,2022,LM
-VIR,Virgin Islands (U.S.),1999,H
-VIR,Virgin Islands (U.S.),2000,H
-VIR,Virgin Islands (U.S.),2001,H
-VIR,Virgin Islands (U.S.),2002,H
-VIR,Virgin Islands (U.S.),2003,H
-VIR,Virgin Islands (U.S.),2004,H
-VIR,Virgin Islands (U.S.),2005,H
-VIR,Virgin Islands (U.S.),2006,H
-VIR,Virgin Islands (U.S.),2007,H
-VIR,Virgin Islands (U.S.),2008,H
-VIR,Virgin Islands (U.S.),2009,H
-VIR,Virgin Islands (U.S.),2010,H
-VIR,Virgin Islands (U.S.),2011,H
-VIR,Virgin Islands (U.S.),2012,H
-VIR,Virgin Islands (U.S.),2013,H
-VIR,Virgin Islands (U.S.),2014,H
-VIR,Virgin Islands (U.S.),2015,H
-VIR,Virgin Islands (U.S.),2016,H
-VIR,Virgin Islands (U.S.),2017,H
-VIR,Virgin Islands (U.S.),2018,H
-VIR,Virgin Islands (U.S.),2019,H
-VIR,Virgin Islands (U.S.),2020,H
-VIR,Virgin Islands (U.S.),2021,H
-VIR,Virgin Islands (U.S.),2022,H
+VEN,Venezuela,1999,UM
+VEN,Venezuela,2000,UM
+VEN,Venezuela,2001,UM
+VEN,Venezuela,2002,UM
+VEN,Venezuela,2003,UM
+VEN,Venezuela,2004,UM
+VEN,Venezuela,2005,UM
+VEN,Venezuela,2006,UM
+VEN,Venezuela,2007,UM
+VEN,Venezuela,2008,UM
+VEN,Venezuela,2009,UM
+VEN,Venezuela,2010,UM
+VEN,Venezuela,2011,UM
+VEN,Venezuela,2012,UM
+VEN,Venezuela,2013,UM
+VEN,Venezuela,2014,H
+VEN,Venezuela,2015,UM
+VEN,Venezuela,2016,UM
+VEN,Venezuela,2017,UM
+VEN,Venezuela,2018,UM
+VEN,Venezuela,2019,UM
+VNM,Vietnam,1999,L
+VNM,Vietnam,2000,L
+VNM,Vietnam,2001,L
+VNM,Vietnam,2002,L
+VNM,Vietnam,2003,L
+VNM,Vietnam,2004,L
+VNM,Vietnam,2005,L
+VNM,Vietnam,2006,L
+VNM,Vietnam,2007,L
+VNM,Vietnam,2008,L
+VNM,Vietnam,2009,LM
+VNM,Vietnam,2010,LM
+VNM,Vietnam,2011,LM
+VNM,Vietnam,2012,LM
+VNM,Vietnam,2013,LM
+VNM,Vietnam,2014,LM
+VNM,Vietnam,2015,LM
+VNM,Vietnam,2016,LM
+VNM,Vietnam,2017,LM
+VNM,Vietnam,2018,LM
+VNM,Vietnam,2019,LM
+VNM,Vietnam,2020,LM
+VNM,Vietnam,2021,LM
+VNM,Vietnam,2022,LM
 PSE,West Bank and Gaza,1999,LM
 PSE,West Bank and Gaza,2000,LM
 PSE,West Bank and Gaza,2001,LM
@@ -5019,30 +4947,30 @@ PSE,West Bank and Gaza,2019,LM
 PSE,West Bank and Gaza,2020,LM
 PSE,West Bank and Gaza,2021,LM
 PSE,West Bank and Gaza,2022,UM
-YEM,Yemen, Rep.,1999,L
-YEM,Yemen, Rep.,2000,L
-YEM,Yemen, Rep.,2001,L
-YEM,Yemen, Rep.,2002,L
-YEM,Yemen, Rep.,2003,L
-YEM,Yemen, Rep.,2004,L
-YEM,Yemen, Rep.,2005,L
-YEM,Yemen, Rep.,2006,L
-YEM,Yemen, Rep.,2007,L
-YEM,Yemen, Rep.,2008,L
-YEM,Yemen, Rep.,2009,LM
-YEM,Yemen, Rep.,2010,LM
-YEM,Yemen, Rep.,2011,LM
-YEM,Yemen, Rep.,2012,LM
-YEM,Yemen, Rep.,2013,LM
-YEM,Yemen, Rep.,2014,LM
-YEM,Yemen, Rep.,2015,LM
-YEM,Yemen, Rep.,2016,LM
-YEM,Yemen, Rep.,2017,L
-YEM,Yemen, Rep.,2018,L
-YEM,Yemen, Rep.,2019,L
-YEM,Yemen, Rep.,2020,L
-YEM,Yemen, Rep.,2021,L
-YEM,Yemen, Rep.,2022,L
+YEM,Yemen,1999,L
+YEM,Yemen,2000,L
+YEM,Yemen,2001,L
+YEM,Yemen,2002,L
+YEM,Yemen,2003,L
+YEM,Yemen,2004,L
+YEM,Yemen,2005,L
+YEM,Yemen,2006,L
+YEM,Yemen,2007,L
+YEM,Yemen,2008,L
+YEM,Yemen,2009,LM
+YEM,Yemen,2010,LM
+YEM,Yemen,2011,LM
+YEM,Yemen,2012,LM
+YEM,Yemen,2013,LM
+YEM,Yemen,2014,LM
+YEM,Yemen,2015,LM
+YEM,Yemen,2016,LM
+YEM,Yemen,2017,L
+YEM,Yemen,2018,L
+YEM,Yemen,2019,L
+YEM,Yemen,2020,L
+YEM,Yemen,2021,L
+YEM,Yemen,2022,L
 ZMB,Zambia,1999,L
 ZMB,Zambia,2000,L
 ZMB,Zambia,2001,L
