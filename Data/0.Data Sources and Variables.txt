@@ -1,6 +1,7 @@
 For final data set
 Years: 1999-2022
 Countries: ...?
+Currency: US$
 
 
 GDP_PPP (GDP per capita in US$)
