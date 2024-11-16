@@ -1,0 +1,70 @@
+GDP_PPP (GDP per capita in US$)
+Source:  -> Oskar
+Link:   -> Oskar
+
+
+EducationGDPspending (percentage of country's GDP spent on education).
+	Source:
+Source provided by World Bank Group (2024). 
+"Government expenditure on education, total (% of GDP)" [dataset]. Local currency into US$.
+UNESCO Institute for Statistics (UIS). UIS.Stat Bulk Data Download Service [original].
+	Link:
+https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SE.XPD.TOTL.GD.ZS
+
+
+AvYearsSchooling (the average years of schooling)
+	Source:
+UNDP, Human Development Report (2024) – with minor processing by Our World in Data [dataset].
+UNDP relies on: Barro and Lee (2018), ICF Macro Demographic and Health Surveys (various years), OECD (2023),
+UNESCO Institute for Statistics (2023) and UNICEF Multiple Indicator Cluster Surveys (various years) [original].
+	Link:
+https://ourworldindata.org/grapher/average-years-of-schooling?tab=table&time=1999..latest
+
+
+Continent (on which continent each country is located)
+	Source:
+Kaggle. Countries by Continent (2021).
+	Link:
+https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent/data
+
+
+IncomeGroup (seperating countries into income groups by GNI per capita)
+	Source:
+The World Bank (2024), historical classification by income group. Local currency into US$.
+	Link:
+https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
+
+
+UnemploymentRate (percentage of people in a country that are unemployed)
+	Source:
+Multiple sources compiled by World Bank (2024) – processed by Our World in Data.
+“Unemployment, total (% of total labor force) (modeled ILO estimate)” [dataset].
+International Labour Organization, “World Development Indicators” [original data].
+Human Mortality Database, “Human Mortality Database”; United Nations, “World Population Prospects 2022”;
+United Nations, “World Population Prospects”; Zijdeman et al., “Life Expectancy at birth 2”;
+James C. Riley, “Estimates of Regional and Global Life Expectancy, 1800-2001” [original].
+	Link:
+https://ourworldindata.org/grapher/unemployment-rate
+
+
+LifeExp (Life expectancy at birth by country)
+	Source:
+OECD (2023) – with minor processing by Our World in Data.
+“Life expectancy at birth – OECD – period tables” [dataset].
+OECD, “Life expectancy at birth” [original].
+	Link:
+https://ourworldindata.org/grapher/life-expectancy-at-birth-oecd
+
+
+educationLevel (seperating average years of schooling in three categories)
+No source - dividing available years of Schooling data into: <=5 is low, <=10 is middle, else is high
+
+
+Log_GDP_PPP
+No source - log based on GDP_PPP
+
+
+For final data set
+Years: 1999-2022
+Countries: ...?
+
