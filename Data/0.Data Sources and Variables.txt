@@ -1,3 +1,8 @@
+For final data set
+Years: 1999-2022
+Countries: ...?
+
+
 GDP_PPP (GDP per capita in US$)
 Source:  -> Oskar
 Link:   -> Oskar
@@ -62,9 +67,4 @@ No source - dividing available years of Schooling data into: <=5 is low, <=10 is
 
 Log_GDP_PPP
 No source - log based on GDP_PPP
-
-
-For final data set
-Years: 1999-2022
-Countries: ...?
 
