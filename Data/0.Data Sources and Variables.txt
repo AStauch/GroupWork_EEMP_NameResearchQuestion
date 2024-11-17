@@ -1,21 +1,12 @@
 For final data set
 Years: 1999-2022
-Countries: 152
+Countries: 156
 Currency: US$
 
 
 GDP_PPP (GDP per capita in US$)
 Source:  -> Oskar
 Link:   -> Oskar
-
-
-EducationGDPspending (percentage of country's GDP spent on education).
-	Source:
-Source provided by World Bank Group (2024). 
-"Government expenditure on education, total (% of GDP)" [dataset]. Local currency into US$.
-UNESCO Institute for Statistics (UIS). UIS.Stat Bulk Data Download Service [original].
-	Link:
-https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SE.XPD.TOTL.GD.ZS
 
 
 AvYearsSchooling (the average years of schooling)
@@ -32,13 +23,6 @@ Continent (on which continent each country is located)
 Kaggle. Countries by Continent (2021).
 	Link:
 https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent/data
-
-
-IncomeGroup (seperating countries into income groups by GNI per capita)
-	Source:
-The World Bank (2024), historical classification by income group. Local currency into US$.
-	Link:
-https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
 
 
 UnemploymentRate (percentage of people in a country that are unemployed)
@@ -70,10 +54,30 @@ Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.
 https://ourworldindata.org/urbanization
 
 
-educationLevel (seperating average years of schooling in three categories)
-No source - dividing available years of Schooling data into: <=5 is low, <=10 is middle, else is high
-
-
 Log_GDP_PPP
 No source - log based on GDP_PPP
+
+
+
+Variables in dataset not focused on:
+
+
+[[IncomeGroup (seperating countries into income groups by GNI per capita)
+	Source:
+The World Bank (2024), historical classification by income group. Local currency into US$.
+	Link:
+https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups]]
+
+
+[[educationLevel (seperating average years of schooling in three categories)
+No source - dividing available years of Schooling data into: <=5 is low, <=10 is middle, else is high]]
+
+
+[[EducationGDPspending (percentage of country's GDP spent on education).
+	Source:
+Source provided by World Bank Group (2024). 
+"Government expenditure on education, total (% of GDP)" [dataset]. Local currency into US$.
+UNESCO Institute for Statistics (UIS). UIS.Stat Bulk Data Download Service [original].
+	Link:
+https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SE.XPD.TOTL.GD.ZS]]
 
