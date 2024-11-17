@@ -62,6 +62,14 @@ OECD, “Life expectancy at birth” [original].
 https://ourworldindata.org/grapher/life-expectancy-at-birth-oecd
 
 
+UrbanizationRate (share of people living urban areas)
+	Source:
+Hannah Ritchie, Veronika Samborska and Max Roser (2024) - “Urbanization”.
+Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/urbanization' [Online Resource].
+	Link:
+https://ourworldindata.org/urbanization
+
+
 educationLevel (seperating average years of schooling in three categories)
 No source - dividing available years of Schooling data into: <=5 is low, <=10 is middle, else is high
 
