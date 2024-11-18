@@ -4,9 +4,9 @@ Countries: 156
 Currency: US$
 
 
-GDP_PPP (GDP per capita in US$)
-Source:  -> Oskar
-Link:   -> Oskar
+GDP_PPP (GDP per capita in US$ PPP)
+Source: World Bank. World Development Indicators: GDP per capita, PPP (2024).
+Link: https://databank.worldbank.org/source/world-development-indicators/Series/NY.GDP.PCAP.PP.KD
 
 
 AvYearsSchooling (the average years of schooling)
