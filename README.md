@@ -10,4 +10,5 @@ Alternative hypothisis: education has an association with/ impact on GDP.
 
 
 *--->> our presentation slides and the final jupyter notebook is in the folder:*
-FINAL:
+
+0. FINAL_Material_Slides & Notebook
