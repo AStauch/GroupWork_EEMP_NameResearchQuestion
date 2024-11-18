@@ -7,3 +7,7 @@ The question we try to answer is: the predictive power of education on GDP (GDP 
 Our null-hypothesis is: education has no association with/ impact on GDP.
 
 Alternative hypothisis: education has an association with/ impact on GDP.
+
+
+--->> our presentation slides and the final jupyter notebook is in the folder:
+FINAL:
