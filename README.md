@@ -1,4 +1,11 @@
 # GroupWork_EEMP_NameResearchQuestion
+
+*--->> our presentation slides and the final jupyter notebook is in the folder:*
+
+0. FINAL_Material_Slides & Notebook
+
+
+
 This is a group work project in the course "The empirical evaluation of management practices".
 It aims to apply the concepts and methods learned in class to a data set of our choice.
 
