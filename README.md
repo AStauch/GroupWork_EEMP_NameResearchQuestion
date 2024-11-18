@@ -9,5 +9,5 @@ Our null-hypothesis is: education has no association with/ impact on GDP.
 Alternative hypothisis: education has an association with/ impact on GDP.
 
 
---->> our presentation slides and the final jupyter notebook is in the folder:
+*--->> our presentation slides and the final jupyter notebook is in the folder:*
 FINAL:
